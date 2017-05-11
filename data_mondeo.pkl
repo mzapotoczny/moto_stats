@@ -1,0 +1,15237 @@
+((lp1
+(S'www.olx.pl'
+S'ford-mondeo-kombi-gaz-CID5-IDmadbQ'
+tp2
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-fuul-opcja-skora-czujnik-cofania-wersja-ghia-1-lakier-CID5-IDlWwWK'
+tp3
+a(S'www.olx.pl'
+S'ladne-i-zadbane-mondeo-CID5-IDmabre'
+tp4
+a(S'www.otomoto.pl'
+S'ford-mondeo-naped-awd-4x4-ID6yTx87'
+tp5
+a(S'www.otomoto.pl'
+S'ford-mondeo-duza-navi-convers-oplacony-ID6yOc0t'
+tp6
+a(S'www.otomoto.pl'
+S'ford-mondeo-zadbany-klima-1-8-lpg-gaz-przeglad-do-04-2018-ID6yQ0Jn'
+tp7
+a(S'www.otomoto.pl'
+S'ford-mondeo-tdci-125km-6-biegow-serwisowany-navi-ID6yS0FJ'
+tp8
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-mk-iii-2-0-tddi-sprawny-ID6ySLcz'
+tp9
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-benzyna-ID6yQdO9'
+tp10
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-benzyna-klimatyzacja-zamiana-ID6yQg2d'
+tp11
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yQXNl'
+tp12
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-11-2008-oplacony-z-niemiec-serwis-w-ford-do-konca-ID6yRmMZ'
+tp13
+a(S'www.olx.pl'
+S'ford-mondeo-mk2-bardzo-ladny-1-wlasciciel-klimatyzacja-CID5-IDm7sO2'
+tp14
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-krajowy-serwisowany-automat-2-0-203-kw-ID6ySL9T'
+tp15
+a(S'www.olx.pl'
+S'sprzedam-ford-mondeo-mk5-CID5-IDma7Jm'
+tp16
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-CID5-IDma74K'
+tp17
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-diesel-titanium-perla-niski-przebieg-CID5-IDlIMh0'
+tp18
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDma7d4'
+tp19
+a(S'www.otomoto.pl'
+S'ford-mondeo-tempomat-podgrzewana-szyba-i-fotele-cd-bluetooth-papis-ID6ySZx1'
+tp20
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6i-przebieg-129000-km-ID6yS0oP'
+tp21
+a(S'www.otomoto.pl'
+S'ford-mondeo-wersja-ghia-ID6yTvYt'
+tp22
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yTx1j'
+tp23
+a(S'www.otomoto.pl'
+S'ford-mondeo-3-0-v6-st220-bogata-opcja-titanium-bezwypadek-oplacony-ID4p70Yp'
+tp24
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-tdci-oryginal-z-holandii-potwierdzenie-przebiegu-nap-CID5-IDm9Awi'
+tp25
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-rewelacyjny-stan-bezwypadkowy-bez-wkladu-finansowego-ID6yPTFw'
+tp26
+a(S'www.otomoto.pl'
+S'ford-mondeo-okazja-super-wyglad-wersja-st-klima-sprawna-ID6yTx7n'
+tp27
+a(S'www.otomoto.pl'
+S'ford-mondeo-ladne-zadbane-mondeo-ID6yTx9w'
+tp28
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-titanium-2-0tdci-140-km-CID5-IDlKRPm'
+tp29
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8benz-lpg-lift-2004r-okazja-ID6yTx6B'
+tp30
+a(S'www.olx.pl'
+S'ford-mondeo-lpg-CID5-IDkSG8e'
+tp31
+a(S'www.olx.pl'
+S'sprzedam-CID5-IDm9w7O'
+tp32
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yMECb'
+tp33
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-benzyna-gaz-CID5-IDma1wO'
+tp34
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-mk4-biale-kombi-2010r-2-0-tdci-140km-ID6yS08H'
+tp35
+a(S'www.otomoto.pl'
+S'ford-mondeo-ghia-x-limited-szyberdach-lancuch-rozrzadu-ID6ySKTr'
+tp36
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDl4KfI'
+tp37
+a(S'www.otomoto.pl'
+S'ford-mondeo-okazja-1-8b-polski-salon-bezwypadkowy-bez-wkladu-ID6yP19r'
+tp38
+a(S'www.otomoto.pl'
+S'ford-mondeo-salonowy-1-wlasciciel-serwisowany-convers-2-0-tdci-140-km-ID6yTvyx'
+tp39
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-1-8-lpg-hatchback-CID5-IDma15M'
+tp40
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci140kmghianavioryginalny-przebiegstan-idealny-ID6yTvxR'
+tp41
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-kombi-2001r-1-8-lpg-lovato-smart-doinwestowany-CID5-IDma0LI'
+tp42
+a(S'www.otomoto.pl'
+S'ford-mondeo-tdci-130km-kombi-ID6yPmaL'
+tp43
+a(S'www.otomoto.pl'
+S'ford-mondeo-mk-4-navi-alu-czujniki-parkowania-skrzynia-6-100-oryginal-ID6yQRbF'
+tp44
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-2010-2-0-tdci-niemcy-idealny-CID5-IDl9lEK'
+tp45
+a(S'www.olx.pl'
+S'ford-mondeo-mk2-kombi-2-0-okazja-CID5-IDma01a'
+tp46
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-lift-2-0-tdci-130km-CID5-IDjP4hD'
+tp47
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6-l-lpg-ekonomiczny-prywatny-ID6ySKOD'
+tp48
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yS00j'
+tp49
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-136kmklimaelektrykaalufelgi-CID5-IDm8F4q'
+tp50
+a(S'www.otomoto.pl'
+S'ford-mondeo-mk5-titanium-full-240km-audio-sony-skora-alu-18-lopatki-kamera-ID6yRZZT'
+tp51
+a(S'www.otomoto.pl'
+S'ford-mondeo-zadbany-ID6yRZXF'
+tp52
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-ghia-idealny-ID6ySKN7'
+tp53
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-0-tdci-kombi-CID5-IDlQN3o'
+tp54
+a(S'www.olx.pl'
+S'ford-mondeo-trend-2-0-lpg-145-km-sedan-polskory-CID5-IDm9YDG'
+tp55
+a(S'www.olx.pl'
+S'sprzedam-zamienie-ford-mondeo-2-0-tddi-2001-zwykla-pompa-CID5-IDlRYpI'
+tp56
+a(S'www.olx.pl'
+S'tylko-rozsadne-propozycje-CID5-IDm5A3G'
+tp57
+a(S'www.otomoto.pl'
+S'ford-mondeo-lpg-klima-bezwypadkowy-bez-korozji-podgrzewana-szyba-przednia-ID6yTvo3'
+tp58
+a(S'www.otomoto.pl'
+S'ford-mondeo-anglik-1-8-benzyna-v5c-ID6yTvFB'
+tp59
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-ghia-2-0-benzyna-lpg-2027-full-opcja-zamiana-CID5-IDm9VVI'
+tp60
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium-x-najbogatsza-wersja-bezwypadkowy-zadbany-ID6yPzMP'
+tp61
+a(S'www.otomoto.pl'
+S'ford-mondeo-tddi-klima-ID6yRZOl'
+tp62
+a(S'www.otomoto.pl'
+S'ford-mondeo-xenon-navi-skora-szyber-titanium-2xpdc-keyless-grzane-fotele-full-ID6yTvg1'
+tp63
+a(S'www.otomoto.pl'
+S'ford-mondeo-mondeo-kombi-ghia-2-0-tdci-ID6yTvDF'
+tp64
+a(S'www.olx.pl'
+S'ford-mondeo-2007r-bardzo-dobry-stan-CID5-IDm9WXc'
+tp65
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-mk3-2-0-tddi-ID6yJUg3'
+tp66
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-2-0-tddi-ID6ySKFh'
+tp67
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeoo-2-0-benzyna-gaz-salon-polska-ID6ySvS9'
+tp68
+a(S'www.otomoto.pl'
+S'ford-mondeo-sprzedam-ford-mondeo-1-8-td-ID6yRZIp'
+tp69
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-CID5-IDm9W7c'
+tp70
+a(S'www.olx.pl'
+S'ford-mondeo-1-8-diesel-90km-CID5-IDm9W80'
+tp71
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-2-0-tdci-ghia-ID6yRZGZ'
+tp72
+a(S'www.otomoto.pl'
+S'ford-mondeo-ambiente-2-0tdci-140km-salon-pl-fv23-1wl-gwarancja-ID6yKK6h'
+tp73
+a(S'www.otomoto.pl'
+S'ford-mondeo-wersja-gold-2-0-tdci-140km-1-wlasciciel-krajowy-rok-2013-ID6ySYJf'
+tp74
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-benzyna-ghia-klimatronic-kombi-z-niemiec-oplacone-ID6yMDc5'
+tp75
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-salon-polska-klimatronic-bezkolizyjny-ID6ySvQf'
+tp76
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-lpg-gaz-sekwencja-klimatyzacja-ID6ySvPw'
+tp77
+a(S'www.olx.pl'
+S'ladny-ford-mondeo-2004-rok-CID5-IDlRijO'
+tp78
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yRZC3'
+tp79
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-benzyna-sprowadzony-oryginalny-przebieg-ID6yTv83'
+tp80
+a(S'www.otomoto.pl'
+S'ford-mondeo-silver-x-2013r-salon-polska-ID6yOnfB'
+tp81
+a(S'www.olx.pl'
+S'ford-mondeo-2-0tdci-130km-2006-2007-jedyny-taki-na-olx-CID5-IDfdoUp'
+tp82
+a(S'www.otomoto.pl'
+S'ford-mondeo-2016-rok-1-5-ecoboost-160-km-automat-nawigacja-klimatronic-ID6yMlIf'
+tp83
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yQdTT'
+tp84
+a(S'www.olx.pl'
+S'mondeo-mk3-2-0-146km-2003r-CID5-IDlYggu'
+tp85
+a(S'www.otomoto.pl'
+S'ford-mondeo-mk3-ghia-silnik-ok-ID6yRZwp'
+tp86
+a(S'www.otomoto.pl'
+S'ford-mondeo-auto-bezwypadkowe-super-stran-ID6yKcx7'
+tp87
+a(S'www.otomoto.pl'
+S'ford-mondeo-sprzedam-pieknego-forda-mondeo-1-8benz-125km-stan-idealny-bez-wkladu-ID6yPgXZ'
+tp88
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yTvad'
+tp89
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-130km-ghia-klima-2-kpl-kol-lato-zima-dlugie-oplaty-ID6ySvCl'
+tp90
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-benzyna-145km-CID5-IDm9Ryk'
+tp91
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-140km-salon-pl-serwis-aso-gwarancja-fv23-ID6yPWbF'
+tp92
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-140km-titanium-ID6yTvjF'
+tp93
+a(S'www.olx.pl'
+S'mk3-mondeo-bogata-wersja-ghia-CID5-IDm9Q24'
+tp94
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-90km-tddi-jezdzi-wwa-tanio-ID6yKfTL'
+tp95
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yRZcD'
+tp96
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-benzyna-klimatronic-niemcy-ID6yRZjt'
+tp97
+a(S'www.otomoto.pl'
+S'ford-mondeo-kombi-ID6yTveX'
+tp98
+a(S'www.otomoto.pl'
+S'ford-mondeo-niezawodne-mondeo-mk3-stan-dobry-ID6yTve9'
+tp99
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-0-tdci-CID5-IDm9Ns4'
+tp100
+a(S'www.otomoto.pl'
+S'ford-mondeo-idealne-sprowadzone-benzyna-climatronic-ks-serwisowa-jeden-wlasciciel-ID6ySYgN'
+tp101
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-6-biegow-climatronic-ID6yRxp3'
+tp102
+a(S'www.olx.pl'
+S'ford-mondeo-kombi-1-8-115km-1993r-hak-zadbany-oplaty-wazne-CID5-IDlEwwM'
+tp103
+a(S'www.olx.pl'
+S'opel-vectra-c-2-2-dti-125km-2002r-sedan-CID5-IDlDhYI'
+tp104
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-2011-ID6yTwWN'
+tp105
+a(S'www.olx.pl'
+S'ford-mondeo-1-8td-zamiana-CID5-IDm9OlG'
+tp106
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-145km-titanium-plus-serwisowany-bezwypadkowy-oplacony-ID6yTwIP'
+tp107
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-tddi-115km-elektryka-zadbany-okazja-CID5-IDkWeHS'
+tp108
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-serwisowany-w-aso-ID6yRZbr'
+tp109
+a(S'www.olx.pl'
+S'samochod-CID5-IDm9NV6'
+tp110
+a(S'www.otomoto.pl'
+S'ford-mondeo-zadbany-pelne-wyposazenie-klima-wersja-ghia-ID6yOAQ5'
+tp111
+a(S'www.otomoto.pl'
+S'ford-mondeo-gwarancja-ID6yKxXH'
+tp112
+a(S'www.otomoto.pl'
+S'ford-mondeo-klimatronik-welur-zamiana-2-0-benzyna-ID4oVMZU'
+tp113
+a(S'www.otomoto.pl'
+S'ford-mondeo-sedan-titanium-convers-skora-sprowadzony-2-0-benzyna-ID6yTv4x'
+tp114
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-titanium-sport-2-0-tdci-180km-idealny-ID6yRZ2t'
+tp115
+a(S'www.olx.pl'
+S'sprzedam-ford-mondeo-CID5-IDlON8v'
+tp116
+a(S'www.otomoto.pl'
+S'ford-mondeo-lift-1-8-benzyna-ladne-auto-1-wlasciciel-od-nowosci-salon-rp-ID6yRZ27'
+tp117
+a(S'www.olx.pl'
+S'ford-mondeo-3-CID5-IDlEeOO'
+tp118
+a(S'www.otomoto.pl'
+S'ford-mondeo-zamiana-ID6yOgUN'
+tp119
+a(S'www.otomoto.pl'
+S'ford-mondeo-2006-r-2-0-tdci-115-ps-stan-bdb-okazja-bezwypadkowy-ID6yQ1OZ'
+tp120
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-0-b-lpg-bezwypadkowy-lpg-gwarancja-CID5-IDlEdkS'
+tp121
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6ySY3j'
+tp122
+a(S'www.olx.pl'
+S'ford-mondeo-mkii-1-8-diesel-kombi-CID5-IDlQIyO'
+tp123
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yTwlz'
+tp124
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-okazja-CID5-IDm67EY'
+tp125
+a(S'www.otomoto.pl'
+S'ford-mondeo-115-km-ID6yK0Kh'
+tp126
+a(S'www.otomoto.pl'
+S'ford-mondeo-ghia-ID6yTwhf'
+tp127
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-2-0-tdci-zobacz-stan-ID6yRYTd'
+tp128
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-tdci-125km-silver-x-salon-pl-gwarancja-ID6yLIc9'
+tp129
+a(S'www.otomoto.pl'
+S'ford-mondeo-super-stan-2-0-tddi-klima-alumy-zarejestrowany-elektryka-ID6yRYPh'
+tp130
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-tdci-CID5-IDlAhIM'
+tp131
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-tdmocno-doinwestowanyaluhakorg-przebieg-okazja-do-soboty-ID6yTjBx'
+tp132
+a(S'www.olx.pl'
+S'ford-mondeo-kombi-ghia-2-5-v6-automat-1999-w-pelni-sprawny-okazja-CID5-IDm9Hzy'
+tp133
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDm9GPK'
+tp134
+a(S'www.otomoto.pl'
+S'ford-mondeo-salon-pl-1-8-diesel-ID6yRYEF'
+tp135
+a(S'www.otomoto.pl'
+S'ford-mondeo-sprzedam-piekne-st220-silnik-po-kapitalce-doinfestowayn-ID6yTwdF'
+tp136
+a(S'www.otomoto.pl'
+S'ford-mondeo-mk3-2002r-2-0-145km-ghia-jasna-skora-najbogarsza-opcja-wyposazenia-ID6yTwFb'
+tp137
+a(S'www.otomoto.pl'
+S'ford-mondeo-mk4-2-0-tdci-140km-jak-nowy-ID6yRV6H'
+tp138
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium-skorzana-tapicerka-gps-automat-powershift-ID6yLv59'
+tp139
+a(S'www.olx.pl'
+S'ford-fusion-mk5-hybryda-CID5-IDlvicu'
+tp140
+a(S'www.otomoto.pl'
+S'ford-mondeo-silverx-2-0tdci-1wl-salon-polska-serwis-tylko-aso-fa23-ID6yKJNW'
+tp141
+a(S'www.olx.pl'
+S'ford-mondeo-mk-3-sprzedam-zamienie-CID5-IDm9FiE'
+tp142
+a(S'www.otomoto.pl'
+S'ford-mondeo-power-shift-nawi-alusy-parktronik-manetki-f1-klimatronik-tani-kredyt-ID6yPVwD'
+tp143
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-0-tdci-2002r-okazja-CID5-IDm8opV'
+tp144
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-ID6yR5RL'
+tp145
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-trend-x100-2-0-tdci-mk3-ID6yTuTx'
+tp146
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-mk4-2-0-tdci-140km-jak-nowy-ID6yRYqL'
+tp147
+a(S'www.otomoto.pl'
+S'ford-mondeo-mondeo-mk2-2-5-v6-duratec-ghia-lpg-brc-keihin-ID6yNwH9'
+tp148
+a(S'www.otomoto.pl'
+S'ford-mondeo-piekne-z-niemiec-wersja-ghia-ID6yQXL9'
+tp149
+a(S'www.otomoto.pl'
+S'ford-mondeo-turnier-2-0-tdci-bezwypadkowy-uzywany-prywatnie-bardzo-zadbany-ID6yK9vh'
+tp150
+a(S'www.otomoto.pl'
+S'ford-mondeo-2003-r-bogate-wyposazenie-ID6ySwFL'
+tp151
+a(S'www.otomoto.pl'
+S'ford-mondeo-ladny-zadbany-conversy-2-0-oplacony-full-ID6ySFUt'
+tp152
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-130km-ID6yTwm3'
+tp153
+a(S'www.otomoto.pl'
+S'ford-mondeo-ghia-xenon-klimatronic-2-0-145km-2003-ID6yRYnz'
+tp154
+a(S'www.olx.pl'
+S'sprzedam-CID5-IDm5Mhe'
+tp155
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-automat-navi-klimatronic-tempomat-parktronic-ID6yTuk5'
+tp156
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-diesel-titanium-convers-nowe-opony-CID5-IDm8tue'
+tp157
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-2-tdci-155km-ghia-serwis-super-stan-z-niemiec-oplacony-ID6yFdsz'
+tp158
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-115-km-ghia-chrom-ladny-zadbany-ID6yT8vd'
+tp159
+a(S'www.olx.pl'
+S'ladny-ford-mondeo-mk3-1-8-benzyna-hatchback-klimatronik-2001-rok-CID5-IDm9C32'
+tp160
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-mk3-2-0-diesel-ID6ySJLw'
+tp161
+a(S'www.olx.pl'
+S'niezawodny-ford-mondeo-kombi-mk3-2003r-automat-CID5-IDlRW8S'
+tp162
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mozdeo-z-niemiec-ID6ySJJ5'
+tp163
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yTuGH'
+tp164
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-tdci-125km-i-wlasciciel-pl-przebieg-175-tys-km-2010-ID6yNETp'
+tp165
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-2008-1-8-tdci-uszkodzony-CID5-IDm9A2m'
+tp166
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-140km-titanium-salon-polska-faktura-vat-23-ID6yRj7B'
+tp167
+a(S'www.otomoto.pl'
+S'ford-mondeo-zadbany-klima-bezwypadek-prywatnie-ID6ySwqB'
+tp168
+a(S'www.olx.pl'
+S'ford-monedo-2010rklimael-szybyx4aibagradiotempomat6-biegzamiana-CID5-IDm9A7M'
+tp169
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-benzyna-klima-sprowadzony-mega-okazja-ID6yRYcd'
+tp170
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-rok-produkcji-2008-CID5-IDm5Yjv'
+tp171
+a(S'www.olx.pl'
+S'ford-mondeo-1-8td-sprzedam-CID5-IDm9znU'
+tp172
+a(S'www.olx.pl'
+S'ford-mondeo-2005-2-0tdci-130km-6biegow-CID5-IDm4fg8'
+tp173
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6-16-v-lpg-sekwencja-roczna-doinwestowany-ID6yTuyx'
+tp174
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yTuy7'
+tp175
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium2-0tdci-180km-automat-jak-nowy-sprzedaje-autoryzow-salon-forda-ID6yR5ZB'
+tp176
+a(S'www.olx.pl'
+S'po-oplatach-bezwypadkowy-100-zadbany-CID5-IDjDyNT'
+tp177
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-2-tdci-2006r-CID5-IDkw3II'
+tp178
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-2-tdci-200km-titanim-pakiet-sport-gwarancja-salon-pl-plichta-gdynia-ID6ySwgt'
+tp179
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-180km-dwa-lata-gwarancji-ID6yR29p'
+tp180
+a(S'www.otomoto.pl'
+S'ford-mondeo-st200-2-5-v6-z-gazem-ID6yTuSH'
+tp181
+a(S'www.olx.pl'
+S'ford-mondeo-2-0tdci-115km-2005r-zamiana-CID5-IDlML3a'
+tp182
+a(S'www.olx.pl'
+S'ford-mondeo-2003r-2-0-tddi-115km-CID5-IDm9r2g'
+tp183
+a(S'www.otomoto.pl'
+S'ford-mondeo-mondeo-1-8-tdci-convers-6-biegowa-zamiana-na-bmw-ID6yNV0L'
+tp184
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6-benzyna-serwis-aso-ford-bezwypadkowy-ideal-iwlasciciel-ID6yz4yj'
+tp185
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8tdci-titanium-2008-125ps-ID6yRXUt'
+tp186
+a(S'www.olx.pl'
+S'samochod-CID5-IDlvxSg'
+tp187
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDicLKH'
+tp188
+a(S'www.olx.pl'
+S'ford-mondeo-mk2-1-8-d-klima-2000r-CID5-IDlTS5O'
+tp189
+a(S'www.olx.pl'
+S'sprzedam-ford-mondeo-CID5-IDlP4lM'
+tp190
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-tddi-2001-r-ID6yQsOX'
+tp191
+a(S'www.otomoto.pl'
+S'ford-mondeo-piekny-zadbany-ID6yEool'
+tp192
+a(S'www.otomoto.pl'
+S'ford-mondeo-bardzodobry-stan-techniczny-i-wizualnygaz-niezawodnybogate-wyposazenie-ID6ySJp7'
+tp193
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-tddi-115km-skory-elektryka-full-okazja-CID5-IDiCNpF'
+tp194
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDlbBoi'
+tp195
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0b-automat-alu-klimatronic-ghia-po-oplatach-ID6yN82l'
+tp196
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-st-uszkodzony-ID6yTu9P'
+tp197
+a(S'www.otomoto.pl'
+S'ford-mondeo-bezwypadkowy-pierwszy-wlasciciel-faktura-vat-salon-polska-ID6yO4Sj'
+tp198
+a(S'www.otomoto.pl'
+S'ford-mondeo-lpg-sprawny-okazia-ID6yTut5'
+tp199
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-163km-titanium-salon-pl-f-vat-23-ID6yTu9l'
+tp200
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-16v-ghia-z-niemiec-bez-rdzy-serwisowany-135tys-km-ID6yTu9t'
+tp201
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-pierwsza-rejestracja-2009-udokumentowany-przebieg-ID6yTu8b'
+tp202
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-16v-kombi-ghia-CID5-IDm9rMQ'
+tp203
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-CID5-IDm9kOK'
+tp204
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8tdci-101km-trendx-alu-serwisowany-do-konca-gwarancja-3mce-ID6yKch7'
+tp205
+a(S'www.otomoto.pl'
+S'ford-mondeo-2016-titanium-2-0ecoboost-245-km-stoi-w-polsce-oplacone-clo-vat-akcyza-ID6ySJh9'
+tp206
+a(S'www.olx.pl'
+S'ford-mondeo-2-0tdci-bez-rdzy-bezwypadek-stan-bdb-lublin-CID5-IDlHsoO'
+tp207
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-140km-titanium-salon-polska-faktura-vat-23-ID6yRirP'
+tp208
+a(S'www.olx.pl'
+S'piekny-ford-mondeo-2-0tdci-ghia-automat-CID5-IDhiu35'
+tp209
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-CID5-IDlAicm'
+tp210
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6115km-navi-bluetooth-grzane-fotele-econetic-ledygwarancja-ID6yIyaP'
+tp211
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8125kmbez-dpf-alu-navi-bluetooth-lift-isofixgwarancja-ID6yDZ4h'
+tp212
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-lift-2-0-tdci-130km-uszkodzone-wtryski-lub-pompa-CID5-IDm9oQO'
+tp213
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-145-klima-alu-oplacony-bardzo-dobry-stan-CID5-IDkX5Pu'
+tp214
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-130km-bezwypadkowy-od-prywartnej-osoby-szwajcar-pilnie-ID6yQnWR'
+tp215
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-vignale-2-0-tdci-180-km-powershift-awd-vignale-4d-ID6yTtUJ'
+tp216
+a(S'www.olx.pl'
+S'ford-mondeo-kombi-mk4-1-6-tdci-11r-lift-led-CID5-IDm94Li'
+tp217
+a(S'www.olx.pl'
+S'ford-mondeo-2001-1-8-gaz-CID5-IDm99Za'
+tp218
+a(S'www.olx.pl'
+S'salon-polska-uklad-paliwowy-po-regeneracji-CID5-IDm8DKu'
+tp219
+a(S'www.otomoto.pl'
+S'ford-mondeo-fusion-ID6yL6Vd'
+tp220
+a(S'www.otomoto.pl'
+S'ford-mondeo-salon-polska-faktura-vat-23-ID6yP6BT'
+tp221
+a(S'www.otomoto.pl'
+S'ford-mondeo-mondeo-2-0tdci-pelna-opcja-z-nav-tapicerka-alkantara-szwajcar-ID6yTufF'
+tp222
+a(S'www.otomoto.pl'
+S'ford-mondeo-klimatronic-elektryka-1-8-benzyna-serwis-z-niemiec-oplacone-ID6ySJ3j'
+tp223
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDm9mFs'
+tp224
+a(S'www.otomoto.pl'
+S'ford-mondeo-ghia-ID6ySJ1b'
+tp225
+a(S'www.olx.pl'
+S'osobowe-CID5-IDm4dwq'
+tp226
+a(S'www.otomoto.pl'
+S'ford-mondeo-lift-1-6-tdci-gwarancja-i-wlasciciel-f-ra-vat-23-salon-polska-ID6yRXgD'
+tp227
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2007r-salon-pl-CID5-IDlBrw8'
+tp228
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2004rok-1-8-gaz-zamiana-na-automat-CID5-IDlNcUe'
+tp229
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-5i-175km-ID6yRXdh'
+tp230
+a(S'www.otomoto.pl'
+S'ford-mondeo-warto-przeczytac-opis-nie-wymaga-inwestycji-w-naprawy-warto-ID6yQYe9'
+tp231
+a(S'www.otomoto.pl'
+S'ford-mondeo-bezwypadkowy-titanium-x-2-0-diesel-tdci-140-km-convers-vat-23-ID6yRX7P'
+tp232
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-150tdci-bogata-wersja-edition-wyprzedaz-rocznika-2016-w-aso-rabat-ID6yPeUF'
+tp233
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6-tdci-historia-serwisowa-aso-podgrzewane-fotele-nawigacja-ID6yBvg3'
+tp234
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-140km-silver-x-plus-salon-pl-fv23-ID6yQsed'
+tp235
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDlZkLi'
+tp236
+a(S'www.otomoto.pl'
+S'ford-mondeo-super-stan-alufelga-ID6yTtyR'
+tp237
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-16v-145-km-ghia-ID6yTtSl'
+tp238
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-140km-salon-polska-2-x-parktronic-ID6yME5D'
+tp239
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-3-klimatronic-alus-fak-vat-23-gwarancja-ID6yHWn7'
+tp240
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-16v-klimatronic-alus-gwarancja-ID6yMk9W'
+tp241
+a(S'www.otomoto.pl'
+S'ford-mondeo-ghia-moge-naprawic-na-gotowo-ID6ySIN3'
+tp242
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-klima-navi-alusy-bez-korozji-ID6yPjEP'
+tp243
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-tdci-ekonomia-i-wygoda-ID6yQ3Nb'
+tp244
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6-t-titanium-1wl-salon-pl-gwarancja-f-vat-120-tys-km-ID6yTtSN'
+tp245
+a(S'www.otomoto.pl'
+S'ford-mondeo-kombi-1-6-gaz-sekwencja-klima-stan-bardzo-dobry-bogata-wersja-ID6yRVZl'
+tp246
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yMxWt'
+tp247
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-140km-titaniumx-navi-convers-bardzo-zadbany-serwis-oplacony-ID6ySIKH'
+tp248
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8tdci-125km-klimatronic-alu-convers-oplacone-gwarancja-ID6yR60f'
+tp249
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-exklusiw-skrzynia-6-biegoowa-okazja-ID6yMu2h'
+tp250
+a(S'www.otomoto.pl'
+S'ford-mondeo-ghia-2-0tdci-130km-zarejestrowany-bezwypadkowy-stan-bdb-ID6yOvI3'
+tp251
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium-s-ID6yOD6j'
+tp252
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-140km-titanium-salon-polska-faktura-vat-23-ID6yRhI5'
+tp253
+a(S'www.otomoto.pl'
+S'ford-mondeo-lifting-jasny-srodek-stan-idealny-bogate-wyposazenie-serwisowany-ID6yxq3r'
+tp254
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-0tdci-w-bdb-stanie-z-waznymi-oplatami-CID5-IDm9gHa'
+tp255
+a(S'www.otomoto.pl'
+S'ford-mondeo-zamiana-ghia-2-0-benzyna-145km-ID4oVdEi'
+tp256
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2006r-CID5-IDm9gc2'
+tp257
+a(S'www.olx.pl'
+S'ford-mondeo-kombi-cena-brutto-CID5-IDioIAh'
+tp258
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium-2-0-klimatronic-ID6yQADb'
+tp259
+a(S'www.olx.pl'
+S'ford-mondeo-2-2-tdci-2005-klima-CID5-IDm9ffG'
+tp260
+a(S'www.otomoto.pl'
+S'ford-mondeo-ze-szwajcarii-ID6yPZ0b'
+tp261
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-benzyna-125km-klimatronic-elektryka-2xkpl-kol-ID6yK6Hh'
+tp262
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6t-titanium-160km-salonpl-aso-fv23-ID6yTcvD'
+tp263
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-2-0-tdci-navi-start-stop-sunroof-ID6yRVmT'
+tp264
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-titanium-140km-salonpl-aso-fv23-ID6yTcD9'
+tp265
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-ID6ySIA9'
+tp266
+a(S'www.olx.pl'
+S'zamienie-lub-sprzedam-CID5-IDlPsDi'
+tp267
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-ghia-zadbany-przygotowany-do-rejestracji-skrzynia-6-tk-CID5-IDjS7uB'
+tp268
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-1-8-tdci-ID6yTtd5'
+tp269
+a(S'www.olx.pl'
+S'ford-mondeo-hatchback-2-0-tdci-convers-radio-sony-alu-17-chromy-CID5-IDhvhCN'
+tp270
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2006r-gaz-2lata-nowa-cena-tylko-do-konca-tygodnia-CID5-IDl3lam'
+tp271
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8tdci-125km-ghia-klima-temp-alu-6-biegow-zamiana-ID6yJsBZ'
+tp272
+a(S'www.otomoto.pl'
+S'ford-mondeo-okazja-lift-alu-led-ID6ySfuP'
+tp273
+a(S'www.otomoto.pl'
+S'ford-mondeo-polski-salon-pierwszy-wlasciciel-gwarancja-serwisu-f-vat-23-ID6yReet'
+tp274
+a(S'www.olx.pl'
+S'ford-mondeo-mk-3-2-0-tdci-2002r-CID5-IDm9cXK'
+tp275
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-140-ps-face-lift-alufelgi-18-ladny-stan-led-pl-ID6yPSIW'
+tp276
+a(S'www.olx.pl'
+S'okazja-mondeo-2001r-klima-1-8-benzyna-przeglad-05-2018-oc-12-2017-CID5-IDkf9po'
+tp277
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-2008r-CID5-IDm8vKV'
+tp278
+a(S'www.otomoto.pl'
+S'ford-mondeo-boge-wyposazenie-navi-alu-klimatronic-ID6yQ9AB'
+tp279
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-salon-polska-serwis-aso-xenon-klimatronic-tempomat-ID6yTq7X'
+tp280
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tddi-16v-klimatronic-el-szyby-wspomaganie-kierownicy-ID6yTqab'
+tp281
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium-szklany-dach-przebieg-15tys-salon-pl-gwarancja-do-2018r-ID6yIEpN'
+tp282
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2001-ghia-1-8-CID5-IDleSA8'
+tp283
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-ubezpieczonuy-zadbany-w-kraju-od-2016-roku-ID6yNuYx'
+tp284
+a(S'www.otomoto.pl'
+S'ford-mondeo-115km-zadbane-wnetrze-w-jednych-rekach-13-lat-ID6yQhgL'
+tp285
+a(S'www.otomoto.pl'
+S'ford-mondeo-ghia-1-8-125km-bez-dpf-dwumasy-bezwypadkowy-serwis-ID6yRVxB'
+tp286
+a(S'www.otomoto.pl'
+S'ford-mondeo-zadbany-super-stan-serwisowany-2-0-diesel-6-biegow-ID4oUyOl'
+tp287
+a(S'www.olx.pl'
+S'ford-mondeo-szwajcar-bezwypadkowy-CID5-IDkNGNG'
+tp288
+a(S'www.otomoto.pl'
+S'ford-mondeo-fuul-opcja-zamiana-2-0-benzyna-ID4oYSBd'
+tp289
+a(S'www.olx.pl'
+S'sprzedam-forda-mondeo-2-0tdci-90km-01r-CID5-IDlRb2o'
+tp290
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-5i-v6-170km-kombi-sprawny-europa-z-niemiec-ID6ySIrn'
+tp291
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-140km-salon-pl-fv23-gwarancja-ID6yNyWN'
+tp292
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-140-km-salon-polska-seriws-aso-vat-23-ID6yOsWr'
+tp293
+a(S'www.olx.pl'
+S'ford-mondeo-mki-automat-z-gazem-CID5-IDljtbG'
+tp294
+a(S'www.otomoto.pl'
+S'ford-mondeo-bez-korozji-super-stan-ID6ySMtN'
+tp295
+a(S'www.otomoto.pl'
+S'ford-mondeo-mondeo-lifting-2-0-diesel-140km-ID6yQxhp'
+tp296
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6i-16v-salon-polska-serwis-aso-vat-23-klimatronic-parktronic-ID6yStCX'
+tp297
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-d-CID5-IDlSf0c'
+tp298
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-5-turbo-gaz-titanium-navi-convers-ford-power-ID6yR0XD'
+tp299
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-tdci-sprzedam-zamienie-polski-salon-CID5-IDi3ge3'
+tp300
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-diesel-titanium-convers-kombi-sliczny-maly-przebieg-CID5-IDlHji8'
+tp301
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2003r-uszkodzony-CID5-IDm98pc'
+tp302
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-polecam-CID5-IDm986i'
+tp303
+a(S'www.otomoto.pl'
+S'ford-mondeo-sekwencyjna-instalacja-gazowa-bogate-wyposazenia-wizualny-pakiet-st-ID6ySWsb'
+tp304
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yTsCw'
+tp305
+a(S'www.otomoto.pl'
+S'ford-mondeo-ghia-bardzo-bogata-wersja-maly-udokumentowany-przebieg-ID6yNo8l'
+tp306
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yOsGb'
+tp307
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDm97n0'
+tp308
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-cdti-diesel-140-km-bezwypadkowy-ksiazka-serwisowa-klimatronik-ID6yRUN1'
+tp309
+a(S'www.olx.pl'
+S'ford-mondeo-pierwszy-wlasciciel-CID5-IDl3m4Q'
+tp310
+a(S'www.olx.pl'
+S'ford-mondeo-mk1-1994r-CID5-IDl7vdS'
+tp311
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-mk4-2-0-tdci-platinum-automat-ID6yTsxx'
+tp312
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-CID5-IDlOZMK'
+tp313
+a(S'www.olx.pl'
+S'okazja-ford-mondeo-CID5-IDm5HKK'
+tp314
+a(S'www.olx.pl'
+S'ford-mondeo-1-8-td-CID5-IDm95e2'
+tp315
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-lift-2-0-tdci-130km-uszkodzone-wtryski-CID5-IDlH7qq'
+tp316
+a(S'www.olx.pl'
+S'ford-mondeo-edge-tdci-estate-2-0-2012r-v5c-anglik-CID5-IDm94Cv'
+tp317
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-CID5-IDlCP1V'
+tp318
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-klimatronic-parktronic-ID6yRV4J'
+tp319
+a(S'www.otomoto.pl'
+S'ford-mondeo-st220-226km-lift-6-biegow-fotele-recaro-ID6yPM0p'
+tp320
+a(S'www.otomoto.pl'
+S'ford-mondeo-z-niemiec-1-8-ghia-chromy-ID6yRV2W'
+tp321
+a(S'www.olx.pl'
+S'mondeo-2-0-benzyna-2002-r-kombi-niemiec-CID5-IDjq2TE'
+tp322
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6-ecoboost-salon-polska-serwis-aso-titanium-ID6yP5Mj'
+tp323
+a(S'www.otomoto.pl'
+S'ford-mondeo-model-2008-zarejestrowany-ID6yQatb'
+tp324
+a(S'www.otomoto.pl'
+S'ford-mondeo-mondeoghiazniemiecjedyne-131-tys2-0146-ps-1-wlasciciel-ID6yTspw'
+tp325
+a(S'www.otomoto.pl'
+S'ford-mondeo-z-niemiec-ghia-1-8-chromy-ID6yPgPR'
+tp326
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-salon-polska-1-wlasciciel-serwis-aso-vat-23-ID6yRWWp'
+tp327
+a(S'www.otomoto.pl'
+S'ford-mondeo-z-niemiec-2-0-ghia-nawi-kolorowa-szyberdach-tempomat-ID6yOJxh'
+tp328
+a(S'www.otomoto.pl'
+S'ford-mondeo-z-niemie-1-8-ghia-nawigacja-kolorowa-czujniki-parkowania-ID6yPh67'
+tp329
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-ID6yMw5H'
+tp330
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-1-wlasciciel-klimatronic-bezkolizyjny-alu-el-szyby-ID6ySt5p'
+tp331
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-tdci-130-km-CID5-IDm8udG'
+tp332
+a(S'www.olx.pl'
+S'sprzedam-samochod-CID5-IDm90Pc'
+tp333
+a(S'www.otomoto.pl'
+S'ford-mondeo-auto-po-regeneracji-wtryskow-alufelgi-na-oponach-letnich-ID6yRWNZ'
+tp334
+a(S'www.otomoto.pl'
+S'ford-mondeo-st200-limitowana-edycja-205km-ID6yP5oR'
+tp335
+a(S'www.olx.pl'
+S'pilne-pilne-pilne-mondziu-w-dobre-rece-CID5-IDm8ZNi'
+tp336
+a(S'www.olx.pl'
+S'ford-mondeo-1-8-135tys-km-2009-bezwypadkowy-salon-pl-CID5-IDludNU'
+tp337
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-140km-33700brutto-salon-polska-bezwypadkowy-vat23-ID6yRWLr'
+tp338
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium-tempomat-ksiazka-serwisowa-rewelacja-ID6ySHUh'
+tp339
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6d-116km-convers-navi-drl-led-zadbany-ID6yLZbf'
+tp340
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2003-uszkodzony-na-czesci-CID5-IDm8Y1g'
+tp341
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-salon-polska-ii-wlasciciel-pelen-serwis-CID5-IDl2CfV'
+tp342
+a(S'www.otomoto.pl'
+S'ford-mondeo-2002-rok-1-8-duratec-he-benzyna-1-wlasciciel-ID6yTrSJ'
+tp343
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8i-dohc-climatronic-oplacony-polecam-ID6yTrYL'
+tp344
+a(S'www.otomoto.pl'
+S'ford-mondeo-piekne-mondeo-bezwypadkowe-2-0-tddi-rezerwacja-do-10-05-2017-ID6yJNG7'
+tp345
+a(S'www.olx.pl'
+S'ford-mondeo-1-8-ghia-lodz-CID5-IDkRrYk'
+tp346
+a(S'www.olx.pl'
+S'sprzedam-forda-mondeo-ghia-rok-2000-CID5-IDlTHJE'
+tp347
+a(S'www.olx.pl'
+S'mondeo-1-8-gaz-bez-rdzy-nowa-butla-klima-abs-bez-zadnego-wkladu-CID5-IDm0V3v'
+tp348
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-2-0-ben-gaz-2010-CID5-IDlLHzm'
+tp349
+a(S'www.olx.pl'
+S'sprzedam-CID5-IDlESiQ'
+tp350
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-5-v6-ID6ySHIL'
+tp351
+a(S'www.otomoto.pl'
+S'ford-mondeo-okazja-dobra-cena-ID6yRWw7'
+tp352
+a(S'www.otomoto.pl'
+S'ford-mondeo-leasing-od-pierwszego-dnia-dzialalnosci-leasing-bez-bik-big-krd-ID6yTrVl'
+tp353
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-tdci-ghia-CID5-IDm8W5g'
+tp354
+a(S'www.otomoto.pl'
+S'ford-mondeo-130km-2-0tdci-skora-klimatyzacja-zarejestrowany-prywatnie-ID6yTs09'
+tp355
+a(S'www.otomoto.pl'
+S'ford-mondeo-po-lifcie-2-0-tdci-z-niemiec-bezwypadkowy-ID6yKkE3'
+tp356
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-trend-benzyna-hatchback-ledy-idealny-ID6yHi5b'
+tp357
+a(S'www.otomoto.pl'
+S'ford-mondeo-w-super-stanie-oryginalny-przebieg-164300-ID6ySmKR'
+tp358
+a(S'www.otomoto.pl'
+S'ford-mondeo-sprzedam-forda-mondeo-2-2-155-km-ID6ySHEP'
+tp359
+a(S'www.olx.pl'
+S'ford-mondeo-do-jazdy-CID5-IDm8TSY'
+tp360
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-benzyna-ID6yOLSW'
+tp361
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-alufelgi-salon-polska-1-wlasciciel-ID6yTmB9'
+tp362
+a(S'www.otomoto.pl'
+S'ford-mondeo-ghia-hatchback-2-0-16v-145ps-benz-3-klimatronic-full-podlpg-gwarancja-ID6ySUCW'
+tp363
+a(S'www.olx.pl'
+S'ford-mondeo-2-0tddi-CID5-IDm8Sau'
+tp364
+a(S'www.olx.pl'
+S'ford-mondeo-mk-2-CID5-IDlMLmc'
+tp365
+a(S'www.olx.pl'
+S'ford-mondeo-1-8tdci-super-stan-prywatnie-zamiana-CID5-IDk9HWc'
+tp366
+a(S'www.otomoto.pl'
+S'ford-mondeo-auto-bezwypadkowe-ID6yPbah'
+tp367
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-turnier-1-6-tdci-trend-nawi-nowe-opony-ID6yy0sj'
+tp368
+a(S'www.otomoto.pl'
+S'ford-mondeo-klimatronic-serwis-ladny-ID6yTrq1'
+tp369
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-16v-ghia-automat-serwis-ID6yK8q7'
+tp370
+a(S'www.otomoto.pl'
+S'ford-mondeo-163km-titanium-s-bixenon-convers-navi-dvd-kamera-alu-komputer-chrom-ID6yPXlX'
+tp371
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-ecoboost-240-km-titanium-lxs-salon-polska-aso-automat-skora-ID6yF95f'
+tp372
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-bogate-wyposazenie-CID5-IDlroXQ'
+tp373
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDm5DoG'
+tp374
+a(S'www.olx.pl'
+S'sprzedam-forda-mondeo-1-8-tdci-2008-r-CID5-IDlQjSy'
+tp375
+a(S'www.olx.pl'
+S'ford-mondeo-1-8-benzyna-1-wlasciciel-klimatyzacja-CID5-IDm8PB0'
+tp376
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-0-tddi-CID5-IDkvW02'
+tp377
+a(S'www.olx.pl'
+S'mondeo-2007-r-biala-perla-zamiana-CID5-IDm8Pau'
+tp378
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-mk3-ID6yTrgJ'
+tp379
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-150-km-edition-salon-pl-aso-fv23-ID6yR10T'
+tp380
+a(S'www.otomoto.pl'
+S'ford-mondeo-bogata-wersja-ghia-2-0-benzyna-ID4oWzmA'
+tp381
+a(S'www.otomoto.pl'
+S'ford-mondeo-full-wypas-climatronic-alu-2-2d-155km-st-ID6yRW6H'
+tp382
+a(S'www.olx.pl'
+S'mondeo-2-0-ecoboost-xenon-navi-skora-mozliwa-zamiana-CID5-IDlYXsU'
+tp383
+a(S'www.olx.pl'
+S'sprzedam-forda-mondeo-CID5-IDisUe5'
+tp384
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-115km-CID5-IDm8O8Q'
+tp385
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-mk3-ghia-2001-02-1-8-pb-125km-215000km-hb-bezwypadkowy-ID6yRUZl'
+tp386
+a(S'www.otomoto.pl'
+S'ford-mondeo-lift-1-8-benzyna-130-km-ID6yPeGr'
+tp387
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-prywatnie-CID5-IDlwDbC'
+tp388
+a(S'www.olx.pl'
+S'sprzedam-forda-mondeo-z-2003-r-CID5-IDm8Fgy'
+tp389
+a(S'www.olx.pl'
+S'sprzedam-ford-mondeo-CID5-IDm8MX2'
+tp390
+a(S'www.olx.pl'
+S'ford-mondeo-1-8-benzyna-CID5-IDm2D1I'
+tp391
+a(S'www.olx.pl'
+S'sprzedam-forda-mondeo-2-5-v6-CID5-IDgSTu5'
+tp392
+a(S'www.otomoto.pl'
+S'ford-mondeo-gold-x-2013r-salon-polska-pierwszy-wlasciciel-ID6yDumX'
+tp393
+a(S'www.olx.pl'
+S'ford-mondeo-1-8i-125km-ghia-klima-alu-16-CID5-IDlVhgg'
+tp394
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-1-8-benzyna-2004-dlugie-oplaty-CID5-IDl9q5U'
+tp395
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-mk4-led-lift-2-0tdci-2xpdc-pakiet-st-titanium-dwa-wydechy-ID6yC1nd'
+tp396
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-1-8-tdci-ghia-ID6yyRH7'
+tp397
+a(S'www.olx.pl'
+S'ford-mondeo-kombi-lift-2003r-1-8-benzyna-CID5-IDlFnJo'
+tp398
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-kombi-2009-z-polskiego-salonu-2-0-diesel-ID6yRUQh'
+tp399
+a(S'www.otomoto.pl'
+S'ford-mondeo-klimatronic-navi-ledy-2013r-zarejestrowany-serwisowany-ID6yIUrL'
+tp400
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-140km-kombi-ID6yTqZ7'
+tp401
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-115ps-sedan-super-stan-pelen-serwis-ford-215tkm-ID6yMs9z'
+tp402
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-1-8-16v-alusy-limuzyna-z-niemiec-koszt-rejestracji-350zl-ID6yRULh'
+tp403
+a(S'www.olx.pl'
+S'sprzedam-ford-mondeo-2-0-tdci-CID5-IDm6Eya'
+tp404
+a(S'www.olx.pl'
+S'prywatnie-nowe-wtryski-ford-mondeo-mk3-2-0-tdci-gotowy-do-jazdy-CID5-IDkQlRU'
+tp405
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-salon-polska-1-wlasciciel-serwis-aso-vat-23-ID6yRqfB'
+tp406
+a(S'www.otomoto.pl'
+S'ford-mondeo-polski-salon-mocno-doinwestowany-ID6yTqNl'
+tp407
+a(S'www.otomoto.pl'
+S'ford-mondeo-piekny-lift-ledy-dotykowa-navi-2x-czujniki-parkowania-ID6yTqHJ'
+tp408
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDm8CBI'
+tp409
+a(S'www.olx.pl'
+S'ford-mondeo-1-8-16v-benzyna-CID5-IDlEVc8'
+tp410
+a(S'www.olx.pl'
+S'okazja-sliczne-bez-rdzy-podgrzewane-fotele-oplacony-CID5-IDjOzaJ'
+tp411
+a(S'www.olx.pl'
+S'sprzedam-ford-mondeo-mk3-2-0-pb-lpg-CID5-IDlTFGG'
+tp412
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-0-tdci-CID5-IDlbMcU'
+tp413
+a(S'www.otomoto.pl'
+S'ford-mondeo-wygodne-auto-polecam-ID6yFzJ3'
+tp414
+a(S'www.olx.pl'
+S'mondeo-2000r-ghia-lpg-hak-kombi-climatronic-central-z-pilota-CID5-IDm4LTU'
+tp415
+a(S'www.otomoto.pl'
+S'ford-mondeo-full-opcja-idealny-ID6ySH45'
+tp416
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yRUsx'
+tp417
+a(S'www.otomoto.pl'
+S'ford-mondeo-ksiazka-serwisowa-bezwypadkowy-gdansk-ID6yMNgR'
+tp418
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-navi-alu-18-super-stan-ID6yRUu5'
+tp419
+a(S'www.olx.pl'
+S'ford-mondeo-radio-dotykowe-CID5-IDm8Dbv'
+tp420
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-2-0-130km-wersja-titanium-ID6ySH2D'
+tp421
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-1-8-benzyna-CID5-IDjy0Rz'
+tp422
+a(S'www.olx.pl'
+S'ford-mondeo-ghia-2-0-tdci-115-CID5-IDktsOG'
+tp423
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-2-0-CID5-IDlKlqC'
+tp424
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-benzyna-jeden-wlasciciel-w-niemczech-ID6yKNjf'
+tp425
+a(S'www.olx.pl'
+S'sprzedam-ford-mondeo-turnier-2-0-tdci-sport-CID5-IDhNE53'
+tp426
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8tdci-ghia-convers-pol-skory-grzane-fotele-przebieg-gwarancja-ID6yP1Hn'
+tp427
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-CID5-IDm8AdV'
+tp428
+a(S'www.olx.pl'
+S'motoryzacja-samochody-osobowe-CID5-IDlsWhM'
+tp429
+a(S'www.otomoto.pl'
+S'ford-mondeo-lifting-klimatronic-zarejestrowane-kombi-manual-ID6yR2wz'
+tp430
+a(S'www.otomoto.pl'
+S'ford-mondeo-navi-125km-klimatronik-econetic-serwis-do-konca-ID6yRUlh'
+tp431
+a(S'www.olx.pl'
+S'ford-mondeo-tdci-CID5-IDm8Bbq'
+tp432
+a(S'www.otomoto.pl'
+S'ford-mondeo-gwarancja-i-wl-kraj-bezwypadkowy-160km-fv-vat-23-gold-ID6yQq7L'
+tp433
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yR1TR'
+tp434
+a(S'www.otomoto.pl'
+S'ford-mondeo-klimatronic-navi-elektr-fot-alu-grzana-szyba-hak-zadbany-ID6yTqKw'
+tp435
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2006-2-0-tdi-kombi-CID5-IDm8A9o'
+tp436
+a(S'www.olx.pl'
+S'mondeo-kombi-tddi-ghia-8airbag-klimatronic-temp-CID5-IDm8A2S'
+tp437
+a(S'www.otomoto.pl'
+S'ford-mondeo-sapphireblack-liftfulled-superstan-salonpolska-zjawiskowe-ID6yRUeD'
+tp438
+a(S'www.olx.pl'
+S'ford-mondeo-mk-iii-zadbane-auto-CID5-IDm6h4I'
+tp439
+a(S'www.otomoto.pl'
+S'ford-mondeo-mondeo-1-8-tdci-salon-polska-2008r-ID6yQuin'
+tp440
+a(S'www.otomoto.pl'
+S'ford-mondeo-ambiente-1-6-tdci-115-km-samochod-dealera-gwarancja-do-03-2019-ID6yMxIP'
+tp441
+a(S'www.otomoto.pl'
+S'ford-mondeo-ghia-2-0-tdci-131-duza-navi-okazja-gdansk-ID6yR2OT'
+tp442
+a(S'www.olx.pl'
+S'ford-mondeo-mk4-kombi-CID5-IDlgyko'
+tp443
+a(S'www.olx.pl'
+S'ford-mondeo-bez-rdzy-CID5-IDm46sy'
+tp444
+a(S'www.olx.pl'
+S'ford-mondeo-2-6-v6-duratec-170km-jasna-skora-czarny-zamiana-benz-CID5-IDkNlCv'
+tp445
+a(S'www.olx.pl'
+S'sprzedam-lub-zamienie-ford-mondeo-kombi-tddi-mk3-CID5-IDm8yVA'
+tp446
+a(S'www.otomoto.pl'
+S'ford-mondeo-mondeo-ghia-anglik-v5c-2-0tdci-ID6yOQVT'
+tp447
+a(S'www.otomoto.pl'
+S'ford-mondeo-gwarancja-serwisowa-2-0-150km-automat-wersja-titanium-ID6yLpkT'
+tp448
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-fusion-titanium-ID6yTqgP'
+tp449
+a(S'www.otomoto.pl'
+S'ford-mondeo-3-0-v6-204-lpg-prins-ghia-pelna-opcja-gwarancja-ID6yLa8H'
+tp450
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-CID5-IDl0BIU'
+tp451
+a(S'www.otomoto.pl'
+S'ford-mondeo-fusion-2-0-ecoboost-2016-po-oplatach-ID6yR1Or'
+tp452
+a(S'www.otomoto.pl'
+S'ford-mondeo-trend-2016r-1-5-ecoboost-automat-oferta-dealera-krajowy-gwar-fv23-ID6yRU0j'
+tp453
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-0-tdci-131km-6-bieg-CID5-IDm81k2'
+tp454
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-benzyna-ID6ySGNJ'
+tp455
+a(S'www.otomoto.pl'
+S'ford-mondeo-trend-2-0tdci-140km-salon-pl-fv23-1wl-led-gwarancja-ID6yRTX7'
+tp456
+a(S'www.olx.pl'
+S'chwilowa-rezerwacjaford-mondeo-mk3-tddi-115-km-CID5-IDlwiu6'
+tp457
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6-16v-120km-2010r-lift-climatronic-2xpdc-oplacony-ID6yRTVl'
+tp458
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium-navi-converse-automat-mozliwa-zamiana-gwarancja-ID6yMZRL'
+tp459
+a(S'www.otomoto.pl'
+S'ford-mondeo-fusion-titanium-2-0-2015-r-oplacony-okazja-ID6yQfax'
+tp460
+a(S'www.otomoto.pl'
+S'ford-mondeo-vignale-2-0-tdci-210km-450nm-nocciola-automat-auto-premium-ID6yTq8P'
+tp461
+a(S'www.otomoto.pl'
+S'ford-mondeo-kolor-nava-gps-alkantara-ID6yRTlw'
+tp462
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-145km-benzyna-climatronik-tempomat-czujniki-parkowania-ID6yLUmJ'
+tp463
+a(S'www.olx.pl'
+S'ford-mondeo-mk-ii-2-5-v6-170-km-CID5-IDm8uXU'
+tp464
+a(S'www.olx.pl'
+S'fusion-skora-navi-czesci-w-cenie-CID5-IDlGs6g'
+tp465
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-1-8-tdci-mozliwa-zamiana-ID6yOLeJ'
+tp466
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-tdci-salon-polska-serwis-aso-vat-23-klimatronic-ID6ySr9d'
+tp467
+a(S'www.olx.pl'
+S'ford-mondeo-1-8-duratec-ghia-CID5-IDlR4Bk'
+tp468
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yGKuj'
+tp469
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yGKuj'
+tp470
+a(S'www.olx.pl'
+S'ford-mondeo-2002r-1-8-benzyna-mk3-kombi-CID5-IDm4gHM'
+tp471
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDm8uGk'
+tp472
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-hybryda-ID6yTq7r'
+tp473
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-salon-polska-1-wlasciciel-serwis-aso-vat-23-ID6ySr5z'
+tp474
+a(S'www.otomoto.pl'
+S'ford-mondeo-kombi-ID6yKm13'
+tp475
+a(S'www.otomoto.pl'
+S'ford-mondeo-doinwestowane-rodzinne-auto-z-rak-prywatnych-ID6yNq8X'
+tp476
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-benzyna-kombi-klimatronick-idealny-pod-gaz-zamiana-ID6yOfAD'
+tp477
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tddi-115km-do-zrobienia-wysprzeglik-ID6ySGFb'
+tp478
+a(S'www.otomoto.pl'
+S'ford-mondeo-niezawodny-tddi-zadbany-dieselek-swiezo-z-niemiec-po-oplatach-ID6yDsLx'
+tp479
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium-2-0-tdci-180km-powershift-fwd-pakiet-stylizacyjny-ID6yOguZ'
+tp480
+a(S'www.otomoto.pl'
+S'ford-mondeo-hatchback-gold-x-1-8tdci-salon-pl-fv23-klimatronik-alufelgi-ID6ySqWb'
+tp481
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-vat-23-klimatronic-alu-ID6ySqUX'
+tp482
+a(S'www.olx.pl'
+S'bezwypadkowy-ford-mondeo-2006-r-mk-iii-tdci-2-0-diesel-CID5-IDlObwQ'
+tp483
+a(S'www.olx.pl'
+S'ford-mondeo-kombi-97r-1-8b-800zl-z-niemiec-CID5-IDcVB7Z'
+tp484
+a(S'www.olx.pl'
+S'sprzedam-ford-mondeo-mk1-2-0-16v-1996r-gaz-CID5-IDm8shQ'
+tp485
+a(S'www.olx.pl'
+S'ford-mondeo-mk2-1-8-td-CID5-IDlPREU'
+tp486
+a(S'www.otomoto.pl'
+S'ford-mondeo-mondeo-2-0-tdci-automat-duze-radio-dotykowe-bez-skora-pelna-opcja-ID6yQ5CP'
+tp487
+a(S'www.otomoto.pl'
+S'ford-mondeo-diesel-klima-ID6yRTrH'
+tp488
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0i-145kmghiaxenonskora-alcantaratop-stan-ID6yTpUF'
+tp489
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yRToh'
+tp490
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-0-tddi-CID5-IDkRwmu'
+tp491
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2-0-tddi-2002-kombi-oplaty-klima-hak-polecam-CID5-IDlfQNo'
+tp492
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tddi-ID6yNVyH'
+tp493
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-140ps-titanium-navigacja-pdc-grzana-szyba-fotele-ID6yOfU9'
+tp494
+a(S'www.otomoto.pl'
+S'ford-mondeo-lift-piekne-wnetrze-gwarancja-rataje-rondo-150-aut-mozliwosc-zamiany-ID6ySqDr'
+tp495
+a(S'www.olx.pl'
+S'ford-mondeo-1-6-CID5-IDlRJQe'
+tp496
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-150km-m6-fwd-edition-ID6yJDcw'
+tp497
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-tddi-115km-2001r-ghia-CID5-IDkNzVq'
+tp498
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium-2-0-ecoboost-jedyny-wlasciciel-stan-jak-nowy-ID6yRSXb'
+tp499
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-140km-ambiente-gwarancja-ID6yRTbB'
+tp500
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci131kmclimatronicaluzarejestrowanydoinwestowany-ID6yR1Tw'
+tp501
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-120km-lift-klimatyzacja-skorzane-fotele-6-biegow-ID6yOvg5'
+tp502
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6ySGkW'
+tp503
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-6-tdci-silver-x-plus-salon-pl-ID6yRT8R'
+tp504
+a(S'www.otomoto.pl'
+S'ford-mondeo-tdci-convers-zarejestrowany-i-ubezpieczony-w-polsce-gwarancja-ID6yTpsR'
+tp505
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-benzyna-ghia-welury-klimatronik-sliczny-z-niemiec-ID6yTpsl'
+tp506
+a(S'www.olx.pl'
+S'st220-recaro-duza-navi-226-km-CID5-IDlFjUV'
+tp507
+a(S'www.otomoto.pl'
+S'ford-mondeo-klimatyzacja-podgrzewana-przednia-szyba-oplacony-ID6yOA9N'
+tp508
+a(S'www.otomoto.pl'
+S'ford-mondeo-4x4-kamera-cofania-skorzana-tapicerka-240km-pelna-opcja-ID6yRT2p'
+tp509
+a(S'www.otomoto.pl'
+S'ford-mondeo-silver-x-2013r-salon-polska-ID6yOfVW'
+tp510
+a(S'www.olx.pl'
+S'ford-mondeo-2-0-tdci-CID5-IDk2jGH'
+tp511
+a(S'www.otomoto.pl'
+S'ford-mondeo-ladne-mondeo-mk3-2-0-tdci-klima-6-biegow-ID6yTpS7'
+tp512
+a(S'www.otomoto.pl'
+S'ford-mondeo-140-000-km-aso-maly-przebieg-ID6yRp2T'
+tp513
+a(S'www.otomoto.pl'
+S'ford-mondeo-i-szy-wlasciciel-klimatronik-alu-6-biegow-zarejestrowany-ID4p5nrw'
+tp514
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tdci-130ps-anglik-lubelskie-80tys-mil-ID6yTpxd'
+tp515
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-kombi-140km-titanium-salon-pl-aso-gwarancja12-ID6yTp5p'
+tp516
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6ySGdz'
+tp517
+a(S'www.olx.pl'
+S'ford-mondeo-mk-3-bardzo-ekonomiczny-sprzedam-lub-zamienie-CID5-IDlEFIv'
+tp518
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-2006r-2-2-tdci-155km-wersja-ghia-wazne-oplaty-CID5-IDlyWSG'
+tp519
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-2-0-tdci-ID6yTp8J'
+tp520
+a(S'www.otomoto.pl'
+S'ford-mondeo-hatchback-goldx-2-0tdci-140km-12-miesiecy-gwarancji-ford-uzywane-ID6yFX1R'
+tp521
+a(S'www.otomoto.pl'
+S'ford-mondeo-tdci-ID6yOfxJ'
+tp522
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-ecoboost-240km-titanium-ID6yQWn7'
+tp523
+a(S'www.olx.pl'
+S'ford-mondeo-po-lifcie-2003-CID5-IDlUgrk'
+tp524
+a(S'www.otomoto.pl'
+S'ford-mondeo-salon-polska-faktura-vat-ID6yLxp9'
+tp525
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-115km-klima-zarejestrowany-okazja-ID6yTp7F'
+tp526
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yMsJ7'
+tp527
+a(S'www.otomoto.pl'
+S'ford-mondeo-vignale-2-0-ecoboost-203-km-full-opcja-ID6yRSHL'
+tp528
+a(S'www.otomoto.pl'
+S'ford-mondeo-ID6yPYaW'
+tp529
+a(S'www.otomoto.pl'
+S'ford-mondeo-ford-mondeo-titanium-cesja-leasingu-bogate-wyposazenie-ID6yShKT'
+tp530
+a(S'www.otomoto.pl'
+S'ford-mondeo-chatback-benzynka-ID6ySG3h'
+tp531
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-5-v6skoraalu17manual-ID6yP92j'
+tp532
+a(S'www.olx.pl'
+S'ford-mondeo-mk3-CID5-IDjn7z7'
+tp533
+a(S'www.otomoto.pl'
+S'ford-mondeo-1-8-b-2001r-zarejstrowany-2-kpl-opon-kombi-ID6yRSCX'
+tp534
+a(S'www.otomoto.pl'
+S'ford-mondeo-salon-pl-serwis-aso-1-wlasciciel-gwarancja-ID6yvjef'
+tp535
+a(S'www.otomoto.pl'
+S'ford-mondeo-okazja-stan-bdb-2-0-i-130-ps-ID6yBlMp'
+tp536
+a(S'www.olx.pl'
+S'mondeo-xsenon-klimtronic-ghia-zobacz-CID5-IDm8gxC'
+tp537
+a(S'www.olx.pl'
+S'ford-mondeo-CID5-IDm8g3m'
+tp538
+a(S'www.otomoto.pl'
+S'ford-mondeo-2012-2-0-tdci-140-km-salon-polska-f-vat-23-serwis-aso-ID6yR0PD'
+tp539
+a(S'www.otomoto.pl'
+S'ford-mondeo-2005-gia-lift-ID6yPeGt'
+tp540
+a(S'www.otomoto.pl'
+S'ford-mondeo-mk3-1-8-benzyna-z-niemiec-po-oplatach-alufelgi-full-opcja-ID6yHKJX'
+tp541
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-diesel-163km-vat-23-automat-model-2012-pisemna-gwarancja-ID6ytFrD'
+tp542
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0tddi-115koni-klima-elektryka-stan-dobry-okazja-ID6yTioL'
+tp543
+a(S'www.otomoto.pl'
+S'ford-mondeo-kombi-2-0-tdci-140-km-polski-salon-auto-reiski-ID6yL9c1'
+tp544
+a(S'www.otomoto.pl'
+S'ford-mondeo-titanium-navi-converse-ledy-lift-alufelgi-ID6yLsq9'
+tp545
+a(S'www.olx.pl'
+S'sprzedam-forda-mondeo-ghia-CID5-IDhAbSw'
+tp546
+a(S'www.otomoto.pl'
+S'ford-mondeo-2-0-tdci-180-km-titanium-salon-pl-navi-led-skory-fv-23-ID6yTp7j'
+tp547
+a(lp548
+(dp549
+S'details'
+p550
+(dp551
+VKolor
+p552
+VZielony
+p553
+sVPoj. silnika
+p554
+V2 000 cm3
+p555
+sVMarka
+p556
+VFord
+p557
+sVRok produkcji
+p558
+V1998
+p559
+sVOferta od
+p560
+VFirmy
+p561
+sVTyp nadwozia
+p562
+VKombi
+p563
+sVPrzebieg
+p564
+V1 km
+p565
+sVPaliwo
+p566
+VLPG
+p567
+sVMoc silnika
+p568
+V130 KM
+p569
+sVSkrzynia biegów
+p570
+VManualna
+p571
+sVModel
+p572
+VMondeo
+p573
+sVStan techniczny
+p574
+VNieuszkodzony
+p575
+sVFinanse
+p576
+VKUP to auto z wygodnym kredytem!
+p577
+ssS'price'
+p578
+I1900
+sS'data'
+p579
+cdatetime
+datetime
+p580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp581
+sS'name'
+p582
+S'Ford Mondeo Kombi GAZ'
+p583
+sS'address'
+p584
+VKoszalin, Zachodniopomorskie
+p585
+sa(dp586
+g550
+(dp587
+VKolor
+p588
+VSzary
+p589
+sVPoj. silnika
+p590
+V2 000 cm3
+p591
+sVMarka
+p592
+VFord
+p593
+sVKraj pochodzenia
+p594
+VNiemcy
+p595
+sVRok produkcji
+p596
+V2002
+p597
+sVOferta od
+p598
+VOsoby prywatnej
+p599
+sVTyp nadwozia
+p600
+VHatchback
+p601
+sVPrzebieg
+p602
+V190 000 km
+p603
+sVPaliwo
+p604
+VDiesel
+p605
+sVMoc silnika
+p606
+V130 KM
+p607
+sVSkrzynia biegów
+p608
+VManualna
+p609
+sVModel
+p610
+VMondeo
+p611
+sVStan techniczny
+p612
+VNieuszkodzony
+p613
+sVFinanse
+p614
+VKUP to auto z wygodnym kredytem!
+p615
+ssg578
+I5300
+sg579
+g580
+(S'\x07\xe1\x04\x1d\x00\x00\x00\x00\x00\x00'
+tRp616
+sg582
+S'Ford Mondeo Mk3 Fuul Opcja Skra,Czujnik Cofania Wersja Ghia 1 LAKIER'
+p617
+sg584
+VBytom, \u015al\u0105skie
+p618
+sa(dp619
+g550
+(dp620
+VKolor
+p621
+VZielony
+p622
+sVPoj. silnika
+p623
+V1 800 cm3
+p624
+sVMarka
+p625
+VFord
+p626
+sVKraj pochodzenia
+p627
+VNiemcy
+p628
+sVRok produkcji
+p629
+V2000
+p630
+sVOferta od
+p631
+VOsoby prywatnej
+p632
+sVTyp nadwozia
+p633
+VHatchback
+p634
+sVPrzebieg
+p635
+V250 000 km
+p636
+sVPaliwo
+p637
+VDiesel
+p638
+sVMoc silnika
+p639
+V105 KM
+p640
+sVSkrzynia biegów
+p641
+VManualna
+p642
+sVModel
+p643
+VMondeo
+p644
+sVStan techniczny
+p645
+VNieuszkodzony
+p646
+sVFinanse
+p647
+VKUP to auto z wygodnym kredytem!
+p648
+ssg578
+I3600
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp649
+sg582
+S'adne i zadbane Mondeo!'
+p650
+sg584
+VOstrowiec \u015awi\u0119tokrzyski, ostrowiecki, \u015awi\u0119tokrzyskie
+p651
+sa(dp652
+g550
+(dp653
+VKolor
+p654
+VSrebrny
+p655
+sVPoj. silnika
+p656
+V1 800 cm3
+p657
+sVMarka
+p658
+VFord
+p659
+sVKraj pochodzenia
+p660
+VPolska
+p661
+sVRok produkcji
+p662
+V1998
+p663
+sVOferta od
+p664
+VOsoby prywatnej
+p665
+sVTyp nadwozia
+p666
+VKombi
+p667
+sVPrzebieg
+p668
+V220 000 km
+p669
+sVPaliwo
+p670
+VBenzyna
+p671
+sVMoc silnika
+p672
+V120 KM
+p673
+sVSkrzynia biegów
+p674
+VManualna
+p675
+sVModel
+p676
+VMondeo
+p677
+sVStan techniczny
+p678
+VNieuszkodzony
+p679
+sVFinanse
+p680
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p681
+ssg578
+I2200
+sg579
+g580
+(S'\x07\xe1\x05\x08\x00\x00\x00\x00\x00\x00'
+tRp682
+sg582
+S'Ford Mondeo mk2 Bardzo adny 1 Waciciel , Klimatyzacja'
+p683
+sg584
+VBytom, \u015al\u0105skie
+p684
+sa(dp685
+g550
+(dp686
+VKolor
+p687
+VCzarny
+p688
+sVPoj. silnika
+p689
+V2 000 cm3
+p690
+sVMarka
+p691
+VFord
+p692
+sVKraj pochodzenia
+p693
+VPolska
+p694
+sVRok produkcji
+p695
+V2014
+p696
+sVOferta od
+p697
+VOsoby prywatnej
+p698
+sVTyp nadwozia
+p699
+VSedan
+p700
+sVPrzebieg
+p701
+V26 000 km
+p702
+sVPaliwo
+p703
+VBenzyna
+p704
+sVMoc silnika
+p705
+V250 KM
+p706
+sVSkrzynia biegów
+p707
+VAutomatyczna
+p708
+sVModel
+p709
+VMondeo
+p710
+sVStan techniczny
+p711
+VNieuszkodzony
+p712
+sVFinanse
+p713
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p714
+ssg578
+I76000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp715
+sg582
+S'Sprzedam Ford Mondeo Mk5'
+p716
+sg584
+VBielsko-Bia\u0142a, \u015al\u0105skie
+p717
+sa(dp718
+g550
+(dp719
+VKolor
+p720
+VSrebrny
+p721
+sVPoj. silnika
+p722
+V2 000 cm3
+p723
+sVMarka
+p724
+VFord
+p725
+sVKraj pochodzenia
+p726
+VNiemcy
+p727
+sVRok produkcji
+p728
+V2002
+p729
+sVOferta od
+p730
+VOsoby prywatnej
+p731
+sVTyp nadwozia
+p732
+VSedan
+p733
+sVPrzebieg
+p734
+V261 000 km
+p735
+sVPaliwo
+p736
+VDiesel
+p737
+sVMoc silnika
+p738
+V130 KM
+p739
+sVSkrzynia biegów
+p740
+VManualna
+p741
+sVModel
+p742
+VMondeo
+p743
+sVStan techniczny
+p744
+VNieuszkodzony
+p745
+sVFinanse
+p746
+VKUP to auto z wygodnym kredytem!
+p747
+ssg578
+I6000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp748
+sg582
+S'ford mondeo 2.0'
+p749
+sg584
+VNowa Sól, nowosolski, Lubuskie
+p750
+sa(dp751
+g550
+(dp752
+VKolor
+p753
+VNiebieski
+p754
+sVPoj. silnika
+p755
+V2 000 cm3
+p756
+sVMarka
+p757
+VFord
+p758
+sVKraj pochodzenia
+p759
+VNiemcy
+p760
+sVRok produkcji
+p761
+V2009
+p762
+sVOferta od
+p763
+VOsoby prywatnej
+p764
+sVTyp nadwozia
+p765
+VKombi
+p766
+sVPrzebieg
+p767
+V182 000 km
+p768
+sVPaliwo
+p769
+VDiesel
+p770
+sVMoc silnika
+p771
+V163 KM
+p772
+sVSkrzynia biegów
+p773
+VManualna
+p774
+sVModel
+p775
+VMondeo
+p776
+sVStan techniczny
+p777
+VNieuszkodzony
+p778
+sVFinanse
+p779
+VKUP to auto z wygodnym kredytem!
+p780
+ssg578
+I29900
+sg579
+g580
+(S'\x07\xe1\x05\x04\x00\x00\x00\x00\x00\x00'
+tRp781
+sg582
+S'Ford Mondeo 2.0 Diesel Titanium Pera - Niski Przebieg'
+p782
+sg584
+VKatowice, \u015al\u0105skie, Ligota-Panewniki
+p783
+sa(dp784
+g550
+(dp785
+VKolor
+p786
+VNiebieski
+p787
+sVPoj. silnika
+p788
+V1 800 cm3
+p789
+sVMarka
+p790
+VFord
+p791
+sVRok produkcji
+p792
+V2000
+p793
+sVOferta od
+p794
+VOsoby prywatnej
+p795
+sVTyp nadwozia
+p796
+VKombi
+p797
+sVPrzebieg
+p798
+V300 000 km
+p799
+sVPaliwo
+p800
+VDiesel
+p801
+sVMoc silnika
+p802
+V90 KM
+p803
+sVSkrzynia biegów
+p804
+VManualna
+p805
+sVModel
+p806
+VMondeo
+p807
+sVStan techniczny
+p808
+VNieuszkodzony
+p809
+sVFinanse
+p810
+VKUP to auto z wygodnym kredytem!
+p811
+ssg578
+I2000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp812
+sg582
+S'Ford Mondeo'
+p813
+sg584
+VPi\u0142awa Górna, dzier\u017coniowski, Dolno\u015bl\u0105skie
+p814
+sa(dp815
+g550
+(dp816
+VKolor
+p817
+VSzary
+p818
+sVPoj. silnika
+p819
+V1 998 cm3
+p820
+sVMarka
+p821
+VFord
+p822
+sVKraj pochodzenia
+p823
+VHolandia
+p824
+sVRok produkcji
+p825
+V2006
+p826
+sVOferta od
+p827
+VOsoby prywatnej
+p828
+sVTyp nadwozia
+p829
+VKombi
+p830
+sVPrzebieg
+p831
+V34 100 km
+p832
+sVPaliwo
+p833
+VDiesel
+p834
+sVMoc silnika
+p835
+V116 KM
+p836
+sVSkrzynia biegów
+p837
+VManualna
+p838
+sVModel
+p839
+VMondeo
+p840
+sVStan techniczny
+p841
+VNieuszkodzony
+p842
+sVFinanse
+p843
+VKUP to auto z wygodnym kredytem!
+p844
+ssg578
+I11900
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp845
+sg582
+S'Ford Mondeo 2.0 TDCi Orygina z Holandii,potwierdzenie przebiegu- NAP'
+p846
+sg584
+VMyszków, myszkowski, \u015al\u0105skie
+p847
+sa(dp848
+g550
+(dp849
+VKolor
+p850
+VSzary
+p851
+sVPoj. silnika
+p852
+V1 998 cm3
+p853
+sVMarka
+p854
+VFord
+p855
+sVKraj pochodzenia
+p856
+VNiemcy
+p857
+sVRok produkcji
+p858
+V2007
+p859
+sVOferta od
+p860
+VOsoby prywatnej
+p861
+sVTyp nadwozia
+p862
+VKombi
+p863
+sVPrzebieg
+p864
+V259 100 km
+p865
+sVPaliwo
+p866
+VDiesel
+p867
+sVMoc silnika
+p868
+V140 KM
+p869
+sVSkrzynia biegów
+p870
+VManualna
+p871
+sVModel
+p872
+VMondeo
+p873
+sVStan techniczny
+p874
+VNieuszkodzony
+p875
+sVFinanse
+p876
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p877
+ssg578
+I23500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp878
+sg582
+S'Ford Mondeo mk4 Titanium, 2.0TDCI 140 KM'
+p879
+sg584
+VBi\u0142goraj, bi\u0142gorajski, Lubelskie
+p880
+sa(dp881
+g550
+(dp882
+VKolor
+p883
+VSrebrny
+p884
+sVPoj. silnika
+p885
+V2 000 cm3
+p886
+sVMarka
+p887
+VFord
+p888
+sVKraj pochodzenia
+p889
+VPolska
+p890
+sVRok produkcji
+p891
+V1998
+p892
+sVOferta od
+p893
+VOsoby prywatnej
+p894
+sVTyp nadwozia
+p895
+VHatchback
+p896
+sVPrzebieg
+p897
+V245 000 km
+p898
+sVPaliwo
+p899
+VLPG
+p900
+sVMoc silnika
+p901
+V130 KM
+p902
+sVSkrzynia biegów
+p903
+VManualna
+p904
+sVModel
+p905
+VMondeo
+p906
+sVStan techniczny
+p907
+VNieuszkodzony
+p908
+sVFinanse
+p909
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p910
+ssg578
+I2350
+sg579
+g580
+(S'\x07\xe1\x05\x04\x00\x00\x00\x00\x00\x00'
+tRp911
+sg582
+S'Ford Mondeo LPG'
+p912
+sg584
+VZad\u0105browie, przemyski, Podkarpackie
+p913
+sa(dp914
+g550
+(dp915
+VKolor
+p916
+VNiebieski
+p917
+sVPoj. silnika
+p918
+V1 800 cm3
+p919
+sVMarka
+p920
+VFord
+p921
+sVRok produkcji
+p922
+V1999
+p923
+sVOferta od
+p924
+VOsoby prywatnej
+p925
+sVTyp nadwozia
+p926
+VKombi
+p927
+sVPrzebieg
+p928
+V290 000 km
+p929
+sVPaliwo
+p930
+VDiesel
+p931
+sVSkrzynia biegów
+p932
+VManualna
+p933
+sVModel
+p934
+VMondeo
+p935
+sVStan techniczny
+p936
+VNieuszkodzony
+p937
+sVFinanse
+p938
+VKUP to auto z wygodnym kredytem!
+p939
+ssg578
+I1500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp940
+sg582
+S'Sprzedam'
+p941
+sg584
+VSierpc, sierpecki, Mazowieckie
+p942
+sa(dp943
+g550
+(dp944
+VKolor
+p945
+VSzary
+p946
+sVPoj. silnika
+p947
+V2 000 cm3
+p948
+sVMarka
+p949
+VFord
+p950
+sVKraj pochodzenia
+p951
+VNiemcy
+p952
+sVRok produkcji
+p953
+V2007
+p954
+sVOferta od
+p955
+VOsoby prywatnej
+p956
+sVTyp nadwozia
+p957
+VKombi
+p958
+sVPrzebieg
+p959
+V174 000 km
+p960
+sVPaliwo
+p961
+VBenzyna
+p962
+sVMoc silnika
+p963
+V145 KM
+p964
+sVSkrzynia biegów
+p965
+VManualna
+p966
+sVModel
+p967
+VMondeo
+p968
+sVStan techniczny
+p969
+VNieuszkodzony
+p970
+sVFinanse
+p971
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p972
+ssg578
+I29300
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp973
+sg582
+S'ford mondeo 2.0 benzyna+gaz'
+p974
+sg584
+VGorzów, o\u015bwi\u0119cimski, Ma\u0142opolskie
+p975
+sa(dp976
+g550
+(dp977
+VKolor
+p978
+VZielony
+p979
+sVPoj. silnika
+p980
+V1 800 cm3
+p981
+sVMarka
+p982
+VFord
+p983
+sVRok produkcji
+p984
+V2007
+p985
+sVOferta od
+p986
+VOsoby prywatnej
+p987
+sVTyp nadwozia
+p988
+VKombi
+p989
+sVPrzebieg
+p990
+V200 500 km
+p991
+sVPaliwo
+p992
+VDiesel
+p993
+sVMoc silnika
+p994
+V125 KM
+p995
+sVSkrzynia biegów
+p996
+VManualna
+p997
+sVModel
+p998
+VMondeo
+p999
+sVStan techniczny
+p1000
+VNieuszkodzony
+p1001
+sVFinanse
+p1002
+VKUP to auto z wygodnym kredytem!
+p1003
+ssg578
+I18700
+sg579
+g580
+(S'\x07\xe1\x04\x1a\x00\x00\x00\x00\x00\x00'
+tRp1004
+sg582
+S'Ford Mondeo'
+p1005
+sg584
+VZdzieszowice, krapkowicki, Opolskie
+p1006
+sa(dp1007
+g550
+(dp1008
+VKolor
+p1009
+VCzarny
+p1010
+sVPoj. silnika
+p1011
+V1 800 cm3
+p1012
+sVMarka
+p1013
+VFord
+p1014
+sVKraj pochodzenia
+p1015
+VPolska
+p1016
+sVRok produkcji
+p1017
+V2001
+p1018
+sVOferta od
+p1019
+VOsoby prywatnej
+p1020
+sVTyp nadwozia
+p1021
+VHatchback
+p1022
+sVPrzebieg
+p1023
+V230 000 km
+p1024
+sVPaliwo
+p1025
+VLPG
+p1026
+sVMoc silnika
+p1027
+V120 KM
+p1028
+sVSkrzynia biegów
+p1029
+VManualna
+p1030
+sVModel
+p1031
+VMondeo
+p1032
+sVStan techniczny
+p1033
+VNieuszkodzony
+p1034
+sVFinanse
+p1035
+VKUP to auto z wygodnym kredytem!
+p1036
+ssg578
+I6000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1037
+sg582
+S'Ford Mondeo mk3 1,8 Lpg hatchback'
+p1038
+sg584
+VRadzy\u0144 Podlaski, radzy\u0144ski, Lubelskie
+p1039
+sa(dp1040
+g550
+(dp1041
+VKolor
+p1042
+VInny kolor
+p1043
+sVPoj. silnika
+p1044
+V1 800 cm3
+p1045
+sVMarka
+p1046
+VFord
+p1047
+sVKraj pochodzenia
+p1048
+VPolska
+p1049
+sVRok produkcji
+p1050
+V2001
+p1051
+sVOferta od
+p1052
+VOsoby prywatnej
+p1053
+sVTyp nadwozia
+p1054
+VKombi
+p1055
+sVPrzebieg
+p1056
+V247 000 km
+p1057
+sVPaliwo
+p1058
+VLPG
+p1059
+sVMoc silnika
+p1060
+V125 KM
+p1061
+sVSkrzynia biegów
+p1062
+VManualna
+p1063
+sVModel
+p1064
+VMondeo
+p1065
+sVStan techniczny
+p1066
+VNieuszkodzony
+p1067
+sVFinanse
+p1068
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1069
+ssg578
+I7500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1070
+sg582
+S'Ford Mondeo MK3 KOMBI 2001r 1.8 + LPG LOVATO SMART doinwestowany'
+p1071
+sg584
+VPruszcz Gda\u0144ski, gda\u0144ski, Pomorskie
+p1072
+sa(dp1073
+g550
+(dp1074
+VKolor
+p1075
+VSrebrny
+p1076
+sVPoj. silnika
+p1077
+V2 000 cm3
+p1078
+sVMarka
+p1079
+VFord
+p1080
+sVKraj pochodzenia
+p1081
+VNiemcy
+p1082
+sVRok produkcji
+p1083
+V2010
+p1084
+sVOferta od
+p1085
+VOsoby prywatnej
+p1086
+sVTyp nadwozia
+p1087
+VSedan
+p1088
+sVPrzebieg
+p1089
+V147 000 km
+p1090
+sVPaliwo
+p1091
+VDiesel
+p1092
+sVMoc silnika
+p1093
+V116 KM
+p1094
+sVSkrzynia biegów
+p1095
+VManualna
+p1096
+sVModel
+p1097
+VMondeo
+p1098
+sVStan techniczny
+p1099
+VNieuszkodzony
+p1100
+sVFinanse
+p1101
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1102
+ssg578
+I25900
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1103
+sg582
+S'Ford Mondeo MK4 2010 2.0 TDCI.NIEMCY. IDEALNY'
+p1104
+sg584
+VKoszwa\u0142y, gda\u0144ski, Pomorskie
+p1105
+sa(dp1106
+g550
+(dp1107
+VKolor
+p1108
+VZielony
+p1109
+sVPoj. silnika
+p1110
+V2 000 cm3
+p1111
+sVMarka
+p1112
+VFord
+p1113
+sVKraj pochodzenia
+p1114
+VNiemcy
+p1115
+sVRok produkcji
+p1116
+V1998
+p1117
+sVOferta od
+p1118
+VOsoby prywatnej
+p1119
+sVTyp nadwozia
+p1120
+VKombi
+p1121
+sVPrzebieg
+p1122
+V187 600 km
+p1123
+sVPaliwo
+p1124
+VBenzyna
+p1125
+sVMoc silnika
+p1126
+V131 KM
+p1127
+sVSkrzynia biegów
+p1128
+VManualna
+p1129
+sVModel
+p1130
+VMondeo
+p1131
+sVStan techniczny
+p1132
+VNieuszkodzony
+p1133
+sVFinanse
+p1134
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1135
+ssg578
+I1000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1136
+sg582
+S'Ford Mondeo mk2 Kombi 2.0 OKAZJA!'
+p1137
+sg584
+VWieliczka, wielicki, Ma\u0142opolskie
+p1138
+sa(dp1139
+g550
+(dp1140
+VKolor
+p1141
+VSrebrny
+p1142
+sVPoj. silnika
+p1143
+V1 998 cm3
+p1144
+sVMarka
+p1145
+VFord
+p1146
+sVKraj pochodzenia
+p1147
+VNiemcy
+p1148
+sVRok produkcji
+p1149
+V2004
+p1150
+sVOferta od
+p1151
+VOsoby prywatnej
+p1152
+sVTyp nadwozia
+p1153
+VKombi
+p1154
+sVPrzebieg
+p1155
+V312 000 km
+p1156
+sVPaliwo
+p1157
+VDiesel
+p1158
+sVMoc silnika
+p1159
+V131 KM
+p1160
+sVSkrzynia biegów
+p1161
+VManualna
+p1162
+sVModel
+p1163
+VMondeo
+p1164
+sVStan techniczny
+p1165
+VNieuszkodzony
+p1166
+sVFinanse
+p1167
+VKUP to auto z wygodnym kredytem!
+p1168
+ssg578
+I3200
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1169
+sg582
+S'Ford Mondeo mk3 lift 2.0 tdci 130km'
+p1170
+sg584
+VSzczytno, szczycie\u0144ski, Warmi\u0144sko-mazurskie
+p1171
+sa(dp1172
+g550
+(dp1173
+VKolor
+p1174
+VNiebieski
+p1175
+sVPoj. silnika
+p1176
+V2 000 cm3
+p1177
+sVMarka
+p1178
+VFord
+p1179
+sVRok produkcji
+p1180
+V1997
+p1181
+sVOferta od
+p1182
+VOsoby prywatnej
+p1183
+sVTyp nadwozia
+p1184
+VHatchback
+p1185
+sVPrzebieg
+p1186
+V230 000 km
+p1187
+sVPaliwo
+p1188
+VBenzyna
+p1189
+sVMoc silnika
+p1190
+V136 KM
+p1191
+sVSkrzynia biegów
+p1192
+VManualna
+p1193
+sVModel
+p1194
+VMondeo
+p1195
+sVStan techniczny
+p1196
+VNieuszkodzony
+p1197
+sVFinanse
+p1198
+VKUP to auto z wygodnym kredytem!
+p1199
+ssg578
+I1550
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp1200
+sg582
+S'Ford Mondeo 2.0 136KM*Klima*Elektryka*Alufelgi'
+p1201
+sg584
+VWo\u0142omin, wo\u0142omi\u0144ski, Mazowieckie
+p1202
+sa(dp1203
+g550
+(dp1204
+VKolor
+p1205
+VCzarny
+p1206
+sVPoj. silnika
+p1207
+V2 000 cm3
+p1208
+sVMarka
+p1209
+VFord
+p1210
+sVKraj pochodzenia
+p1211
+VPolska
+p1212
+sVRok produkcji
+p1213
+V2002
+p1214
+sVOferta od
+p1215
+VOsoby prywatnej
+p1216
+sVTyp nadwozia
+p1217
+VKombi
+p1218
+sVPrzebieg
+p1219
+V260 505 km
+p1220
+sVPaliwo
+p1221
+VDiesel
+p1222
+sVMoc silnika
+p1223
+V130 KM
+p1224
+sVSkrzynia biegów
+p1225
+VManualna
+p1226
+sVModel
+p1227
+VMondeo
+p1228
+sVStan techniczny
+p1229
+VNieuszkodzony
+p1230
+sVFinanse
+p1231
+VKUP to auto z wygodnym kredytem!
+p1232
+ssg578
+I4500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1233
+sg582
+S'Ford Mondeo mk3 2.0 TDCI KOMBI'
+p1234
+sg584
+VChotków, \u017caga\u0144ski, Lubuskie
+p1235
+sa(dp1236
+g550
+(dp1237
+VKolor
+p1238
+VBia\u0142y
+p1239
+sVPoj. silnika
+p1240
+V2 000 cm3
+p1241
+sVMarka
+p1242
+VFord
+p1243
+sVRok produkcji
+p1244
+V2009
+p1245
+sVOferta od
+p1246
+VOsoby prywatnej
+p1247
+sVTyp nadwozia
+p1248
+VSedan
+p1249
+sVPrzebieg
+p1250
+V169 000 km
+p1251
+sVPaliwo
+p1252
+VLPG
+p1253
+sVMoc silnika
+p1254
+V145 KM
+p1255
+sVSkrzynia biegów
+p1256
+VManualna
+p1257
+sVModel
+p1258
+VMondeo
+p1259
+sVStan techniczny
+p1260
+VNieuszkodzony
+p1261
+sVFinanse
+p1262
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1263
+ssg578
+I32000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1264
+sg582
+S'Ford Mondeo Trend 2.0 LPG 145 Km Sedan Pskry'
+p1265
+sg584
+VBydgoszcz, Kujawsko-pomorskie
+p1266
+sa(dp1267
+g550
+(dp1268
+VKolor
+p1269
+VSrebrny
+p1270
+sVPoj. silnika
+p1271
+V2 000 cm3
+p1272
+sVMarka
+p1273
+VFord
+p1274
+sVRok produkcji
+p1275
+V2001
+p1276
+sVOferta od
+p1277
+VOsoby prywatnej
+p1278
+sVTyp nadwozia
+p1279
+VSedan
+p1280
+sVPrzebieg
+p1281
+V314 000 km
+p1282
+sVPaliwo
+p1283
+VDiesel
+p1284
+sVMoc silnika
+p1285
+V115 KM
+p1286
+sVSkrzynia biegów
+p1287
+VManualna
+p1288
+sVModel
+p1289
+VMondeo
+p1290
+sVStan techniczny
+p1291
+VNieuszkodzony
+p1292
+sVFinanse
+p1293
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1294
+ssg578
+I4999
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1295
+sg582
+S'Sprzedam/Zamienie Ford Mondeo 2.0 TDDI 2001 ZWYKA POMPA'
+p1296
+sg584
+VSzczerców, be\u0142chatowski, \u0141ódzkie
+p1297
+sa(dp1298
+g550
+(dp1299
+VKolor
+p1300
+VSrebrny
+p1301
+sVPoj. silnika
+p1302
+V2 000 cm3
+p1303
+sVMarka
+p1304
+VFord
+p1305
+sVKraj pochodzenia
+p1306
+VPolska
+p1307
+sVRok produkcji
+p1308
+V1998
+p1309
+sVOferta od
+p1310
+VOsoby prywatnej
+p1311
+sVTyp nadwozia
+p1312
+VKombi
+p1313
+sVPrzebieg
+p1314
+V230 000 km
+p1315
+sVPaliwo
+p1316
+VBenzyna
+p1317
+sVMoc silnika
+p1318
+V130 KM
+p1319
+sVSkrzynia biegów
+p1320
+VManualna
+p1321
+sVModel
+p1322
+VMondeo
+p1323
+sVStan techniczny
+p1324
+VNieuszkodzony
+p1325
+sVFinanse
+p1326
+VKUP to auto z wygodnym kredytem!
+p1327
+ssg578
+I2850
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1328
+sg582
+S'Tylko rozsadne propozycje.'
+p1329
+sg584
+VGliwice, \u015al\u0105skie, Szobiszowice
+p1330
+sa(dp1331
+g550
+(dp1332
+VKolor
+p1333
+VNiebieski
+p1334
+sVPoj. silnika
+p1335
+V2 000 cm3
+p1336
+sVMarka
+p1337
+VFord
+p1338
+sVKraj pochodzenia
+p1339
+VPolska
+p1340
+sVRok produkcji
+p1341
+V2001
+p1342
+sVOferta od
+p1343
+VOsoby prywatnej
+p1344
+sVTyp nadwozia
+p1345
+VKombi
+p1346
+sVPrzebieg
+p1347
+V230 000 km
+p1348
+sVPaliwo
+p1349
+VLPG
+p1350
+sVMoc silnika
+p1351
+V145 KM
+p1352
+sVSkrzynia biegów
+p1353
+VAutomatyczna
+p1354
+sVModel
+p1355
+VMondeo
+p1356
+sVStan techniczny
+p1357
+VNieuszkodzony
+p1358
+sVFinanse
+p1359
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1360
+ssg578
+I6000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1361
+sg582
+S'Ford Mondeo Mk3 GHIA ! 2,0 Benzyna + LPG 2027 ! FULL OPCJA ! ZAMIANA!'
+p1362
+sg584
+V\u0141a\u0144cut, \u0142a\u0144cucki, Podkarpackie
+p1363
+sa(dp1364
+g550
+(dp1365
+VKolor
+p1366
+VCzarny
+p1367
+sVPoj. silnika
+p1368
+V2 000 cm3
+p1369
+sVMarka
+p1370
+VFord
+p1371
+sVKraj pochodzenia
+p1372
+VNiemcy
+p1373
+sVRok produkcji
+p1374
+V2007
+p1375
+sVOferta od
+p1376
+VOsoby prywatnej
+p1377
+sVTyp nadwozia
+p1378
+VKombi
+p1379
+sVPrzebieg
+p1380
+V196 000 km
+p1381
+sVPaliwo
+p1382
+VDiesel
+p1383
+sVMoc silnika
+p1384
+V130 KM
+p1385
+sVSkrzynia biegów
+p1386
+VManualna
+p1387
+sVModel
+p1388
+VMondeo
+p1389
+sVStan techniczny
+p1390
+VNieuszkodzony
+p1391
+sVFinanse
+p1392
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1393
+ssg578
+I8700
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1394
+sg582
+S'Ford Mondeo 2007r. Bardzo dobry stan'
+p1395
+sg584
+VWroc\u0142aw, Dolno\u015bl\u0105skie, Fabryczna
+p1396
+sa(dp1397
+g550
+(dp1398
+VKolor
+p1399
+VSrebrny
+p1400
+sVPoj. silnika
+p1401
+V2 000 cm3
+p1402
+sVMarka
+p1403
+VFord
+p1404
+sVKraj pochodzenia
+p1405
+VNiemcy
+p1406
+sVRok produkcji
+p1407
+V2003
+p1408
+sVOferta od
+p1409
+VOsoby prywatnej
+p1410
+sVTyp nadwozia
+p1411
+VKombi
+p1412
+sVPrzebieg
+p1413
+V212 km
+p1414
+sVPaliwo
+p1415
+VDiesel
+p1416
+sVMoc silnika
+p1417
+V115 KM
+p1418
+sVSkrzynia biegów
+p1419
+VAutomatyczna
+p1420
+sVModel
+p1421
+VMondeo
+p1422
+sVStan techniczny
+p1423
+VNieuszkodzony
+p1424
+sVFinanse
+p1425
+VKUP to auto z wygodnym kredytem!
+p1426
+ssg578
+I3500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1427
+sg582
+S'Ford Mondeo Mk3'
+p1428
+sg584
+VWiele, ko\u015bcierski, Pomorskie
+p1429
+sa(dp1430
+g550
+(dp1431
+VKolor
+p1432
+VBia\u0142y
+p1433
+sVPoj. silnika
+p1434
+V1 800 cm3
+p1435
+sVMarka
+p1436
+VFord
+p1437
+sVKraj pochodzenia
+p1438
+VPolska
+p1439
+sVRok produkcji
+p1440
+V1999
+p1441
+sVOferta od
+p1442
+VOsoby prywatnej
+p1443
+sVTyp nadwozia
+p1444
+VKombi
+p1445
+sVPrzebieg
+p1446
+V303 214 km
+p1447
+sVPaliwo
+p1448
+VDiesel
+p1449
+sVMoc silnika
+p1450
+V90 KM
+p1451
+sVSkrzynia biegów
+p1452
+VManualna
+p1453
+sVModel
+p1454
+VMondeo
+p1455
+sVStan techniczny
+p1456
+VNieuszkodzony
+p1457
+sVFinanse
+p1458
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1459
+ssg578
+I1800
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1460
+sg582
+S'Ford Mondeo 1.8 Diesel 90km'
+p1461
+sg584
+VTrzcianka, czarnkowsko-trzcianecki, Wielkopolskie
+p1462
+sa(dp1463
+g550
+(dp1464
+VKolor
+p1465
+VInny kolor
+p1466
+sVPoj. silnika
+p1467
+V2 000 cm3
+p1468
+sVMarka
+p1469
+VFord
+p1470
+sVKraj pochodzenia
+p1471
+VNiemcy
+p1472
+sVRok produkcji
+p1473
+V2004
+p1474
+sVOferta od
+p1475
+VOsoby prywatnej
+p1476
+sVTyp nadwozia
+p1477
+VKombi
+p1478
+sVPrzebieg
+p1479
+V200 100 km
+p1480
+sVPaliwo
+p1481
+VDiesel
+p1482
+sVMoc silnika
+p1483
+V150 KM
+p1484
+sVSkrzynia biegów
+p1485
+VAutomatyczna
+p1486
+sVModel
+p1487
+VMondeo
+p1488
+sVStan techniczny
+p1489
+VNieuszkodzony
+p1490
+sVFinanse
+p1491
+VKUP to auto z wygodnym kredytem!
+p1492
+ssg578
+I6400
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1493
+sg582
+S'adny ford mondeo 2004 rok'
+p1494
+sg584
+VCz\u0119stochowa, \u015al\u0105skie, Wrzosowiak
+p1495
+sa(dp1496
+g550
+(dp1497
+VKolor
+p1498
+VInny kolor
+p1499
+sVPoj. silnika
+p1500
+V2 000 cm3
+p1501
+sVMarka
+p1502
+VFord
+p1503
+sVKraj pochodzenia
+p1504
+VPolska
+p1505
+sVRok produkcji
+p1506
+V2006
+p1507
+sVOferta od
+p1508
+VOsoby prywatnej
+p1509
+sVTyp nadwozia
+p1510
+VKombi
+p1511
+sVPrzebieg
+p1512
+V281 000 km
+p1513
+sVPaliwo
+p1514
+VDiesel
+p1515
+sVMoc silnika
+p1516
+V130 KM
+p1517
+sVSkrzynia biegów
+p1518
+VManualna
+p1519
+sVModel
+p1520
+VMondeo
+p1521
+sVStan techniczny
+p1522
+VNieuszkodzony
+p1523
+sVFinanse
+p1524
+VKUP to auto z wygodnym kredytem!
+p1525
+ssg578
+I8500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1526
+sg582
+S'Ford mondeo 2.0tdci 130KM 2006/2007 JEDYNY TAKI NA OLX'
+p1527
+sg584
+VKomorniki, pozna\u0144ski, Wielkopolskie
+p1528
+sa(dp1529
+g550
+(dp1530
+VKolor
+p1531
+VCzarny
+p1532
+sVPoj. silnika
+p1533
+V2 000 cm3
+p1534
+sVMarka
+p1535
+VFord
+p1536
+sVKraj pochodzenia
+p1537
+VPolska
+p1538
+sVRok produkcji
+p1539
+V2003
+p1540
+sVOferta od
+p1541
+VOsoby prywatnej
+p1542
+sVTyp nadwozia
+p1543
+VKombi
+p1544
+sVPrzebieg
+p1545
+V181 000 km
+p1546
+sVPaliwo
+p1547
+VBenzyna
+p1548
+sVMoc silnika
+p1549
+V146 KM
+p1550
+sVSkrzynia biegów
+p1551
+VManualna
+p1552
+sVModel
+p1553
+VMondeo
+p1554
+sVStan techniczny
+p1555
+VUszkodzony
+p1556
+sVFinanse
+p1557
+VKUP to auto z wygodnym kredytem!
+p1558
+ssg578
+I2200
+sg579
+g580
+(S'\x07\xe1\x05\x02\x00\x00\x00\x00\x00\x00'
+tRp1559
+sg582
+S'Mondeo Mk3 2.0 146km 2003r'
+p1560
+sg584
+VKoszalin, Zachodniopomorskie
+p1561
+sa(dp1562
+g550
+(dp1563
+VKolor
+p1564
+VZielony
+p1565
+sVPoj. silnika
+p1566
+V2 000 cm3
+p1567
+sVMarka
+p1568
+VFord
+p1569
+sVKraj pochodzenia
+p1570
+VPolska
+p1571
+sVRok produkcji
+p1572
+V2002
+p1573
+sVOferta od
+p1574
+VOsoby prywatnej
+p1575
+sVTyp nadwozia
+p1576
+VHatchback
+p1577
+sVPrzebieg
+p1578
+V194 000 km
+p1579
+sVPaliwo
+p1580
+VBenzyna
+p1581
+sVMoc silnika
+p1582
+V145 KM
+p1583
+sVSkrzynia biegów
+p1584
+VManualna
+p1585
+sVModel
+p1586
+VMondeo
+p1587
+sVStan techniczny
+p1588
+VNieuszkodzony
+p1589
+sVFinanse
+p1590
+VKUP to auto z wygodnym kredytem!
+p1591
+ssg578
+I5000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1592
+sg582
+S'FORD MONDEO 2.0 Benzyna 145KM!!'
+p1593
+sg584
+VWarszawa, Mazowieckie, Mokotów
+p1594
+sa(dp1595
+g550
+(dp1596
+VKolor
+p1597
+VCzarny
+p1598
+sVPoj. silnika
+p1599
+V1 998 cm3
+p1600
+sVMarka
+p1601
+VFord
+p1602
+sVRok produkcji
+p1603
+V2003
+p1604
+sVOferta od
+p1605
+VOsoby prywatnej
+p1606
+sVTyp nadwozia
+p1607
+VKombi
+p1608
+sVPrzebieg
+p1609
+V290 000 km
+p1610
+sVPaliwo
+p1611
+VDiesel
+p1612
+sVMoc silnika
+p1613
+V115 KM
+p1614
+sVSkrzynia biegów
+p1615
+VManualna
+p1616
+sVModel
+p1617
+VMondeo
+p1618
+sVStan techniczny
+p1619
+VUszkodzony
+p1620
+sVFinanse
+p1621
+VKUP to auto z wygodnym kredytem!
+p1622
+ssg578
+I3000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1623
+sg582
+S'Mk3 Mondeo bogata wersja ghia'
+p1624
+sg584
+VMurowana Go\u015blina, pozna\u0144ski, Wielkopolskie
+p1625
+sa(dp1626
+g550
+(dp1627
+VKolor
+p1628
+VCzarny
+p1629
+sVPoj. silnika
+p1630
+V2 000 cm3
+p1631
+sVMarka
+p1632
+VFord
+p1633
+sVKraj pochodzenia
+p1634
+VPolska
+p1635
+sVRok produkcji
+p1636
+V2004
+p1637
+sVOferta od
+p1638
+VOsoby prywatnej
+p1639
+sVTyp nadwozia
+p1640
+VHatchback
+p1641
+sVPrzebieg
+p1642
+V320 000 km
+p1643
+sVPaliwo
+p1644
+VDiesel
+p1645
+sVMoc silnika
+p1646
+V136 KM
+p1647
+sVSkrzynia biegów
+p1648
+VAutomatyczna
+p1649
+sVModel
+p1650
+VMondeo
+p1651
+sVStan techniczny
+p1652
+VNieuszkodzony
+p1653
+sVFinanse
+p1654
+VKUP to auto z wygodnym kredytem!
+p1655
+ssg578
+I8200
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1656
+sg582
+S'Ford mondeo mk3 2.0 TDCI'
+p1657
+sg584
+VGosty\u0144, gosty\u0144ski, Wielkopolskie
+p1658
+sa(dp1659
+g550
+(dp1660
+VKolor
+p1661
+VNiebieski
+p1662
+sVPoj. silnika
+p1663
+V1 800 cm3
+p1664
+sVMarka
+p1665
+VFord
+p1666
+sVKraj pochodzenia
+p1667
+VHolandia
+p1668
+sVRok produkcji
+p1669
+V1993
+p1670
+sVOferta od
+p1671
+VOsoby prywatnej
+p1672
+sVTyp nadwozia
+p1673
+VKombi
+p1674
+sVPrzebieg
+p1675
+V242 000 km
+p1676
+sVPaliwo
+p1677
+VBenzyna
+p1678
+sVMoc silnika
+p1679
+V115 KM
+p1680
+sVSkrzynia biegów
+p1681
+VManualna
+p1682
+sVModel
+p1683
+VMondeo
+p1684
+sVStan techniczny
+p1685
+VNieuszkodzony
+p1686
+sVFinanse
+p1687
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1688
+ssg578
+I1350
+sg579
+g580
+(S'\x07\xe1\x04\x1e\x00\x00\x00\x00\x00\x00'
+tRp1689
+sg582
+S'Ford Mondeo Kombi 1.8 115km 1993r. Hak zadbany oplaty wazne'
+p1690
+sg584
+VSztum, sztumski, Pomorskie
+p1691
+sa(dp1692
+g550
+(dp1693
+VKolor
+p1694
+VNiebieski
+p1695
+sVPoj. silnika
+p1696
+V2 200 cm3
+p1697
+sVMarka
+p1698
+VFord
+p1699
+sVRok produkcji
+p1700
+V2002
+p1701
+sVOferta od
+p1702
+VOsoby prywatnej
+p1703
+sVTyp nadwozia
+p1704
+VSedan
+p1705
+sVPrzebieg
+p1706
+V276 000 km
+p1707
+sVPaliwo
+p1708
+VDiesel
+p1709
+sVMoc silnika
+p1710
+V125 KM
+p1711
+sVSkrzynia biegów
+p1712
+VManualna
+p1713
+sVModel
+p1714
+VMondeo
+p1715
+sVStan techniczny
+p1716
+VNieuszkodzony
+p1717
+sVFinanse
+p1718
+VKUP to auto z wygodnym kredytem!
+p1719
+ssg578
+I6800
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1720
+sg582
+S'Opel Vectra C 2.2 DTI 125KM 2002r.sedan'
+p1721
+sg584
+VTuchola, tucholski, Kujawsko-pomorskie
+p1722
+sa(dp1723
+g550
+(dp1724
+VKolor
+p1725
+VSrebrny
+p1726
+sVPoj. silnika
+p1727
+V1 800 cm3
+p1728
+sVMarka
+p1729
+VFord
+p1730
+sVKraj pochodzenia
+p1731
+VNiemcy
+p1732
+sVRok produkcji
+p1733
+V1999
+p1734
+sVOferta od
+p1735
+VOsoby prywatnej
+p1736
+sVTyp nadwozia
+p1737
+VHatchback
+p1738
+sVPrzebieg
+p1739
+V299 000 km
+p1740
+sVPaliwo
+p1741
+VDiesel
+p1742
+sVMoc silnika
+p1743
+V98 KM
+p1744
+sVSkrzynia biegów
+p1745
+VManualna
+p1746
+sVModel
+p1747
+VMondeo
+p1748
+sVStan techniczny
+p1749
+VNieuszkodzony
+p1750
+sVFinanse
+p1751
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1752
+ssg578
+I2300
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1753
+sg582
+S'Ford Mondeo 1.8TD Zamiana'
+p1754
+sg584
+VTarnobrzeg, Podkarpackie
+p1755
+sa(dp1756
+g550
+(dp1757
+VKolor
+p1758
+VSrebrny
+p1759
+sVPoj. silnika
+p1760
+V1 998 cm3
+p1761
+sVMarka
+p1762
+VFord
+p1763
+sVKraj pochodzenia
+p1764
+VPolska
+p1765
+sVRok produkcji
+p1766
+V2002
+p1767
+sVOferta od
+p1768
+VFirmy
+p1769
+sVTyp nadwozia
+p1770
+VKombi
+p1771
+sVPrzebieg
+p1772
+V266 000 km
+p1773
+sVPaliwo
+p1774
+VDiesel
+p1775
+sVMoc silnika
+p1776
+V115 KM
+p1777
+sVSkrzynia biegów
+p1778
+VManualna
+p1779
+sVModel
+p1780
+VMondeo
+p1781
+sVStan techniczny
+p1782
+VNieuszkodzony
+p1783
+sVFinanse
+p1784
+VKUP to auto z wygodnym kredytem!
+p1785
+ssg578
+I4222
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1786
+sg582
+S'Ford Mondeo 2.0 TDDI 115KM !! Elektryka !! Zadbany !! OKAZJA !!'
+p1787
+sg584
+VLeszno, Wielkopolskie
+p1788
+sa(dp1789
+g550
+(dp1790
+VKolor
+p1791
+VNiebieski
+p1792
+sVPoj. silnika
+p1793
+V2 000 cm3
+p1794
+sVMarka
+p1795
+VFord
+p1796
+sVKraj pochodzenia
+p1797
+VWielka Brytania
+p1798
+sVRok produkcji
+p1799
+V2004
+p1800
+sVOferta od
+p1801
+VFirmy
+p1802
+sVTyp nadwozia
+p1803
+VSedan
+p1804
+sVPrzebieg
+p1805
+V150 km
+p1806
+sVPaliwo
+p1807
+VBenzyna
+p1808
+sVMoc silnika
+p1809
+V150 KM
+p1810
+sVSkrzynia biegów
+p1811
+VManualna
+p1812
+sVKierownica po prawej (Anglik)
+p1813
+VKierownica po prawej (Anglik)
+p1814
+sVModel
+p1815
+VMondeo
+p1816
+sVStan techniczny
+p1817
+VNieuszkodzony
+p1818
+sVFinanse
+p1819
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1820
+ssg578
+I3500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1821
+sg582
+S'Samochd'
+p1822
+sg584
+VGr\u0119zów, siedlecki, Mazowieckie
+p1823
+sa(dp1824
+g550
+(dp1825
+VKolor
+p1826
+VCzarny
+p1827
+sVPoj. silnika
+p1828
+V1 998 cm3
+p1829
+sVMarka
+p1830
+VFord
+p1831
+sVKraj pochodzenia
+p1832
+VPolska
+p1833
+sVRok produkcji
+p1834
+V2003
+p1835
+sVOferta od
+p1836
+VOsoby prywatnej
+p1837
+sVTyp nadwozia
+p1838
+VKombi
+p1839
+sVPrzebieg
+p1840
+V209 000 km
+p1841
+sVPaliwo
+p1842
+VDiesel
+p1843
+sVMoc silnika
+p1844
+V130 KM
+p1845
+sVSkrzynia biegów
+p1846
+VManualna
+p1847
+sVModel
+p1848
+VMondeo
+p1849
+sVStan techniczny
+p1850
+VNieuszkodzony
+p1851
+sVFinanse
+p1852
+VKUP to auto z wygodnym kredytem!
+p1853
+ssg578
+I9000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1854
+sg582
+S'Sprzedam ford Mondeo'
+p1855
+sg584
+VW\u0105growiec, w\u0105growiecki, Wielkopolskie
+p1856
+sa(dp1857
+g550
+(dp1858
+VKolor
+p1859
+VBia\u0142y
+p1860
+sVPoj. silnika
+p1861
+V1 998 cm3
+p1862
+sVMarka
+p1863
+VFord
+p1864
+sVKraj pochodzenia
+p1865
+VNiemcy
+p1866
+sVRok produkcji
+p1867
+V2001
+p1868
+sVOferta od
+p1869
+VOsoby prywatnej
+p1870
+sVTyp nadwozia
+p1871
+VKombi
+p1872
+sVPrzebieg
+p1873
+V275 000 km
+p1874
+sVPaliwo
+p1875
+VDiesel
+p1876
+sVMoc silnika
+p1877
+V115 KM
+p1878
+sVSkrzynia biegów
+p1879
+VManualna
+p1880
+sVModel
+p1881
+VMondeo
+p1882
+sVStan techniczny
+p1883
+VNieuszkodzony
+p1884
+sVFinanse
+p1885
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p1886
+ssg578
+I3500
+sg579
+g580
+(S'\x07\xe1\x05\x01\x00\x00\x00\x00\x00\x00'
+tRp1887
+sg582
+S'ford mondeo 3'
+p1888
+sg584
+VBia\u0142okury, ko\u0142obrzeski, Zachodniopomorskie
+p1889
+sa(dp1890
+g550
+(dp1891
+VKolor
+p1892
+VNiebieski
+p1893
+sVPoj. silnika
+p1894
+V1 998 cm3
+p1895
+sVMarka
+p1896
+VFord
+p1897
+sVRok produkcji
+p1898
+V2002
+p1899
+sVOferta od
+p1900
+VOsoby prywatnej
+p1901
+sVTyp nadwozia
+p1902
+VSedan
+p1903
+sVPrzebieg
+p1904
+V170 000 km
+p1905
+sVPaliwo
+p1906
+VLPG
+p1907
+sVMoc silnika
+p1908
+V145 KM
+p1909
+sVSkrzynia biegów
+p1910
+VManualna
+p1911
+sVModel
+p1912
+VMondeo
+p1913
+sVStan techniczny
+p1914
+VNieuszkodzony
+p1915
+sVFinanse
+p1916
+VKUP to auto z wygodnym kredytem!
+p1917
+ssg578
+I9800
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1918
+sg582
+S'Ford Mondeo MK3 2.0 B+LPG Bezwypadkowy, LPG Gwarancja'
+p1919
+sg584
+VSochaczew, sochaczewski, Mazowieckie
+p1920
+sa(dp1921
+g550
+(dp1922
+VKolor
+p1923
+VZielony
+p1924
+sVPoj. silnika
+p1925
+V1 753 cm3
+p1926
+sVMarka
+p1927
+VFord
+p1928
+sVKraj pochodzenia
+p1929
+VPolska
+p1930
+sVRok produkcji
+p1931
+V1998
+p1932
+sVOferta od
+p1933
+VOsoby prywatnej
+p1934
+sVTyp nadwozia
+p1935
+VKombi
+p1936
+sVPrzebieg
+p1937
+V265 000 km
+p1938
+sVPaliwo
+p1939
+VDiesel
+p1940
+sVSkrzynia biegów
+p1941
+VManualna
+p1942
+sVModel
+p1943
+VMondeo
+p1944
+sVStan techniczny
+p1945
+VNieuszkodzony
+p1946
+sVFinanse
+p1947
+VKUP to auto z wygodnym kredytem!
+p1948
+ssg578
+I2900
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp1949
+sg582
+S'Ford Mondeo MKII 1,8 Diesel kombi'
+p1950
+sg584
+VSzczecin, Zachodniopomorskie, Centrum
+p1951
+sa(dp1952
+g550
+(dp1953
+VKolor
+p1954
+VSrebrny
+p1955
+sVPoj. silnika
+p1956
+V1 998 cm3
+p1957
+sVMarka
+p1958
+VFord
+p1959
+sVRok produkcji
+p1960
+V2001
+p1961
+sVOferta od
+p1962
+VOsoby prywatnej
+p1963
+sVTyp nadwozia
+p1964
+VKombi
+p1965
+sVPrzebieg
+p1966
+V275 000 km
+p1967
+sVPaliwo
+p1968
+VDiesel
+p1969
+sVSkrzynia biegów
+p1970
+VManualna
+p1971
+sVModel
+p1972
+VMondeo
+p1973
+sVStan techniczny
+p1974
+VUszkodzony
+p1975
+sVFinanse
+p1976
+VKUP to auto z wygodnym kredytem!
+p1977
+ssg578
+I2000
+sg579
+g580
+(S'\x07\xe1\x05\x07\x00\x00\x00\x00\x00\x00'
+tRp1978
+sg582
+S'Ford Mondeo Mk3 Okazja'
+p1979
+sg584
+VKoszarawa, \u017cywiecki, \u015al\u0105skie
+p1980
+sa(dp1981
+g550
+(dp1982
+VKolor
+p1983
+VSrebrny
+p1984
+sVPoj. silnika
+p1985
+V2 000 cm3
+p1986
+sVMarka
+p1987
+VFord
+p1988
+sVKraj pochodzenia
+p1989
+VNiemcy
+p1990
+sVRok produkcji
+p1991
+V2006
+p1992
+sVOferta od
+p1993
+VOsoby prywatnej
+p1994
+sVTyp nadwozia
+p1995
+VKombi
+p1996
+sVPrzebieg
+p1997
+V24 000 km
+p1998
+sVPaliwo
+p1999
+VDiesel
+p2000
+sVMoc silnika
+p2001
+V115 KM
+p2002
+sVSkrzynia biegów
+p2003
+VManualna
+p2004
+sVModel
+p2005
+VMondeo
+p2006
+sVStan techniczny
+p2007
+VNieuszkodzony
+p2008
+sVFinanse
+p2009
+VKUP to auto z wygodnym kredytem!
+p2010
+ssg578
+I9600
+sg579
+g580
+(S'\x07\xe1\x04\x0c\x00\x00\x00\x00\x00\x00'
+tRp2011
+sg582
+S'Ford Mondeo 2.0 TDCi'
+p2012
+sg584
+VNowy Dwór Mazowiecki, nowodworski, Mazowieckie
+p2013
+sa(dp2014
+g550
+(dp2015
+VKolor
+p2016
+VSrebrny
+p2017
+sVPoj. silnika
+p2018
+V2 500 cm3
+p2019
+sVMarka
+p2020
+VFord
+p2021
+sVRok produkcji
+p2022
+V1999
+p2023
+sVOferta od
+p2024
+VOsoby prywatnej
+p2025
+sVTyp nadwozia
+p2026
+VKombi
+p2027
+sVPrzebieg
+p2028
+V224 000 km
+p2029
+sVPaliwo
+p2030
+VBenzyna
+p2031
+sVMoc silnika
+p2032
+V170 KM
+p2033
+sVSkrzynia biegów
+p2034
+VAutomatyczna
+p2035
+sVModel
+p2036
+VMondeo
+p2037
+sVStan techniczny
+p2038
+VNieuszkodzony
+p2039
+sVFinanse
+p2040
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2041
+ssg578
+I1600
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2042
+sg582
+S'Ford Mondeo kombi Ghia 2.5 v6 automat 1999 w pelni sprawny okazja!!!'
+p2043
+sg584
+VKatowice, \u015al\u0105skie, Osiedle Tysi\u0105clecia
+p2044
+sa(dp2045
+g550
+(dp2046
+VKolor
+p2047
+VSzary
+p2048
+sVPoj. silnika
+p2049
+V1 800 cm3
+p2050
+sVMarka
+p2051
+VFord
+p2052
+sVKraj pochodzenia
+p2053
+VPolska
+p2054
+sVRok produkcji
+p2055
+V2010
+p2056
+sVOferta od
+p2057
+VFirmy
+p2058
+sVTyp nadwozia
+p2059
+VKombi
+p2060
+sVPrzebieg
+p2061
+V155 000 km
+p2062
+sVPaliwo
+p2063
+VDiesel
+p2064
+sVSkrzynia biegów
+p2065
+VManualna
+p2066
+sVModel
+p2067
+VMondeo
+p2068
+sVStan techniczny
+p2069
+VNieuszkodzony
+p2070
+sVFinanse
+p2071
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2072
+ssg578
+I26500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2073
+sg582
+S'ford mondeo'
+p2074
+sg584
+VJózefos\u0142aw, gm. Piaseczno, piaseczy\u0144ski, Mazowieckie
+p2075
+sa(dp2076
+g550
+(dp2077
+VKolor
+p2078
+VSzary
+p2079
+sVPoj. silnika
+p2080
+V2 000 cm3
+p2081
+sVMarka
+p2082
+VFord
+p2083
+sVKraj pochodzenia
+p2084
+VStany Zjednoczone
+p2085
+sVRok produkcji
+p2086
+V2013
+p2087
+sVOferta od
+p2088
+VOsoby prywatnej
+p2089
+sVTyp nadwozia
+p2090
+VSedan
+p2091
+sVPrzebieg
+p2092
+V76 000 km
+p2093
+sVPaliwo
+p2094
+VBenzyna
+p2095
+sVMoc silnika
+p2096
+V240 KM
+p2097
+sVSkrzynia biegów
+p2098
+VAutomatyczna
+p2099
+sVModel
+p2100
+VMondeo
+p2101
+sVStan techniczny
+p2102
+VNieuszkodzony
+p2103
+sVFinanse
+p2104
+VKUP to auto z wygodnym kredytem!
+p2105
+ssg578
+I56000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2106
+sg582
+S'Ford Fusion/MK5 Hybryda'
+p2107
+sg584
+VMaków Mazowiecki, makowski, Mazowieckie
+p2108
+sa(dp2109
+g550
+(dp2110
+VKolor
+p2111
+VCzarny
+p2112
+sVPoj. silnika
+p2113
+V2 000 cm3
+p2114
+sVMarka
+p2115
+VFord
+p2116
+sVKraj pochodzenia
+p2117
+VPolska
+p2118
+sVRok produkcji
+p2119
+V2002
+p2120
+sVOferta od
+p2121
+VOsoby prywatnej
+p2122
+sVTyp nadwozia
+p2123
+VKombi
+p2124
+sVPrzebieg
+p2125
+V300 000 km
+p2126
+sVPaliwo
+p2127
+VDiesel
+p2128
+sVMoc silnika
+p2129
+V130 KM
+p2130
+sVSkrzynia biegów
+p2131
+VAutomatyczna
+p2132
+sVModel
+p2133
+VMondeo
+p2134
+sVStan techniczny
+p2135
+VNieuszkodzony
+p2136
+sVFinanse
+p2137
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2138
+ssg578
+I5850
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2139
+sg582
+S'Ford Mondeo Mk 3 Sprzedam zamieni'
+p2140
+sg584
+VNowa Sól, nowosolski, Lubuskie
+p2141
+sa(dp2142
+g550
+(dp2143
+VKolor
+p2144
+V\u017bó\u0142ty \u2013 Z\u0142oty
+p2145
+sVPoj. silnika
+p2146
+V2 000 cm3
+p2147
+sVMarka
+p2148
+VFord
+p2149
+sVKraj pochodzenia
+p2150
+VNiemcy
+p2151
+sVRok produkcji
+p2152
+V2002
+p2153
+sVOferta od
+p2154
+VOsoby prywatnej
+p2155
+sVTyp nadwozia
+p2156
+VHatchback
+p2157
+sVPrzebieg
+p2158
+V215 000 km
+p2159
+sVPaliwo
+p2160
+VDiesel
+p2161
+sVMoc silnika
+p2162
+V130 KM
+p2163
+sVSkrzynia biegów
+p2164
+VManualna
+p2165
+sVModel
+p2166
+VMondeo
+p2167
+sVStan techniczny
+p2168
+VNieuszkodzony
+p2169
+sVFinanse
+p2170
+VKUP to auto z wygodnym kredytem!
+p2171
+ssg578
+I3000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2172
+sg582
+S'Ford Mondeo mk3 2.0 TDCI 2002r. Okazja !'
+p2173
+sg584
+VPoraj, myszkowski, \u015al\u0105skie
+p2174
+sa(dp2175
+g550
+(dp2176
+VKolor
+p2177
+VNiebieski
+p2178
+sVPoj. silnika
+p2179
+V1 800 cm3
+p2180
+sVMarka
+p2181
+VFord
+p2182
+sVKraj pochodzenia
+p2183
+VNiemcy
+p2184
+sVRok produkcji
+p2185
+V1999
+p2186
+sVOferta od
+p2187
+VOsoby prywatnej
+p2188
+sVTyp nadwozia
+p2189
+VKombi
+p2190
+sVPrzebieg
+p2191
+V260 000 km
+p2192
+sVPaliwo
+p2193
+VDiesel
+p2194
+sVMoc silnika
+p2195
+V90 KM
+p2196
+sVSkrzynia biegów
+p2197
+VManualna
+p2198
+sVModel
+p2199
+VMondeo
+p2200
+sVStan techniczny
+p2201
+VNieuszkodzony
+p2202
+sVFinanse
+p2203
+VKUP to auto z wygodnym kredytem!
+p2204
+ssg578
+I2500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2205
+sg582
+S'Sprzedam'
+p2206
+sg584
+VPasterzowice, \u017caga\u0144ski, Lubuskie
+p2207
+sa(dp2208
+g550
+(dp2209
+VKolor
+p2210
+VInny kolor
+p2211
+sVPoj. silnika
+p2212
+V2 000 cm3
+p2213
+sVMarka
+p2214
+VFord
+p2215
+sVKraj pochodzenia
+p2216
+VBelgia
+p2217
+sVRok produkcji
+p2218
+V2007
+p2219
+sVOferta od
+p2220
+VOsoby prywatnej
+p2221
+sVTyp nadwozia
+p2222
+VHatchback
+p2223
+sVPrzebieg
+p2224
+V192 km
+p2225
+sVPaliwo
+p2226
+VDiesel
+p2227
+sVMoc silnika
+p2228
+V140 KM
+p2229
+sVSkrzynia biegów
+p2230
+VManualna
+p2231
+sVModel
+p2232
+VMondeo
+p2233
+sVStan techniczny
+p2234
+VNieuszkodzony
+p2235
+sVFinanse
+p2236
+VKUP to auto z wygodnym kredytem!
+p2237
+ssg578
+I28900
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2238
+sg582
+S'Ford Mondeo 2.0 Diesel Titanium Convers+ Nowe opony'
+p2239
+sg584
+VKielce, \u015awi\u0119tokrzyskie
+p2240
+sa(dp2241
+g550
+(dp2242
+VKolor
+p2243
+VInny kolor
+p2244
+sVPoj. silnika
+p2245
+V1 800 cm3
+p2246
+sVMarka
+p2247
+VFord
+p2248
+sVKraj pochodzenia
+p2249
+VNiemcy
+p2250
+sVRok produkcji
+p2251
+V2001
+p2252
+sVOferta od
+p2253
+VOsoby prywatnej
+p2254
+sVTyp nadwozia
+p2255
+VHatchback
+p2256
+sVPrzebieg
+p2257
+V150 000 km
+p2258
+sVPaliwo
+p2259
+VBenzyna
+p2260
+sVMoc silnika
+p2261
+V125 KM
+p2262
+sVSkrzynia biegów
+p2263
+VManualna
+p2264
+sVModel
+p2265
+VMondeo
+p2266
+sVStan techniczny
+p2267
+VNieuszkodzony
+p2268
+sVFinanse
+p2269
+VKUP to auto z wygodnym kredytem!
+p2270
+ssg578
+I6400
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2271
+sg582
+S'adny Ford Mondeo MK3 1.8 benzyna Hatchback Klimatronik 2001 rok'
+p2272
+sg584
+VPas\u0142\u0119k, elbl\u0105ski, Warmi\u0144sko-mazurskie
+p2273
+sa(dp2274
+g550
+(dp2275
+VKolor
+p2276
+VNiebieski
+p2277
+sVPoj. silnika
+p2278
+V1 998 cm3
+p2279
+sVMarka
+p2280
+VFord
+p2281
+sVKraj pochodzenia
+p2282
+VPolska
+p2283
+sVRok produkcji
+p2284
+V2003
+p2285
+sVOferta od
+p2286
+VOsoby prywatnej
+p2287
+sVTyp nadwozia
+p2288
+VKombi
+p2289
+sVPrzebieg
+p2290
+V240 000 km
+p2291
+sVPaliwo
+p2292
+VDiesel
+p2293
+sVMoc silnika
+p2294
+V130 KM
+p2295
+sVSkrzynia biegów
+p2296
+VAutomatyczna
+p2297
+sVModel
+p2298
+VMondeo
+p2299
+sVStan techniczny
+p2300
+VNieuszkodzony
+p2301
+sVFinanse
+p2302
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2303
+ssg578
+I6199
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2304
+sg582
+S'Niezawodny Ford Mondeo kombi mk3, 2003r. AUTOMAT!'
+p2305
+sg584
+VPozna\u0144, Wielkopolskie, Naramowice
+p2306
+sa(dp2307
+g550
+(dp2308
+VKolor
+p2309
+VSrebrny
+p2310
+sVPoj. silnika
+p2311
+V1 800 cm3
+p2312
+sVMarka
+p2313
+VFord
+p2314
+sVKraj pochodzenia
+p2315
+VPolska
+p2316
+sVRok produkcji
+p2317
+V2008
+p2318
+sVOferta od
+p2319
+VOsoby prywatnej
+p2320
+sVTyp nadwozia
+p2321
+VKombi
+p2322
+sVPrzebieg
+p2323
+V253 030 km
+p2324
+sVPaliwo
+p2325
+VDiesel
+p2326
+sVMoc silnika
+p2327
+V122 KM
+p2328
+sVSkrzynia biegów
+p2329
+VManualna
+p2330
+sVModel
+p2331
+VMondeo
+p2332
+sVStan techniczny
+p2333
+VUszkodzony
+p2334
+sVFinanse
+p2335
+VKUP to auto z wygodnym kredytem!
+p2336
+ssg578
+I12000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2337
+sg582
+S'Ford Mondeo MK4 2008 1,8 TDCI Uszkodzony'
+p2338
+sg584
+VWarszawa, Mazowieckie, Praga-Pó\u0142noc
+p2339
+sa(dp2340
+g550
+(dp2341
+VKolor
+p2342
+VCzarny
+p2343
+sVPoj. silnika
+p2344
+V2 000 cm3
+p2345
+sVMarka
+p2346
+VFord
+p2347
+sVKraj pochodzenia
+p2348
+VNiemcy
+p2349
+sVRok produkcji
+p2350
+V2010
+p2351
+sVOferta od
+p2352
+VOsoby prywatnej
+p2353
+sVTyp nadwozia
+p2354
+VKombi
+p2355
+sVPrzebieg
+p2356
+V191 445 km
+p2357
+sVPaliwo
+p2358
+VDiesel
+p2359
+sVMoc silnika
+p2360
+V140 KM
+p2361
+sVSkrzynia biegów
+p2362
+VManualna
+p2363
+sVModel
+p2364
+VMondeo
+p2365
+sVStan techniczny
+p2366
+VNieuszkodzony
+p2367
+sVFinanse
+p2368
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2369
+ssg578
+I25700
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2370
+sg582
+S'Ford Monedo 2010r*Klima*El.szybyx4*Aibag*Radio*Tempomat*6-Bieg*ZAmiana'
+p2371
+sg584
+VLubin, lubi\u0144ski, Dolno\u015bl\u0105skie
+p2372
+sa(dp2373
+g550
+(dp2374
+VKolor
+p2375
+VSrebrny
+p2376
+sVPoj. silnika
+p2377
+V2 000 cm3
+p2378
+sVMarka
+p2379
+VFord
+p2380
+sVRok produkcji
+p2381
+V2008
+p2382
+sVOferta od
+p2383
+VOsoby prywatnej
+p2384
+sVTyp nadwozia
+p2385
+VHatchback
+p2386
+sVPrzebieg
+p2387
+V163 500 km
+p2388
+sVPaliwo
+p2389
+VDiesel
+p2390
+sVMoc silnika
+p2391
+V140 KM
+p2392
+sVSkrzynia biegów
+p2393
+VManualna
+p2394
+sVModel
+p2395
+VMondeo
+p2396
+sVStan techniczny
+p2397
+VNieuszkodzony
+p2398
+sVFinanse
+p2399
+VKUP to auto z wygodnym kredytem!
+p2400
+ssg578
+I25500
+sg579
+g580
+(S'\x07\xe1\x05\x07\x00\x00\x00\x00\x00\x00'
+tRp2401
+sg582
+S'Ford Mondeo Mk4 rok produkcji 2008'
+p2402
+sg584
+VGniezno, gnie\u017anie\u0144ski, Wielkopolskie
+p2403
+sa(dp2404
+g550
+(dp2405
+VKolor
+p2406
+VZielony
+p2407
+sVPoj. silnika
+p2408
+V1 753 cm3
+p2409
+sVMarka
+p2410
+VFord
+p2411
+sVKraj pochodzenia
+p2412
+VPolska
+p2413
+sVRok produkcji
+p2414
+V1997
+p2415
+sVOferta od
+p2416
+VOsoby prywatnej
+p2417
+sVTyp nadwozia
+p2418
+VKombi
+p2419
+sVPrzebieg
+p2420
+V28 500 km
+p2421
+sVPaliwo
+p2422
+VDiesel
+p2423
+sVMoc silnika
+p2424
+V90 KM
+p2425
+sVSkrzynia biegów
+p2426
+VManualna
+p2427
+sVModel
+p2428
+VMondeo
+p2429
+sVStan techniczny
+p2430
+VNieuszkodzony
+p2431
+sVFinanse
+p2432
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2433
+ssg578
+I1500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2434
+sg582
+S'Ford Mondeo 1.8TD Sprzedam!'
+p2435
+sg584
+VRadom, Mazowieckie
+p2436
+sa(dp2437
+g550
+(dp2438
+VKolor
+p2439
+VSzary
+p2440
+sVPoj. silnika
+p2441
+V2 000 cm3
+p2442
+sVMarka
+p2443
+VFord
+p2444
+sVKraj pochodzenia
+p2445
+VNiemcy
+p2446
+sVRok produkcji
+p2447
+V2004
+p2448
+sVOferta od
+p2449
+VOsoby prywatnej
+p2450
+sVTyp nadwozia
+p2451
+VKombi
+p2452
+sVPrzebieg
+p2453
+V190 194 km
+p2454
+sVPaliwo
+p2455
+VDiesel
+p2456
+sVMoc silnika
+p2457
+V130 KM
+p2458
+sVSkrzynia biegów
+p2459
+VManualna
+p2460
+sVModel
+p2461
+VMondeo
+p2462
+sVStan techniczny
+p2463
+VNieuszkodzony
+p2464
+sVFinanse
+p2465
+VKUP to auto z wygodnym kredytem!
+p2466
+ssg578
+I8800
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2467
+sg582
+S'Ford Mondeo 2005 2.0TDCI 130KM 6BIEGW'
+p2468
+sg584
+VPrzyborów, nowosolski, Lubuskie
+p2469
+sa(dp2470
+g550
+(dp2471
+VKolor
+p2472
+VSrebrny
+p2473
+sVPoj. silnika
+p2474
+V1 800 cm3
+p2475
+sVMarka
+p2476
+VFord
+p2477
+sVKraj pochodzenia
+p2478
+VNiemcy
+p2479
+sVRok produkcji
+p2480
+V2004
+p2481
+sVOferta od
+p2482
+VFirmy
+p2483
+sVTyp nadwozia
+p2484
+VHatchback
+p2485
+sVPrzebieg
+p2486
+V177 000 km
+p2487
+sVPaliwo
+p2488
+VBenzyna
+p2489
+sVMoc silnika
+p2490
+V125 KM
+p2491
+sVSkrzynia biegów
+p2492
+VManualna
+p2493
+sVModel
+p2494
+VMondeo
+p2495
+sVStan techniczny
+p2496
+VNieuszkodzony
+p2497
+sVFinanse
+p2498
+VKUP to auto z wygodnym kredytem!
+p2499
+ssg578
+I10900
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2500
+sg582
+S'Po opatach!!!Bezwypadkowy 100%.Zadbany'
+p2501
+sg584
+VWa\u0142brzych, Dolno\u015bl\u0105skie
+p2502
+sa(dp2503
+g550
+(dp2504
+VKolor
+p2505
+V\u017bó\u0142ty \u2013 Z\u0142oty
+p2506
+sVPoj. silnika
+p2507
+V2 198 cm3
+p2508
+sVMarka
+p2509
+VFord
+p2510
+sVRok produkcji
+p2511
+V2006
+p2512
+sVOferta od
+p2513
+VOsoby prywatnej
+p2514
+sVTyp nadwozia
+p2515
+VHatchback
+p2516
+sVPrzebieg
+p2517
+V311 000 km
+p2518
+sVPaliwo
+p2519
+VDiesel
+p2520
+sVMoc silnika
+p2521
+V155 KM
+p2522
+sVSkrzynia biegów
+p2523
+VManualna
+p2524
+sVModel
+p2525
+VMondeo
+p2526
+sVStan techniczny
+p2527
+VNieuszkodzony
+p2528
+sVFinanse
+p2529
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2530
+ssg578
+I9999
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2531
+sg582
+S'Ford Mondeo mk3 2,2 TDCI 2006r.'
+p2532
+sg584
+VPszczyna, pszczy\u0144ski, \u015al\u0105skie
+p2533
+sa(dp2534
+g550
+(dp2535
+VKolor
+p2536
+VCzarny
+p2537
+sVPoj. silnika
+p2538
+V2 000 cm3
+p2539
+sVMarka
+p2540
+VFord
+p2541
+sVKraj pochodzenia
+p2542
+VPolska
+p2543
+sVRok produkcji
+p2544
+V2005
+p2545
+sVOferta od
+p2546
+VOsoby prywatnej
+p2547
+sVTyp nadwozia
+p2548
+VKombi
+p2549
+sVPrzebieg
+p2550
+V306 000 km
+p2551
+sVPaliwo
+p2552
+VDiesel
+p2553
+sVMoc silnika
+p2554
+V115 KM
+p2555
+sVSkrzynia biegów
+p2556
+VAutomatyczna
+p2557
+sVModel
+p2558
+VMondeo
+p2559
+sVStan techniczny
+p2560
+VNieuszkodzony
+p2561
+sVFinanse
+p2562
+VKUP to auto z wygodnym kredytem!
+p2563
+ssg578
+I3400
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2564
+sg582
+S'Ford Mondeo 2,0TDCI 115km 2005r Zamiana'
+p2565
+sg584
+VWroc\u0142aw, Dolno\u015bl\u0105skie, Krzyki
+p2566
+sa(dp2567
+g550
+(dp2568
+VKolor
+p2569
+VSzary
+p2570
+sVPoj. silnika
+p2571
+V1 998 cm3
+p2572
+sVMarka
+p2573
+VFord
+p2574
+sVKraj pochodzenia
+p2575
+VNiemcy
+p2576
+sVRok produkcji
+p2577
+V2003
+p2578
+sVOferta od
+p2579
+VFirmy
+p2580
+sVTyp nadwozia
+p2581
+VKombi
+p2582
+sVPrzebieg
+p2583
+V239 250 km
+p2584
+sVPaliwo
+p2585
+VDiesel
+p2586
+sVMoc silnika
+p2587
+V115 KM
+p2588
+sVSkrzynia biegów
+p2589
+VManualna
+p2590
+sVModel
+p2591
+VMondeo
+p2592
+sVStan techniczny
+p2593
+VNieuszkodzony
+p2594
+sVFinanse
+p2595
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2596
+ssg578
+I3300
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2597
+sg582
+S'Ford Mondeo 2003r 2.0 tddi 115km'
+p2598
+sg584
+VZabrze, \u015al\u0105skie
+p2599
+sa(dp2600
+g550
+(dp2601
+VKolor
+p2602
+VSzary
+p2603
+sVPoj. silnika
+p2604
+V2 000 cm3
+p2605
+sVMarka
+p2606
+VFord
+p2607
+sVKraj pochodzenia
+p2608
+VPolska
+p2609
+sVRok produkcji
+p2610
+V2002
+p2611
+sVOferta od
+p2612
+VOsoby prywatnej
+p2613
+sVTyp nadwozia
+p2614
+VSedan
+p2615
+sVPrzebieg
+p2616
+V24 000 km
+p2617
+sVPaliwo
+p2618
+VDiesel
+p2619
+sVMoc silnika
+p2620
+V115 KM
+p2621
+sVSkrzynia biegów
+p2622
+VManualna
+p2623
+sVModel
+p2624
+VMondeo
+p2625
+sVStan techniczny
+p2626
+VNieuszkodzony
+p2627
+sVFinanse
+p2628
+VKUP to auto z wygodnym kredytem!
+p2629
+ssg578
+I4500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2630
+sg582
+S'Samochod'
+p2631
+sg584
+VBisztynek, bartoszycki, Warmi\u0144sko-mazurskie
+p2632
+sa(dp2633
+g550
+(dp2634
+VKolor
+p2635
+VNiebieski
+p2636
+sVPoj. silnika
+p2637
+V1 800 cm3
+p2638
+sVMarka
+p2639
+VFord
+p2640
+sVKraj pochodzenia
+p2641
+VNiemcy
+p2642
+sVRok produkcji
+p2643
+V1998
+p2644
+sVOferta od
+p2645
+VOsoby prywatnej
+p2646
+sVTyp nadwozia
+p2647
+VHatchback
+p2648
+sVPrzebieg
+p2649
+V292 000 km
+p2650
+sVPaliwo
+p2651
+VDiesel
+p2652
+sVMoc silnika
+p2653
+V90 KM
+p2654
+sVSkrzynia biegów
+p2655
+VManualna
+p2656
+sVModel
+p2657
+VMondeo
+p2658
+sVStan techniczny
+p2659
+VNieuszkodzony
+p2660
+sVFinanse
+p2661
+VKUP to auto z wygodnym kredytem!
+p2662
+ssg578
+I1999
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2663
+sg582
+S'Ford mondeo'
+p2664
+sg584
+VKonin, Wielkopolskie
+p2665
+sa(dp2666
+g550
+(dp2667
+VKolor
+p2668
+VZielony
+p2669
+sVPoj. silnika
+p2670
+V1 800 cm3
+p2671
+sVMarka
+p2672
+VFord
+p2673
+sVRok produkcji
+p2674
+V2000
+p2675
+sVOferta od
+p2676
+VOsoby prywatnej
+p2677
+sVTyp nadwozia
+p2678
+VHatchback
+p2679
+sVPrzebieg
+p2680
+V240 000 km
+p2681
+sVPaliwo
+p2682
+VDiesel
+p2683
+sVMoc silnika
+p2684
+V90 KM
+p2685
+sVSkrzynia biegów
+p2686
+VManualna
+p2687
+sVModel
+p2688
+VMondeo
+p2689
+sVStan techniczny
+p2690
+VNieuszkodzony
+p2691
+sVFinanse
+p2692
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2693
+ssg578
+I2499
+sg579
+g580
+(S'\x07\xe1\x04\x1c\x00\x00\x00\x00\x00\x00'
+tRp2694
+sg582
+S'Ford Mondeo MK2 1.8 D klima 2000r!'
+p2695
+sg584
+VTarnobrzeg, Podkarpackie
+p2696
+sa(dp2697
+g550
+(dp2698
+VKolor
+p2699
+VCzarny
+p2700
+sVPoj. silnika
+p2701
+V2 000 cm3
+p2702
+sVMarka
+p2703
+VFord
+p2704
+sVRok produkcji
+p2705
+V2005
+p2706
+sVOferta od
+p2707
+VOsoby prywatnej
+p2708
+sVTyp nadwozia
+p2709
+VKombi
+p2710
+sVPrzebieg
+p2711
+V247 000 km
+p2712
+sVPaliwo
+p2713
+VDiesel
+p2714
+sVMoc silnika
+p2715
+V115 KM
+p2716
+sVSkrzynia biegów
+p2717
+VManualna
+p2718
+sVModel
+p2719
+VMondeo
+p2720
+sVStan techniczny
+p2721
+VNieuszkodzony
+p2722
+sVFinanse
+p2723
+VKUP to auto z wygodnym kredytem!
+p2724
+ssg578
+I7900
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2725
+sg582
+S'Sprzedam Ford Mondeo'
+p2726
+sg584
+VSierpc, sierpecki, Mazowieckie
+p2727
+sa(dp2728
+g550
+(dp2729
+VKolor
+p2730
+VSrebrny
+p2731
+sVPoj. silnika
+p2732
+V1 986 cm3
+p2733
+sVMarka
+p2734
+VFord
+p2735
+sVRok produkcji
+p2736
+V2001
+p2737
+sVOferta od
+p2738
+VFirmy
+p2739
+sVTyp nadwozia
+p2740
+VKombi
+p2741
+sVPrzebieg
+p2742
+V290 000 km
+p2743
+sVPaliwo
+p2744
+VDiesel
+p2745
+sVMoc silnika
+p2746
+V115 KM
+p2747
+sVSkrzynia biegów
+p2748
+VManualna
+p2749
+sVModel
+p2750
+VMondeo
+p2751
+sVStan techniczny
+p2752
+VNieuszkodzony
+p2753
+sVFinanse
+p2754
+VKUP to auto z wygodnym kredytem!
+p2755
+ssg578
+I4888
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2756
+sg582
+S'Ford Mondeo 2.0 TDDI 115KM !! Skry !! Elektryka !! Full !! OKAZJA !!'
+p2757
+sg584
+VLeszno, Wielkopolskie
+p2758
+sa(dp2759
+g550
+(dp2760
+VKolor
+p2761
+VSrebrny
+p2762
+sVPoj. silnika
+p2763
+V1 999 cm3
+p2764
+sVMarka
+p2765
+VFord
+p2766
+sVRok produkcji
+p2767
+V2003
+p2768
+sVOferta od
+p2769
+VOsoby prywatnej
+p2770
+sVTyp nadwozia
+p2771
+VKombi
+p2772
+sVPrzebieg
+p2773
+V288 680 km
+p2774
+sVPaliwo
+p2775
+VDiesel
+p2776
+sVMoc silnika
+p2777
+V115 KM
+p2778
+sVSkrzynia biegów
+p2779
+VManualna
+p2780
+sVModel
+p2781
+VMondeo
+p2782
+sVStan techniczny
+p2783
+VNieuszkodzony
+p2784
+sVFinanse
+p2785
+VKUP to auto z wygodnym kredytem!
+p2786
+ssg578
+I5800
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2787
+sg582
+S'Ford Mondeo'
+p2788
+sg584
+VD\u0105browa Górnicza, \u015al\u0105skie
+p2789
+sa(dp2790
+g550
+(dp2791
+VKolor
+p2792
+VZielony
+p2793
+sVPoj. silnika
+p2794
+V2 000 cm3
+p2795
+sVMarka
+p2796
+VFord
+p2797
+sVKraj pochodzenia
+p2798
+VPolska
+p2799
+sVRok produkcji
+p2800
+V1998
+p2801
+sVOferta od
+p2802
+VFirmy
+p2803
+sVTyp nadwozia
+p2804
+VKombi
+p2805
+sVPrzebieg
+p2806
+V272 500 km
+p2807
+sVPaliwo
+p2808
+VBenzyna
+p2809
+sVMoc silnika
+p2810
+V130 KM
+p2811
+sVSkrzynia biegów
+p2812
+VManualna
+p2813
+sVModel
+p2814
+VMondeo
+p2815
+sVStan techniczny
+p2816
+VNieuszkodzony
+p2817
+sVFinanse
+p2818
+VKUP to auto z wygodnym kredytem!
+p2819
+ssg578
+I1900
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2820
+sg582
+S'Ford Mondeo 2.0 16v kombi GHIA'
+p2821
+sg584
+VBielsko-Bia\u0142a, \u015al\u0105skie
+p2822
+sa(dp2823
+g550
+(dp2824
+VKolor
+p2825
+VSrebrny
+p2826
+sVPoj. silnika
+p2827
+V1 800 cm3
+p2828
+sVMarka
+p2829
+VFord
+p2830
+sVKraj pochodzenia
+p2831
+VHolandia
+p2832
+sVRok produkcji
+p2833
+V2001
+p2834
+sVOferta od
+p2835
+VFirmy
+p2836
+sVTyp nadwozia
+p2837
+VKombi
+p2838
+sVPrzebieg
+p2839
+V280 000 km
+p2840
+sVPaliwo
+p2841
+VBenzyna
+p2842
+sVMoc silnika
+p2843
+V122 KM
+p2844
+sVSkrzynia biegów
+p2845
+VManualna
+p2846
+sVModel
+p2847
+VMondeo
+p2848
+sVStan techniczny
+p2849
+VNieuszkodzony
+p2850
+sVFinanse
+p2851
+VKUP to auto z wygodnym kredytem!
+p2852
+ssg578
+I5500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2853
+sg582
+S'Ford Mondeo mk3'
+p2854
+sg584
+V\u0141apy, bia\u0142ostocki, Podlaskie
+p2855
+sa(dp2856
+g550
+(dp2857
+VKolor
+p2858
+VNiebieski
+p2859
+sVPoj. silnika
+p2860
+V2 000 cm3
+p2861
+sVMarka
+p2862
+VFord
+p2863
+sVRok produkcji
+p2864
+V2003
+p2865
+sVOferta od
+p2866
+VOsoby prywatnej
+p2867
+sVTyp nadwozia
+p2868
+VKombi
+p2869
+sVPrzebieg
+p2870
+V229 700 km
+p2871
+sVPaliwo
+p2872
+VDiesel
+p2873
+sVMoc silnika
+p2874
+V115 KM
+p2875
+sVSkrzynia biegów
+p2876
+VManualna
+p2877
+sVModel
+p2878
+VMondeo
+p2879
+sVStan techniczny
+p2880
+VNieuszkodzony
+p2881
+sVFinanse
+p2882
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2883
+ssg578
+I6700
+sg579
+g580
+(S'\x07\xe1\x04\x13\x00\x00\x00\x00\x00\x00'
+tRp2884
+sg582
+S'Ford Mondeo 2,0TDCI bez rdzy,bezwypadek, stan BDB ***LUBLIN***'
+p2885
+sg584
+VLublin, Lubelskie
+p2886
+sa(dp2887
+g550
+(dp2888
+VKolor
+p2889
+VInny kolor
+p2890
+sVPoj. silnika
+p2891
+V1 998 cm3
+p2892
+sVMarka
+p2893
+VFord
+p2894
+sVRok produkcji
+p2895
+V2009
+p2896
+sVOferta od
+p2897
+VOsoby prywatnej
+p2898
+sVTyp nadwozia
+p2899
+VKombi
+p2900
+sVPrzebieg
+p2901
+V205 000 km
+p2902
+sVPaliwo
+p2903
+VDiesel
+p2904
+sVMoc silnika
+p2905
+V140 KM
+p2906
+sVSkrzynia biegów
+p2907
+VAutomatyczna
+p2908
+sVModel
+p2909
+VMondeo
+p2910
+sVStan techniczny
+p2911
+VNieuszkodzony
+p2912
+sVFinanse
+p2913
+VKUP to auto z wygodnym kredytem!
+p2914
+ssg578
+I27400
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2915
+sg582
+S'Pikny Ford Mondeo 2,0Tdci Ghia Automat'
+p2916
+sg584
+VLegnica, Dolno\u015bl\u0105skie
+p2917
+sa(dp2918
+g550
+(dp2919
+VKolor
+p2920
+VCzarny
+p2921
+sVPoj. silnika
+p2922
+V1 998 cm3
+p2923
+sVMarka
+p2924
+VFord
+p2925
+sVRok produkcji
+p2926
+V2006
+p2927
+sVOferta od
+p2928
+VOsoby prywatnej
+p2929
+sVTyp nadwozia
+p2930
+VSedan
+p2931
+sVPrzebieg
+p2932
+V213 000 km
+p2933
+sVPaliwo
+p2934
+VDiesel
+p2935
+sVSkrzynia biegów
+p2936
+VManualna
+p2937
+sVModel
+p2938
+VMondeo
+p2939
+sVStan techniczny
+p2940
+VNieuszkodzony
+p2941
+sVFinanse
+p2942
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2943
+ssg578
+I10000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2944
+sg582
+S'Ford Mondeo MK3'
+p2945
+sg584
+VBrze\u017anica, d\u0119bicki, Podkarpackie
+p2946
+sa(dp2947
+g550
+(dp2948
+VKolor
+p2949
+VCzarny
+p2950
+sVPoj. silnika
+p2951
+V1 998 cm3
+p2952
+sVMarka
+p2953
+VFord
+p2954
+sVKraj pochodzenia
+p2955
+VPolska
+p2956
+sVRok produkcji
+p2957
+V2003
+p2958
+sVOferta od
+p2959
+VOsoby prywatnej
+p2960
+sVTyp nadwozia
+p2961
+VKombi
+p2962
+sVPrzebieg
+p2963
+V252 000 km
+p2964
+sVPaliwo
+p2965
+VDiesel
+p2966
+sVMoc silnika
+p2967
+V130 KM
+p2968
+sVSkrzynia biegów
+p2969
+VManualna
+p2970
+sVModel
+p2971
+VMondeo
+p2972
+sVStan techniczny
+p2973
+VUszkodzony
+p2974
+sVFinanse
+p2975
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p2976
+ssg578
+I3500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp2977
+sg582
+S'Ford Mondeo Mk3 Lift 2.0 TDCI 130km Uszkodzone wtryski lub pompa'
+p2978
+sg584
+VBytom, \u015al\u0105skie
+p2979
+sa(dp2980
+g550
+(dp2981
+VKolor
+p2982
+VSzary
+p2983
+sVPoj. silnika
+p2984
+V2 000 cm3
+p2985
+sVMarka
+p2986
+VFord
+p2987
+sVKraj pochodzenia
+p2988
+VHolandia
+p2989
+sVRok produkcji
+p2990
+V2008
+p2991
+sVOferta od
+p2992
+VOsoby prywatnej
+p2993
+sVTyp nadwozia
+p2994
+VKombi
+p2995
+sVPrzebieg
+p2996
+V182 000 km
+p2997
+sVPaliwo
+p2998
+VBenzyna
+p2999
+sVMoc silnika
+p3000
+V147 KM
+p3001
+sVSkrzynia biegów
+p3002
+VManualna
+p3003
+sVModel
+p3004
+VMondeo
+p3005
+sVStan techniczny
+p3006
+VNieuszkodzony
+p3007
+sVFinanse
+p3008
+VKUP to auto z wygodnym kredytem!
+p3009
+ssg578
+I26990
+sg579
+g580
+(S'\x07\xe1\x05\x08\x00\x00\x00\x00\x00\x00'
+tRp3010
+sg582
+S'FORD MONDEO 2.0 145 KLIMA ALU opacony bardzo dobry stan !!!'
+p3011
+sg584
+VKmiecin, nowodworski, Pomorskie
+p3012
+sa(dp3013
+g550
+(dp3014
+VKolor
+p3015
+VInny kolor
+p3016
+sVPoj. silnika
+p3017
+V1 600 cm3
+p3018
+sVMarka
+p3019
+VFord
+p3020
+sVKraj pochodzenia
+p3021
+VHolandia
+p3022
+sVRok produkcji
+p3023
+V2011
+p3024
+sVOferta od
+p3025
+VOsoby prywatnej
+p3026
+sVTyp nadwozia
+p3027
+VKombi
+p3028
+sVPrzebieg
+p3029
+V245 000 km
+p3030
+sVPaliwo
+p3031
+VDiesel
+p3032
+sVMoc silnika
+p3033
+V115 KM
+p3034
+sVSkrzynia biegów
+p3035
+VManualna
+p3036
+sVModel
+p3037
+VMondeo
+p3038
+sVStan techniczny
+p3039
+VNieuszkodzony
+p3040
+sVFinanse
+p3041
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3042
+ssg578
+I30000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3043
+sg582
+S'Ford Mondeo Kombi MK4 1.6 TDCI 11r Lift Led'
+p3044
+sg584
+VCedynia, gryfi\u0144ski, Zachodniopomorskie
+p3045
+sa(dp3046
+g550
+(dp3047
+VKolor
+p3048
+VInny kolor
+p3049
+sVPoj. silnika
+p3050
+V1 800 cm3
+p3051
+sVMarka
+p3052
+VFord
+p3053
+sVRok produkcji
+p3054
+V2001
+p3055
+sVOferta od
+p3056
+VOsoby prywatnej
+p3057
+sVTyp nadwozia
+p3058
+VKombi
+p3059
+sVPrzebieg
+p3060
+V235 000 km
+p3061
+sVPaliwo
+p3062
+VLPG
+p3063
+sVSkrzynia biegów
+p3064
+VManualna
+p3065
+sVModel
+p3066
+VMondeo
+p3067
+sVStan techniczny
+p3068
+VNieuszkodzony
+p3069
+sVFinanse
+p3070
+VKUP to auto z wygodnym kredytem!
+p3071
+ssg578
+I4500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3072
+sg582
+S'Ford Mondeo 2001 1,8 + gaz'
+p3073
+sg584
+VCz\u0142opa, wa\u0142ecki, Zachodniopomorskie
+p3074
+sa(dp3075
+g550
+(dp3076
+VKolor
+p3077
+VCzarny
+p3078
+sVPoj. silnika
+p3079
+V2 000 cm3
+p3080
+sVMarka
+p3081
+VFord
+p3082
+sVKraj pochodzenia
+p3083
+VPolska
+p3084
+sVRok produkcji
+p3085
+V2002
+p3086
+sVOferta od
+p3087
+VOsoby prywatnej
+p3088
+sVTyp nadwozia
+p3089
+VHatchback
+p3090
+sVPrzebieg
+p3091
+V180 000 km
+p3092
+sVPaliwo
+p3093
+VDiesel
+p3094
+sVMoc silnika
+p3095
+V130 KM
+p3096
+sVSkrzynia biegów
+p3097
+VManualna
+p3098
+sVModel
+p3099
+VMondeo
+p3100
+sVStan techniczny
+p3101
+VNieuszkodzony
+p3102
+sVFinanse
+p3103
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3104
+ssg578
+I7900
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3105
+sg582
+S'Salon Polska uklad paliwowy po regeneracji'
+p3106
+sg584
+VKoluszki, \u0142ódzki wschodni, \u0141ódzkie
+p3107
+sa(dp3108
+g550
+(dp3109
+VKolor
+p3110
+VBia\u0142y
+p3111
+sVPoj. silnika
+p3112
+V2 000 cm3
+p3113
+sVMarka
+p3114
+VFord
+p3115
+sVKraj pochodzenia
+p3116
+VPolska
+p3117
+sVRok produkcji
+p3118
+V2001
+p3119
+sVOferta od
+p3120
+VOsoby prywatnej
+p3121
+sVTyp nadwozia
+p3122
+VKombi
+p3123
+sVPrzebieg
+p3124
+V300 000 km
+p3125
+sVPaliwo
+p3126
+VDiesel
+p3127
+sVMoc silnika
+p3128
+V90 KM
+p3129
+sVSkrzynia biegów
+p3130
+VManualna
+p3131
+sVModel
+p3132
+VMondeo
+p3133
+sVStan techniczny
+p3134
+VNieuszkodzony
+p3135
+sVFinanse
+p3136
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3137
+ssg578
+I3500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3138
+sg582
+S'Ford Mondeo'
+p3139
+sg584
+VSzczecin, Zachodniopomorskie, Warszewo
+p3140
+sa(dp3141
+g550
+(dp3142
+VKolor
+p3143
+VSrebrny
+p3144
+sVPoj. silnika
+p3145
+V1 998 cm3
+p3146
+sVMarka
+p3147
+VFord
+p3148
+sVRok produkcji
+p3149
+V2002
+p3150
+sVOferta od
+p3151
+VOsoby prywatnej
+p3152
+sVTyp nadwozia
+p3153
+VKombi
+p3154
+sVPrzebieg
+p3155
+V350 000 km
+p3156
+sVPaliwo
+p3157
+VDiesel
+p3158
+sVMoc silnika
+p3159
+V130 KM
+p3160
+sVSkrzynia biegów
+p3161
+VManualna
+p3162
+sVModel
+p3163
+VMondeo
+p3164
+sVStan techniczny
+p3165
+VNieuszkodzony
+p3166
+sVFinanse
+p3167
+VKUP to auto z wygodnym kredytem!
+p3168
+ssg578
+I4200
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3169
+sg582
+S'Osobowe'
+p3170
+sg584
+VNak\u0142o nad Noteci\u0105, gm. Nak\u0142o Nad Noteci\u0105, nakielski, Kujawsko-pomorskie
+p3171
+sa(dp3172
+g550
+(dp3173
+VKolor
+p3174
+VNiebieski
+p3175
+sVPoj. silnika
+p3176
+V1 998 cm3
+p3177
+sVMarka
+p3178
+VFord
+p3179
+sVKraj pochodzenia
+p3180
+VPolska
+p3181
+sVRok produkcji
+p3182
+V2007
+p3183
+sVOferta od
+p3184
+VOsoby prywatnej
+p3185
+sVTyp nadwozia
+p3186
+VHatchback
+p3187
+sVPrzebieg
+p3188
+V197 000 km
+p3189
+sVPaliwo
+p3190
+VDiesel
+p3191
+sVMoc silnika
+p3192
+V115 KM
+p3193
+sVSkrzynia biegów
+p3194
+VManualna
+p3195
+sVModel
+p3196
+VMondeo
+p3197
+sVStan techniczny
+p3198
+VNieuszkodzony
+p3199
+sVFinanse
+p3200
+VKUP to auto z wygodnym kredytem!
+p3201
+ssg578
+I13300
+sg579
+g580
+(S'\x07\xe1\x04\r\x00\x00\x00\x00\x00\x00'
+tRp3202
+sg582
+S'FORD MONDEO mk3 2007r Salon PL'
+p3203
+sg584
+VW\u0119grów, w\u0119growski, Mazowieckie
+p3204
+sa(dp3205
+g550
+(dp3206
+VKolor
+p3207
+VSzary
+p3208
+sVPoj. silnika
+p3209
+V1 800 cm3
+p3210
+sVMarka
+p3211
+VFord
+p3212
+sVKraj pochodzenia
+p3213
+VPolska
+p3214
+sVRok produkcji
+p3215
+V2004
+p3216
+sVOferta od
+p3217
+VOsoby prywatnej
+p3218
+sVTyp nadwozia
+p3219
+VKombi
+p3220
+sVPrzebieg
+p3221
+V208 000 km
+p3222
+sVPaliwo
+p3223
+VLPG
+p3224
+sVMoc silnika
+p3225
+V125 KM
+p3226
+sVSkrzynia biegów
+p3227
+VManualna
+p3228
+sVModel
+p3229
+VMondeo
+p3230
+sVStan techniczny
+p3231
+VNieuszkodzony
+p3232
+sVFinanse
+p3233
+VKUP to auto z wygodnym kredytem!
+p3234
+ssg578
+I10500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3235
+sg582
+S'Ford Mondeo mk3 2004rok 1.8 gaz zamiana na automat'
+p3236
+sg584
+VKamieniec Wroc\u0142awski, wroc\u0142awski, Dolno\u015bl\u0105skie
+p3237
+sa(dp3238
+g550
+(dp3239
+VKolor
+p3240
+VSrebrny
+p3241
+sVPoj. silnika
+p3242
+V2 000 cm3
+p3243
+sVMarka
+p3244
+VFord
+p3245
+sVKraj pochodzenia
+p3246
+VPolska
+p3247
+sVRok produkcji
+p3248
+V2001
+p3249
+sVOferta od
+p3250
+VOsoby prywatnej
+p3251
+sVTyp nadwozia
+p3252
+VKombi
+p3253
+sVPrzebieg
+p3254
+V240 000 km
+p3255
+sVPaliwo
+p3256
+VDiesel
+p3257
+sVMoc silnika
+p3258
+V90 KM
+p3259
+sVSkrzynia biegów
+p3260
+VManualna
+p3261
+sVModel
+p3262
+VMondeo
+p3263
+sVStan techniczny
+p3264
+VNieuszkodzony
+p3265
+sVFinanse
+p3266
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3267
+ssg578
+I5500
+sg579
+g580
+(S'\x07\xe1\x05\x03\x00\x00\x00\x00\x00\x00'
+tRp3268
+sg582
+S'Ford Mondeo'
+p3269
+sg584
+VTarnów, Ma\u0142opolskie
+p3270
+sa(dp3271
+g550
+(dp3272
+VKolor
+p3273
+VNiebieski
+p3274
+sVPoj. silnika
+p3275
+V2 000 cm3
+p3276
+sVMarka
+p3277
+VFord
+p3278
+sVKraj pochodzenia
+p3279
+VPolska
+p3280
+sVRok produkcji
+p3281
+V2004
+p3282
+sVOferta od
+p3283
+VFirmy
+p3284
+sVTyp nadwozia
+p3285
+VKombi
+p3286
+sVPrzebieg
+p3287
+V290 000 km
+p3288
+sVPaliwo
+p3289
+VDiesel
+p3290
+sVMoc silnika
+p3291
+V1 KM
+p3292
+sVSkrzynia biegów
+p3293
+VAutomatyczna
+p3294
+sVModel
+p3295
+VMondeo
+p3296
+sVStan techniczny
+p3297
+VNieuszkodzony
+p3298
+sVFinanse
+p3299
+VKUP to auto z wygodnym kredytem!
+p3300
+ssg578
+I6500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3301
+sg582
+S'Ford Mondeo MK3 2.0TDCI w bdb stanie z wanymi opatami'
+p3302
+sg584
+VKobylnica, pozna\u0144ski, Wielkopolskie
+p3303
+sa(dp3304
+g550
+(dp3305
+VKolor
+p3306
+VSrebrny
+p3307
+sVPoj. silnika
+p3308
+V22 cm3
+p3309
+sVMarka
+p3310
+VFord
+p3311
+sVKraj pochodzenia
+p3312
+VPolska
+p3313
+sVRok produkcji
+p3314
+V2006
+p3315
+sVOferta od
+p3316
+VOsoby prywatnej
+p3317
+sVTyp nadwozia
+p3318
+VKombi
+p3319
+sVPrzebieg
+p3320
+V300 000 km
+p3321
+sVPaliwo
+p3322
+VDiesel
+p3323
+sVMoc silnika
+p3324
+V155 KM
+p3325
+sVSkrzynia biegów
+p3326
+VAutomatyczna
+p3327
+sVModel
+p3328
+VMondeo
+p3329
+sVStan techniczny
+p3330
+VNieuszkodzony
+p3331
+sVFinanse
+p3332
+VKUP to auto z wygodnym kredytem!
+p3333
+ssg578
+I6800
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3334
+sg582
+S'Ford Mondeo MK3 2006r'
+p3335
+sg584
+VZakopane, tatrza\u0144ski, Ma\u0142opolskie
+p3336
+sa(dp3337
+g550
+(dp3338
+VKolor
+p3339
+VCzerwony
+p3340
+sVPoj. silnika
+p3341
+V1 998 cm3
+p3342
+sVMarka
+p3343
+VFord
+p3344
+sVKraj pochodzenia
+p3345
+VSzwajcaria
+p3346
+sVRok produkcji
+p3347
+V2006
+p3348
+sVOferta od
+p3349
+VFirmy
+p3350
+sVTyp nadwozia
+p3351
+VKombi
+p3352
+sVPrzebieg
+p3353
+V200 000 km
+p3354
+sVPaliwo
+p3355
+VDiesel
+p3356
+sVMoc silnika
+p3357
+V115 KM
+p3358
+sVSkrzynia biegów
+p3359
+VAutomatyczna
+p3360
+sVModel
+p3361
+VMondeo
+p3362
+sVStan techniczny
+p3363
+VNieuszkodzony
+p3364
+sVFinanse
+p3365
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3366
+ssg578
+I9500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3367
+sg582
+S'Ford Mondeo Kombi, cena brutto'
+p3368
+sg584
+VMaków Mazowiecki, makowski, Mazowieckie
+p3369
+sa(dp3370
+g550
+(dp3371
+VKolor
+p3372
+V\u017bó\u0142ty \u2013 Z\u0142oty
+p3373
+sVPoj. silnika
+p3374
+V2 200 cm3
+p3375
+sVMarka
+p3376
+VFord
+p3377
+sVKraj pochodzenia
+p3378
+VPolska
+p3379
+sVRok produkcji
+p3380
+V2005
+p3381
+sVOferta od
+p3382
+VOsoby prywatnej
+p3383
+sVTyp nadwozia
+p3384
+VKombi
+p3385
+sVPrzebieg
+p3386
+V275 km
+p3387
+sVPaliwo
+p3388
+VDiesel
+p3389
+sVMoc silnika
+p3390
+V155 KM
+p3391
+sVSkrzynia biegów
+p3392
+VManualna
+p3393
+sVModel
+p3394
+VMondeo
+p3395
+sVStan techniczny
+p3396
+VNieuszkodzony
+p3397
+sVFinanse
+p3398
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3399
+ssg578
+I8500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3400
+sg582
+S'Ford Mondeo 2.2 TDCI 2005 klima,'
+p3401
+sg584
+VWrze\u015bnia, wrzesi\u0144ski, Wielkopolskie
+p3402
+sa(dp3403
+g550
+(dp3404
+VKolor
+p3405
+VSrebrny
+p3406
+sVPoj. silnika
+p3407
+V2 000 cm3
+p3408
+sVMarka
+p3409
+VFord
+p3410
+sVRok produkcji
+p3411
+V2003
+p3412
+sVOferta od
+p3413
+VOsoby prywatnej
+p3414
+sVTyp nadwozia
+p3415
+VHatchback
+p3416
+sVPrzebieg
+p3417
+V253 000 km
+p3418
+sVPaliwo
+p3419
+VDiesel
+p3420
+sVMoc silnika
+p3421
+V115 KM
+p3422
+sVSkrzynia biegów
+p3423
+VManualna
+p3424
+sVModel
+p3425
+VMondeo
+p3426
+sVStan techniczny
+p3427
+VNieuszkodzony
+p3428
+sVFinanse
+p3429
+VKUP to auto z wygodnym kredytem!
+p3430
+ssg578
+I7000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3431
+sg582
+S'Zamienie lub Sprzedam'
+p3432
+sg584
+VPuck, pucki, Pomorskie
+p3433
+sa(dp3434
+g550
+(dp3435
+VKolor
+p3436
+VInny kolor
+p3437
+sVPoj. silnika
+p3438
+V1 998 cm3
+p3439
+sVMarka
+p3440
+VFord
+p3441
+sVKraj pochodzenia
+p3442
+VNiemcy
+p3443
+sVRok produkcji
+p3444
+V2002
+p3445
+sVOferta od
+p3446
+VFirmy
+p3447
+sVTyp nadwozia
+p3448
+VKombi
+p3449
+sVPrzebieg
+p3450
+V246 359 km
+p3451
+sVPaliwo
+p3452
+VDiesel
+p3453
+sVMoc silnika
+p3454
+V130 KM
+p3455
+sVSkrzynia biegów
+p3456
+VManualna
+p3457
+sVModel
+p3458
+VMondeo
+p3459
+sVStan techniczny
+p3460
+VNieuszkodzony
+p3461
+sVFinanse
+p3462
+VKUP to auto z wygodnym kredytem!
+p3463
+ssg578
+I5900
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3464
+sg582
+S'Ford Mondeo 2,0 Ghia Zadbany Przygotowany do Rejestracji Skrzynia 6-tk'
+p3465
+sg584
+VPyrzyce, pyrzycki, Zachodniopomorskie
+p3466
+sa(dp3467
+g550
+(dp3468
+VKolor
+p3469
+VCzarny
+p3470
+sVPoj. silnika
+p3471
+V2 000 cm3
+p3472
+sVMarka
+p3473
+VFord
+p3474
+sVRok produkcji
+p3475
+V2007
+p3476
+sVOferta od
+p3477
+VOsoby prywatnej
+p3478
+sVTyp nadwozia
+p3479
+VHatchback
+p3480
+sVPrzebieg
+p3481
+V135 000 km
+p3482
+sVPaliwo
+p3483
+VDiesel
+p3484
+sVMoc silnika
+p3485
+V140 KM
+p3486
+sVSkrzynia biegów
+p3487
+VManualna
+p3488
+sVModel
+p3489
+VMondeo
+p3490
+sVStan techniczny
+p3491
+VNieuszkodzony
+p3492
+sVFinanse
+p3493
+VKUP to auto z wygodnym kredytem!
+p3494
+ssg578
+I20500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3495
+sg582
+S'Ford Mondeo Hatchback 2,0 TDCI CONVERS+, Radio SONY, Alu 17, Chromy'
+p3496
+sg584
+VJastrz\u0119bie-Zdrój, \u015al\u0105skie
+p3497
+sa(dp3498
+g550
+(dp3499
+VKolor
+p3500
+V\u017bó\u0142ty \u2013 Z\u0142oty
+p3501
+sVPoj. silnika
+p3502
+V2 000 cm3
+p3503
+sVMarka
+p3504
+VFord
+p3505
+sVKraj pochodzenia
+p3506
+VPolska
+p3507
+sVRok produkcji
+p3508
+V2006
+p3509
+sVOferta od
+p3510
+VOsoby prywatnej
+p3511
+sVTyp nadwozia
+p3512
+VHatchback
+p3513
+sVPrzebieg
+p3514
+V280 000 km
+p3515
+sVPaliwo
+p3516
+VLPG
+p3517
+sVMoc silnika
+p3518
+V145 KM
+p3519
+sVSkrzynia biegów
+p3520
+VManualna
+p3521
+sVModel
+p3522
+VMondeo
+p3523
+sVStan techniczny
+p3524
+VNieuszkodzony
+p3525
+sVFinanse
+p3526
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3527
+ssg578
+I9500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3528
+sg582
+S'ford mondeo mk3 2006r. gaz 2lata (nowa cena tylko do konca tygodnia)'
+p3529
+sg584
+VAleksandrów Kujawski, aleksandrowski, Kujawsko-pomorskie
+p3530
+sa(dp3531
+g550
+(dp3532
+VKolor
+p3533
+VSzary
+p3534
+sVPoj. silnika
+p3535
+V2 000 cm3
+p3536
+sVMarka
+p3537
+VFord
+p3538
+sVKraj pochodzenia
+p3539
+VNiemcy
+p3540
+sVRok produkcji
+p3541
+V2002
+p3542
+sVOferta od
+p3543
+VOsoby prywatnej
+p3544
+sVTyp nadwozia
+p3545
+VKombi
+p3546
+sVPrzebieg
+p3547
+V309 000 km
+p3548
+sVPaliwo
+p3549
+VDiesel
+p3550
+sVMoc silnika
+p3551
+V130 KM
+p3552
+sVSkrzynia biegów
+p3553
+VManualna
+p3554
+sVModel
+p3555
+VMondeo
+p3556
+sVStan techniczny
+p3557
+VNieuszkodzony
+p3558
+sVFinanse
+p3559
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3560
+ssg578
+I5800
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3561
+sg582
+S'ford mondeo mk 3 2,0 TDCI 2002r'
+p3562
+sg584
+VBiedrzychowice, gm. Olszyna, luba\u0144ski, Dolno\u015bl\u0105skie
+p3563
+sa(dp3564
+g550
+(dp3565
+VKolor
+p3566
+VNiebieski
+p3567
+sVPoj. silnika
+p3568
+V1 800 cm3
+p3569
+sVMarka
+p3570
+VFord
+p3571
+sVKraj pochodzenia
+p3572
+VPolska
+p3573
+sVRok produkcji
+p3574
+V2001
+p3575
+sVOferta od
+p3576
+VOsoby prywatnej
+p3577
+sVTyp nadwozia
+p3578
+VHatchback
+p3579
+sVPrzebieg
+p3580
+V262 000 km
+p3581
+sVPaliwo
+p3582
+VBenzyna
+p3583
+sVMoc silnika
+p3584
+V115 KM
+p3585
+sVSkrzynia biegów
+p3586
+VManualna
+p3587
+sVModel
+p3588
+VMondeo
+p3589
+sVStan techniczny
+p3590
+VNieuszkodzony
+p3591
+sVFinanse
+p3592
+VKUP to auto z wygodnym kredytem!
+p3593
+ssg578
+I3990
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3594
+sg582
+S'OKAZJA Mondeo 2001r Klima 1,8 Benzyna PRZEGLD 05.2018 OC 12.2017 !!'
+p3595
+sg584
+VBieru\u0144 Stary, bieru\u0144sko-l\u0119dzi\u0144ski, \u015al\u0105skie
+p3596
+sa(dp3597
+g550
+(dp3598
+VKolor
+p3599
+VCzarny
+p3600
+sVPoj. silnika
+p3601
+V1 800 cm3
+p3602
+sVMarka
+p3603
+VFord
+p3604
+sVKraj pochodzenia
+p3605
+VPolska
+p3606
+sVRok produkcji
+p3607
+V2008
+p3608
+sVOferta od
+p3609
+VFirmy
+p3610
+sVTyp nadwozia
+p3611
+VKombi
+p3612
+sVPrzebieg
+p3613
+V199 000 km
+p3614
+sVPaliwo
+p3615
+VDiesel
+p3616
+sVMoc silnika
+p3617
+V125 KM
+p3618
+sVSkrzynia biegów
+p3619
+VManualna
+p3620
+sVModel
+p3621
+VMondeo
+p3622
+sVStan techniczny
+p3623
+VUszkodzony
+p3624
+sVFinanse
+p3625
+VKUP to auto z wygodnym kredytem!
+p3626
+ssg578
+I10000
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3627
+sg582
+S'Ford Mondeo Mk4 2008r.'
+p3628
+sg584
+VWarszawa, Mazowieckie, Praga-Pó\u0142noc
+p3629
+sa(dp3630
+g550
+(dp3631
+VKolor
+p3632
+VZielony
+p3633
+sVPoj. silnika
+p3634
+V1 800 cm3
+p3635
+sVMarka
+p3636
+VFord
+p3637
+sVRok produkcji
+p3638
+V2001
+p3639
+sVOferta od
+p3640
+VOsoby prywatnej
+p3641
+sVTyp nadwozia
+p3642
+VHatchback
+p3643
+sVPrzebieg
+p3644
+V221 108 km
+p3645
+sVPaliwo
+p3646
+VBenzyna
+p3647
+sVSkrzynia biegów
+p3648
+VManualna
+p3649
+sVModel
+p3650
+VMondeo
+p3651
+sVStan techniczny
+p3652
+VNieuszkodzony
+p3653
+sVFinanse
+p3654
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3655
+ssg578
+I5500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3656
+sg582
+S'ford mondeo mk3 2001 ghia 1,8'
+p3657
+sg584
+VJasie\u0144, \u017carski, Lubuskie
+p3658
+sa(dp3659
+g550
+(dp3660
+VKolor
+p3661
+VZielony
+p3662
+sVPoj. silnika
+p3663
+V2 200 cm3
+p3664
+sVMarka
+p3665
+VFord
+p3666
+sVKraj pochodzenia
+p3667
+VSzwajcaria
+p3668
+sVRok produkcji
+p3669
+V2008
+p3670
+sVOferta od
+p3671
+VOsoby prywatnej
+p3672
+sVTyp nadwozia
+p3673
+VKombi
+p3674
+sVPrzebieg
+p3675
+V216 000 km
+p3676
+sVPaliwo
+p3677
+VDiesel
+p3678
+sVMoc silnika
+p3679
+V175 KM
+p3680
+sVSkrzynia biegów
+p3681
+VManualna
+p3682
+sVModel
+p3683
+VMondeo
+p3684
+sVStan techniczny
+p3685
+VNieuszkodzony
+p3686
+sVFinanse
+p3687
+VKUP to auto z wygodnym kredytem!
+p3688
+ssg578
+I25900
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3689
+sg582
+S'ford mondeo Szwajcar bezwypadkowy'
+p3690
+sg584
+VSiedliszcze, che\u0142mski, Lubelskie
+p3691
+sa(dp3692
+g550
+(dp3693
+VKolor
+p3694
+VBia\u0142y
+p3695
+sVPoj. silnika
+p3696
+V2 000 cm3
+p3697
+sVMarka
+p3698
+VFord
+p3699
+sVKraj pochodzenia
+p3700
+VNiemcy
+p3701
+sVRok produkcji
+p3702
+V2001
+p3703
+sVOferta od
+p3704
+VOsoby prywatnej
+p3705
+sVTyp nadwozia
+p3706
+VKombi
+p3707
+sVPrzebieg
+p3708
+V220 000 km
+p3709
+sVPaliwo
+p3710
+VDiesel
+p3711
+sVMoc silnika
+p3712
+V90 KM
+p3713
+sVSkrzynia biegów
+p3714
+VManualna
+p3715
+sVModel
+p3716
+VMondeo
+p3717
+sVStan techniczny
+p3718
+VUszkodzony
+p3719
+sVFinanse
+p3720
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3721
+ssg578
+I2300
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3722
+sg582
+S'Sprzedam forda mondeo 2.0tdci 90km 01r'
+p3723
+sg584
+VPniewy, szamotulski, Wielkopolskie
+p3724
+sa(dp3725
+g550
+(dp3726
+VKolor
+p3727
+VCzerwony
+p3728
+sVPoj. silnika
+p3729
+V1 800 cm3
+p3730
+sVMarka
+p3731
+VFord
+p3732
+sVRok produkcji
+p3733
+V1996
+p3734
+sVOferta od
+p3735
+VOsoby prywatnej
+p3736
+sVTyp nadwozia
+p3737
+VKombi
+p3738
+sVPrzebieg
+p3739
+V250 000 km
+p3740
+sVPaliwo
+p3741
+VLPG
+p3742
+sVSkrzynia biegów
+p3743
+VAutomatyczna
+p3744
+sVModel
+p3745
+VMondeo
+p3746
+sVStan techniczny
+p3747
+VNieuszkodzony
+p3748
+sVFinanse
+p3749
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3750
+ssg578
+I1799
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3751
+sg582
+S'Ford Mondeo mkI automat z gazem'
+p3752
+sg584
+VBia\u0142ystok, Podlaskie, Le\u015bna Dolina
+p3753
+sa(dp3754
+g550
+(dp3755
+VKolor
+p3756
+VSzary
+p3757
+sVPoj. silnika
+p3758
+V2 cm3
+p3759
+sVMarka
+p3760
+VFord
+p3761
+sVKraj pochodzenia
+p3762
+VPolska
+p3763
+sVRok produkcji
+p3764
+V2003
+p3765
+sVOferta od
+p3766
+VOsoby prywatnej
+p3767
+sVTyp nadwozia
+p3768
+VSedan
+p3769
+sVPrzebieg
+p3770
+V322 km
+p3771
+sVPaliwo
+p3772
+VDiesel
+p3773
+sVMoc silnika
+p3774
+V130 KM
+p3775
+sVSkrzynia biegów
+p3776
+VManualna
+p3777
+sVModel
+p3778
+VMondeo
+p3779
+sVStan techniczny
+p3780
+VNieuszkodzony
+p3781
+sVFinanse
+p3782
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3783
+ssg578
+I5950
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3784
+sg582
+S'ford mondeo 2.0 d.'
+p3785
+sg584
+VCz\u0119stochowa, \u015al\u0105skie, Ostatni Grosz
+p3786
+sa(dp3787
+g550
+(dp3788
+VKolor
+p3789
+VCzarny
+p3790
+sVPoj. silnika
+p3791
+V2 000 cm3
+p3792
+sVMarka
+p3793
+VFord
+p3794
+sVKraj pochodzenia
+p3795
+VPolska
+p3796
+sVRok produkcji
+p3797
+V2004
+p3798
+sVOferta od
+p3799
+VOsoby prywatnej
+p3800
+sVTyp nadwozia
+p3801
+VKombi
+p3802
+sVPrzebieg
+p3803
+V305 000 km
+p3804
+sVPaliwo
+p3805
+VDiesel
+p3806
+sVMoc silnika
+p3807
+V130 KM
+p3808
+sVSkrzynia biegów
+p3809
+VManualna
+p3810
+sVModel
+p3811
+VMondeo
+p3812
+sVStan techniczny
+p3813
+VUszkodzony
+p3814
+sVFinanse
+p3815
+VKUP to auto z wygodnym kredytem!
+p3816
+ssg578
+I3900
+sg579
+g580
+(S'\x07\xe1\x05\x04\x00\x00\x00\x00\x00\x00'
+tRp3817
+sg582
+S'FORD MONDEO 2.0 TDCI Sprzedam ,zamienie-.Polski Salon'
+p3818
+sg584
+VBia\u0142ystok, Podlaskie, Piasta II
+p3819
+sa(dp3820
+g550
+(dp3821
+VKolor
+p3822
+VCzarny
+p3823
+sVPoj. silnika
+p3824
+V2 000 cm3
+p3825
+sVMarka
+p3826
+VFord
+p3827
+sVKraj pochodzenia
+p3828
+VNiemcy
+p3829
+sVRok produkcji
+p3830
+V2008
+p3831
+sVOferta od
+p3832
+VOsoby prywatnej
+p3833
+sVTyp nadwozia
+p3834
+VKombi
+p3835
+sVPrzebieg
+p3836
+V179 000 km
+p3837
+sVPaliwo
+p3838
+VDiesel
+p3839
+sVMoc silnika
+p3840
+V163 KM
+p3841
+sVSkrzynia biegów
+p3842
+VManualna
+p3843
+sVModel
+p3844
+VMondeo
+p3845
+sVStan techniczny
+p3846
+VNieuszkodzony
+p3847
+sVFinanse
+p3848
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3849
+ssg578
+I27900
+sg579
+g580
+(S'\x07\xe1\x05\x04\x00\x00\x00\x00\x00\x00'
+tRp3850
+sg582
+S'Ford Mondeo 2.0 Diesel Titanium Convers kombi liczny -May Przebieg'
+p3851
+sg584
+VKatowice, \u015al\u0105skie, Ligota-Panewniki
+p3852
+sa(dp3853
+g550
+(dp3854
+VKolor
+p3855
+VCzarny
+p3856
+sVPoj. silnika
+p3857
+V2 000 cm3
+p3858
+sVMarka
+p3859
+VFord
+p3860
+sVKraj pochodzenia
+p3861
+VNiemcy
+p3862
+sVRok produkcji
+p3863
+V2003
+p3864
+sVOferta od
+p3865
+VOsoby prywatnej
+p3866
+sVTyp nadwozia
+p3867
+VKombi
+p3868
+sVPrzebieg
+p3869
+V294 042 km
+p3870
+sVPaliwo
+p3871
+VDiesel
+p3872
+sVMoc silnika
+p3873
+V131 KM
+p3874
+sVSkrzynia biegów
+p3875
+VManualna
+p3876
+sVModel
+p3877
+VMondeo
+p3878
+sVStan techniczny
+p3879
+VUszkodzony
+p3880
+sVFinanse
+p3881
+VKUP to auto z wygodnym kredytem!
+p3882
+ssg578
+I2555
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3883
+sg582
+S'Ford Mondeo mk3 2003r uszkodzony'
+p3884
+sg584
+VKonin, Wielkopolskie
+p3885
+sa(dp3886
+g550
+(dp3887
+VKolor
+p3888
+VSzary
+p3889
+sVPoj. silnika
+p3890
+V1 800 cm3
+p3891
+sVMarka
+p3892
+VFord
+p3893
+sVRok produkcji
+p3894
+V2008
+p3895
+sVOferta od
+p3896
+VOsoby prywatnej
+p3897
+sVTyp nadwozia
+p3898
+VSedan
+p3899
+sVPrzebieg
+p3900
+V260 000 km
+p3901
+sVPaliwo
+p3902
+VDiesel
+p3903
+sVMoc silnika
+p3904
+V125 KM
+p3905
+sVSkrzynia biegów
+p3906
+VManualna
+p3907
+sVModel
+p3908
+VMondeo
+p3909
+sVStan techniczny
+p3910
+VNieuszkodzony
+p3911
+sVFinanse
+p3912
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p3913
+ssg578
+I22500
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3914
+sg582
+S'Ford Mondeo mk4 Polecam'
+p3915
+sg584
+VJagie\u0142\u0142a, przeworski, Podkarpackie
+p3916
+sa(dp3917
+g550
+(dp3918
+VKolor
+p3919
+VNiebieski
+p3920
+sVPoj. silnika
+p3921
+V2 000 cm3
+p3922
+sVMarka
+p3923
+VFord
+p3924
+sVRok produkcji
+p3925
+V2002
+p3926
+sVOferta od
+p3927
+VOsoby prywatnej
+p3928
+sVTyp nadwozia
+p3929
+VSedan
+p3930
+sVPrzebieg
+p3931
+V269 000 km
+p3932
+sVPaliwo
+p3933
+VDiesel
+p3934
+sVMoc silnika
+p3935
+V130 KM
+p3936
+sVSkrzynia biegów
+p3937
+VManualna
+p3938
+sVModel
+p3939
+VMondeo
+p3940
+sVStan techniczny
+p3941
+VNieuszkodzony
+p3942
+sVFinanse
+p3943
+VKUP to auto z wygodnym kredytem!
+p3944
+ssg578
+I3690
+sg579
+g580
+(S'\x07\xe1\x05\n\x00\x00\x00\x00\x00\x00'
+tRp3945
+sg582
+S'Ford Mondeo'
+p3946
+sg584
+VGdynia, Pomorskie, Grabówek
+p3947
+sa(dp3948
+g550
+(dp3949
+VKolor
+p3950
+VSrebrny
+p3951
+sVPoj. silnika
+p3952
+V2 000 cm3
+p3953
+sVMarka
+p3954
+VFord
+p3955
+sVKraj pochodzenia
+p3956
+VBelgia
+p3957
+sVRok produkcji
+p3958
+V2002
+p3959
+sVOferta od
+p3960
+VFirmy
+p3961
+sVTyp nadwozia
+p3962
+VKombi
+p3963
+sVPrzebieg
+p3964
+V316 km
+p3965
+sVPaliwo
+p3966
+VDiesel
+p3967
+sVMoc silnika
+p3968
+V130 KM
+p3969
+sVSkrzynia biegów
+p3970
+VManualna
+p3971
+sVModel
+p3972
+VMondeo
+p3973
+sVStan techniczny
+p3974
+VNieuszkodzony
+p3975
+sVFinanse
+p3976
+VKUP to auto z wygodnym kredytem!
+p3977
+ssg578
+I5900
+sg579
+g580
+(S'\x07\xe1\x04\x19\x00\x00\x00\x00\x00\x00'
+tRp3978
+sg582
+S'Ford Mondeo Pierwszy Waciciel'
+p3979
+sg584
+VBorz\u0119ta, my\u015blenicki, Ma\u0142opolskie
+p3980
+sa(dp3981
+g550
+(dp3982
+VKolor
+p3983
+VNiebieski
+p3984
+sVPoj. silnika
+p3985
+V1 988 cm3
+p3986
+sVMarka
+p3987
+VFord
+p3988
+sVKraj pochodzenia
+p3989
+VNiemcy
+p3990
+sVRok produkcji
+p3991
+V1994
+p3992
+sVOferta od
+p3993
+VOsoby prywatnej
+p3994
+sVTyp nadwozia
+p3995
+VHatchback
+p3996
+sVPrzebieg
+p3997
+V250 000 km
+p3998
+sVPaliwo
+p3999
+VBenzyna
+p4000
+sVMoc silnika
+p4001
+V100 KM
+p4002
+sVSkrzynia biegów
+p4003
+VManualna
+p4004
+sVModel
+p4005
+VMondeo
+p4006
+sVStan techniczny
+p4007
+VNieuszkodzony
+p4008
+sVFinanse
+p4009
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4010
+ssg578
+I1300
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4011
+sg582
+S'Ford mondeo mk1 1994r.'
+p4012
+sg584
+VMokra, k\u0142obucki, \u015al\u0105skie
+p4013
+sa(dp4014
+g550
+(dp4015
+VKolor
+p4016
+V\u017bó\u0142ty \u2013 Z\u0142oty
+p4017
+sVPoj. silnika
+p4018
+V1 800 cm3
+p4019
+sVMarka
+p4020
+VFord
+p4021
+sVKraj pochodzenia
+p4022
+VPolska
+p4023
+sVRok produkcji
+p4024
+V2001
+p4025
+sVOferta od
+p4026
+VOsoby prywatnej
+p4027
+sVTyp nadwozia
+p4028
+VHatchback
+p4029
+sVPrzebieg
+p4030
+V220 000 km
+p4031
+sVPaliwo
+p4032
+VBenzyna
+p4033
+sVMoc silnika
+p4034
+V110 KM
+p4035
+sVSkrzynia biegów
+p4036
+VManualna
+p4037
+sVModel
+p4038
+VMondeo
+p4039
+sVStan techniczny
+p4040
+VNieuszkodzony
+p4041
+sVFinanse
+p4042
+VKUP to auto z wygodnym kredytem!
+p4043
+ssg578
+I6300
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4044
+sg582
+S'Ford mondeo mk3'
+p4045
+sg584
+VKo\u015bcian, ko\u015bcia\u0144ski, Wielkopolskie
+p4046
+sa(dp4047
+g550
+(dp4048
+VKolor
+p4049
+VNiebieski
+p4050
+sVPoj. silnika
+p4051
+V1 800 cm3
+p4052
+sVMarka
+p4053
+VFord
+p4054
+sVKraj pochodzenia
+p4055
+VPolska
+p4056
+sVRok produkcji
+p4057
+V1996
+p4058
+sVOferta od
+p4059
+VOsoby prywatnej
+p4060
+sVTyp nadwozia
+p4061
+VSedan
+p4062
+sVPrzebieg
+p4063
+V335 841 km
+p4064
+sVPaliwo
+p4065
+VBenzyna
+p4066
+sVMoc silnika
+p4067
+V100 KM
+p4068
+sVSkrzynia biegów
+p4069
+VManualna
+p4070
+sVModel
+p4071
+VMondeo
+p4072
+sVStan techniczny
+p4073
+VNieuszkodzony
+p4074
+sVFinanse
+p4075
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4076
+ssg578
+I1000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4077
+sg582
+S'okazja ford mondeo'
+p4078
+sg584
+VNowy Tomy\u015bl, nowotomyski, Wielkopolskie
+p4079
+sa(dp4080
+g550
+(dp4081
+VKolor
+p4082
+VNiebieski
+p4083
+sVPoj. silnika
+p4084
+V1 800 cm3
+p4085
+sVMarka
+p4086
+VFord
+p4087
+sVKraj pochodzenia
+p4088
+VNiemcy
+p4089
+sVRok produkcji
+p4090
+V1997
+p4091
+sVOferta od
+p4092
+VOsoby prywatnej
+p4093
+sVTyp nadwozia
+p4094
+VHatchback
+p4095
+sVPrzebieg
+p4096
+V320 000 km
+p4097
+sVPaliwo
+p4098
+VDiesel
+p4099
+sVMoc silnika
+p4100
+V85 KM
+p4101
+sVSkrzynia biegów
+p4102
+VManualna
+p4103
+sVModel
+p4104
+VMondeo
+p4105
+sVStan techniczny
+p4106
+VNieuszkodzony
+p4107
+sVFinanse
+p4108
+VKUP to auto z wygodnym kredytem!
+p4109
+ssg578
+I1900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4110
+sg582
+S'Ford mondeo 1.8 td'
+p4111
+sg584
+VLewin Brzeski, brzeski, Opolskie
+p4112
+sa(dp4113
+g550
+(dp4114
+VKolor
+p4115
+VCzarny
+p4116
+sVPoj. silnika
+p4117
+V1 998 cm3
+p4118
+sVMarka
+p4119
+VFord
+p4120
+sVKraj pochodzenia
+p4121
+VPolska
+p4122
+sVRok produkcji
+p4123
+V2004
+p4124
+sVOferta od
+p4125
+VOsoby prywatnej
+p4126
+sVTyp nadwozia
+p4127
+VKombi
+p4128
+sVPrzebieg
+p4129
+V380 000 km
+p4130
+sVPaliwo
+p4131
+VDiesel
+p4132
+sVMoc silnika
+p4133
+V130 KM
+p4134
+sVSkrzynia biegów
+p4135
+VManualna
+p4136
+sVModel
+p4137
+VMondeo
+p4138
+sVStan techniczny
+p4139
+VUszkodzony
+p4140
+sVFinanse
+p4141
+VKUP to auto z wygodnym kredytem!
+p4142
+ssg578
+I3500
+sg579
+g580
+(S'\x07\xe1\x04\x12\x00\x00\x00\x00\x00\x00'
+tRp4143
+sg582
+S'Ford Mondeo Mk3 Lift 2.0 TDCI 130km Uszkodzone wtryski'
+p4144
+sg584
+VParczew, parczewski, Lubelskie
+p4145
+sa(dp4146
+g550
+(dp4147
+VKolor
+p4148
+VSrebrny
+p4149
+sVPoj. silnika
+p4150
+V1 997 cm3
+p4151
+sVMarka
+p4152
+VFord
+p4153
+sVKraj pochodzenia
+p4154
+VWielka Brytania
+p4155
+sVRok produkcji
+p4156
+V2012
+p4157
+sVOferta od
+p4158
+VOsoby prywatnej
+p4159
+sVTyp nadwozia
+p4160
+VKombi
+p4161
+sVPrzebieg
+p4162
+V200 000 km
+p4163
+sVPaliwo
+p4164
+VDiesel
+p4165
+sVMoc silnika
+p4166
+V138 KM
+p4167
+sVSkrzynia biegów
+p4168
+VManualna
+p4169
+sVKierownica po prawej (Anglik)
+p4170
+VKierownica po prawej (Anglik)
+p4171
+sVModel
+p4172
+VMondeo
+p4173
+sVStan techniczny
+p4174
+VNieuszkodzony
+p4175
+sVFinanse
+p4176
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4177
+ssg578
+I25000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4178
+sg582
+S'Ford Mondeo Edge TDCI ESTATE 2.0 2012r V5C Anglik'
+p4179
+sg584
+VZdzieszowice, krapkowicki, Opolskie
+p4180
+sa(dp4181
+g550
+(dp4182
+VKolor
+p4183
+VSrebrny
+p4184
+sVPoj. silnika
+p4185
+V2 000 cm3
+p4186
+sVMarka
+p4187
+VFord
+p4188
+sVRok produkcji
+p4189
+V2004
+p4190
+sVOferta od
+p4191
+VOsoby prywatnej
+p4192
+sVTyp nadwozia
+p4193
+VKombi
+p4194
+sVPrzebieg
+p4195
+V298 000 km
+p4196
+sVPaliwo
+p4197
+VDiesel
+p4198
+sVMoc silnika
+p4199
+V115 KM
+p4200
+sVSkrzynia biegów
+p4201
+VManualna
+p4202
+sVModel
+p4203
+VMondeo
+p4204
+sVStan techniczny
+p4205
+VNieuszkodzony
+p4206
+sVFinanse
+p4207
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4208
+ssg578
+I5300
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4209
+sg582
+S'Ford Mondeo mk3'
+p4210
+sg584
+VWielkie Oczy, lubaczowski, Podkarpackie
+p4211
+sa(dp4212
+g550
+(dp4213
+VKolor
+p4214
+VSrebrny
+p4215
+sVPoj. silnika
+p4216
+V1 998 cm3
+p4217
+sVMarka
+p4218
+VFord
+p4219
+sVKraj pochodzenia
+p4220
+VNiemcy
+p4221
+sVRok produkcji
+p4222
+V2002
+p4223
+sVOferta od
+p4224
+VOsoby prywatnej
+p4225
+sVTyp nadwozia
+p4226
+VKombi
+p4227
+sVPrzebieg
+p4228
+V170 000 km
+p4229
+sVPaliwo
+p4230
+VBenzyna
+p4231
+sVMoc silnika
+p4232
+V145 KM
+p4233
+sVSkrzynia biegów
+p4234
+VManualna
+p4235
+sVModel
+p4236
+VMondeo
+p4237
+sVStan techniczny
+p4238
+VUszkodzony
+p4239
+sVFinanse
+p4240
+VKUP to auto z wygodnym kredytem!
+p4241
+ssg578
+I2800
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4242
+sg582
+S'mondeo 2.0 benzyna, 2002 r. kombi Niemiec'
+p4243
+sg584
+VLubin, lubi\u0144ski, Dolno\u015bl\u0105skie
+p4244
+sa(dp4245
+g550
+(dp4246
+VKolor
+p4247
+VCzarny
+p4248
+sVPoj. silnika
+p4249
+V2 000 cm3
+p4250
+sVMarka
+p4251
+VFord
+p4252
+sVKraj pochodzenia
+p4253
+VPolska
+p4254
+sVRok produkcji
+p4255
+V2002
+p4256
+sVOferta od
+p4257
+VOsoby prywatnej
+p4258
+sVTyp nadwozia
+p4259
+VKombi
+p4260
+sVPrzebieg
+p4261
+V235 000 km
+p4262
+sVPaliwo
+p4263
+VDiesel
+p4264
+sVMoc silnika
+p4265
+V130 KM
+p4266
+sVSkrzynia biegów
+p4267
+VManualna
+p4268
+sVModel
+p4269
+VMondeo
+p4270
+sVStan techniczny
+p4271
+VNieuszkodzony
+p4272
+sVFinanse
+p4273
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4274
+ssg578
+I4150
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4275
+sg582
+S'ford mondeo mk3 tdci 130 km'
+p4276
+sg584
+VD\u0105browa Górnicza, \u015al\u0105skie
+p4277
+sa(dp4278
+g550
+(dp4279
+VKolor
+p4280
+V\u017bó\u0142ty \u2013 Z\u0142oty
+p4281
+sVPoj. silnika
+p4282
+V1 800 cm3
+p4283
+sVMarka
+p4284
+VFord
+p4285
+sVKraj pochodzenia
+p4286
+VPolska
+p4287
+sVRok produkcji
+p4288
+V2004
+p4289
+sVOferta od
+p4290
+VOsoby prywatnej
+p4291
+sVTyp nadwozia
+p4292
+VHatchback
+p4293
+sVPrzebieg
+p4294
+V170 000 km
+p4295
+sVPaliwo
+p4296
+VBenzyna
+p4297
+sVSkrzynia biegów
+p4298
+VManualna
+p4299
+sVModel
+p4300
+VMondeo
+p4301
+sVStan techniczny
+p4302
+VNieuszkodzony
+p4303
+sVFinanse
+p4304
+VKUP to auto z wygodnym kredytem!
+p4305
+ssg578
+I9900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4306
+sg582
+S'Sprzedam samochd'
+p4307
+sg584
+VPozna\u0144, Wielkopolskie, Rataje
+p4308
+sa(dp4309
+g550
+(dp4310
+VKolor
+p4311
+VInny kolor
+p4312
+sVPoj. silnika
+p4313
+V1 800 cm3
+p4314
+sVMarka
+p4315
+VFord
+p4316
+sVKraj pochodzenia
+p4317
+VPolska
+p4318
+sVRok produkcji
+p4319
+V1999
+p4320
+sVOferta od
+p4321
+VOsoby prywatnej
+p4322
+sVTyp nadwozia
+p4323
+VKombi
+p4324
+sVPrzebieg
+p4325
+V302 000 km
+p4326
+sVPaliwo
+p4327
+VLPG
+p4328
+sVMoc silnika
+p4329
+V105 KM
+p4330
+sVSkrzynia biegów
+p4331
+VManualna
+p4332
+sVModel
+p4333
+VMondeo
+p4334
+sVStan techniczny
+p4335
+VNieuszkodzony
+p4336
+sVFinanse
+p4337
+VKUP to auto z wygodnym kredytem!
+p4338
+ssg578
+I1500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4339
+sg582
+S'Pilne pilne pilne mondziu w dobre rce'
+p4340
+sg584
+VOborniki, obornicki, Wielkopolskie
+p4341
+sa(dp4342
+g550
+(dp4343
+VKolor
+p4344
+VNiebieski
+p4345
+sVPoj. silnika
+p4346
+V1 800 cm3
+p4347
+sVMarka
+p4348
+VFord
+p4349
+sVKraj pochodzenia
+p4350
+VPolska
+p4351
+sVRok produkcji
+p4352
+V2009
+p4353
+sVOferta od
+p4354
+VOsoby prywatnej
+p4355
+sVTyp nadwozia
+p4356
+VHatchback
+p4357
+sVPrzebieg
+p4358
+V135 000 km
+p4359
+sVPaliwo
+p4360
+VDiesel
+p4361
+sVMoc silnika
+p4362
+V125 KM
+p4363
+sVSkrzynia biegów
+p4364
+VManualna
+p4365
+sVModel
+p4366
+VMondeo
+p4367
+sVStan techniczny
+p4368
+VNieuszkodzony
+p4369
+sVFinanse
+p4370
+VKUP to auto z wygodnym kredytem!
+p4371
+ssg578
+I24900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4372
+sg582
+S'Ford Mondeo 1.8 135tys. km 2009 Bezwypadkowy Salon PL'
+p4373
+sg584
+VBia\u0142ystok, Podlaskie, Bema
+p4374
+sa(dp4375
+g550
+(dp4376
+VKolor
+p4377
+VCzarny
+p4378
+sVPoj. silnika
+p4379
+V1 998 cm3
+p4380
+sVMarka
+p4381
+VFord
+p4382
+sVKraj pochodzenia
+p4383
+VNiemcy
+p4384
+sVRok produkcji
+p4385
+V2003
+p4386
+sVOferta od
+p4387
+VOsoby prywatnej
+p4388
+sVTyp nadwozia
+p4389
+VKombi
+p4390
+sVPrzebieg
+p4391
+V263 000 km
+p4392
+sVPaliwo
+p4393
+VDiesel
+p4394
+sVMoc silnika
+p4395
+V115 KM
+p4396
+sVSkrzynia biegów
+p4397
+VManualna
+p4398
+sVModel
+p4399
+VMondeo
+p4400
+sVStan techniczny
+p4401
+VUszkodzony
+p4402
+sVFinanse
+p4403
+VKUP to auto z wygodnym kredytem!
+p4404
+ssg578
+I2500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4405
+sg582
+S'Ford Mondeo Mk3 2003 uszkodzony - na czci'
+p4406
+sg584
+VP\u0142ock, Mazowieckie
+p4407
+sa(dp4408
+g550
+(dp4409
+VKolor
+p4410
+VCzarny
+p4411
+sVPoj. silnika
+p4412
+V1 800 cm3
+p4413
+sVMarka
+p4414
+VFord
+p4415
+sVKraj pochodzenia
+p4416
+VPolska
+p4417
+sVRok produkcji
+p4418
+V2009
+p4419
+sVOferta od
+p4420
+VOsoby prywatnej
+p4421
+sVTyp nadwozia
+p4422
+VHatchback
+p4423
+sVPrzebieg
+p4424
+V287 000 km
+p4425
+sVPaliwo
+p4426
+VDiesel
+p4427
+sVMoc silnika
+p4428
+V125 KM
+p4429
+sVSkrzynia biegów
+p4430
+VManualna
+p4431
+sVModel
+p4432
+VMondeo
+p4433
+sVStan techniczny
+p4434
+VNieuszkodzony
+p4435
+sVFinanse
+p4436
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4437
+ssg578
+I25400
+sg579
+g580
+(S'\x07\xe1\x05\x07\x00\x00\x00\x00\x00\x00'
+tRp4438
+sg582
+S'Ford Mondeo Mk4 Salon Polska II waciciel, peen serwis'
+p4439
+sg584
+VSkierniewice, \u0141ódzkie
+p4440
+sa(dp4441
+g550
+(dp4442
+VKolor
+p4443
+VInny kolor
+p4444
+sVPoj. silnika
+p4445
+V1 800 cm3
+p4446
+sVMarka
+p4447
+VFord
+p4448
+sVRok produkcji
+p4449
+V2003
+p4450
+sVOferta od
+p4451
+VOsoby prywatnej
+p4452
+sVTyp nadwozia
+p4453
+VKombi
+p4454
+sVPrzebieg
+p4455
+V203 000 km
+p4456
+sVPaliwo
+p4457
+VBenzyna
+p4458
+sVSkrzynia biegów
+p4459
+VManualna
+p4460
+sVModel
+p4461
+VMondeo
+p4462
+sVStan techniczny
+p4463
+VNieuszkodzony
+p4464
+sVFinanse
+p4465
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4466
+ssg578
+I11000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4467
+sg582
+S'Ford Mondeo 1,8 GHIA -d'
+p4468
+sg584
+V\u0141ód\u017a, \u0141ódzkie, Widzew
+p4469
+sa(dp4470
+g550
+(dp4471
+VKolor
+p4472
+VSrebrny
+p4473
+sVPoj. silnika
+p4474
+V1 800 cm3
+p4475
+sVMarka
+p4476
+VFord
+p4477
+sVKraj pochodzenia
+p4478
+VPolska
+p4479
+sVRok produkcji
+p4480
+V2000
+p4481
+sVOferta od
+p4482
+VOsoby prywatnej
+p4483
+sVTyp nadwozia
+p4484
+VKombi
+p4485
+sVPrzebieg
+p4486
+V275 000 km
+p4487
+sVPaliwo
+p4488
+VDiesel
+p4489
+sVMoc silnika
+p4490
+V90 KM
+p4491
+sVSkrzynia biegów
+p4492
+VManualna
+p4493
+sVModel
+p4494
+VMondeo
+p4495
+sVStan techniczny
+p4496
+VNieuszkodzony
+p4497
+sVFinanse
+p4498
+VKUP to auto z wygodnym kredytem!
+p4499
+ssg578
+I3000
+sg579
+g580
+(S'\x07\xe1\x04\x1c\x00\x00\x00\x00\x00\x00'
+tRp4500
+sg582
+S'sprzedam forda mondeo ghia rok 2000'
+p4501
+sg584
+VElbl\u0105g, Warmi\u0144sko-mazurskie
+p4502
+sa(dp4503
+g550
+(dp4504
+VKolor
+p4505
+VZielony
+p4506
+sVPoj. silnika
+p4507
+V1 796 cm3
+p4508
+sVMarka
+p4509
+VFord
+p4510
+sVKraj pochodzenia
+p4511
+VPolska
+p4512
+sVRok produkcji
+p4513
+V1997
+p4514
+sVOferta od
+p4515
+VOsoby prywatnej
+p4516
+sVTyp nadwozia
+p4517
+VSedan
+p4518
+sVPrzebieg
+p4519
+V268 000 km
+p4520
+sVPaliwo
+p4521
+VLPG
+p4522
+sVMoc silnika
+p4523
+V115 KM
+p4524
+sVSkrzynia biegów
+p4525
+VManualna
+p4526
+sVModel
+p4527
+VMondeo
+p4528
+sVStan techniczny
+p4529
+VNieuszkodzony
+p4530
+sVFinanse
+p4531
+VKUP to auto z wygodnym kredytem!
+p4532
+ssg578
+I2300
+sg579
+g580
+(S'\x07\xe1\x05\x04\x00\x00\x00\x00\x00\x00'
+tRp4533
+sg582
+S'MONDEO 1.8 GAZ bez rdzy!nowa butla. klima, abs,bez adnego wkadu'
+p4534
+sg584
+V\u015arem, \u015bremski, Wielkopolskie
+p4535
+sa(dp4536
+g550
+(dp4537
+VKolor
+p4538
+VCzarny
+p4539
+sVPoj. silnika
+p4540
+V2 000 cm3
+p4541
+sVMarka
+p4542
+VFord
+p4543
+sVKraj pochodzenia
+p4544
+VNiemcy
+p4545
+sVRok produkcji
+p4546
+V2010
+p4547
+sVOferta od
+p4548
+VOsoby prywatnej
+p4549
+sVTyp nadwozia
+p4550
+VKombi
+p4551
+sVPrzebieg
+p4552
+V207 km
+p4553
+sVPaliwo
+p4554
+VLPG
+p4555
+sVMoc silnika
+p4556
+V145 KM
+p4557
+sVSkrzynia biegów
+p4558
+VManualna
+p4559
+sVModel
+p4560
+VMondeo
+p4561
+sVStan techniczny
+p4562
+VNieuszkodzony
+p4563
+sVFinanse
+p4564
+VKUP to auto z wygodnym kredytem!
+p4565
+ssg578
+I31900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4566
+sg582
+S'Ford Mondeo mk4 2.0 ben+gaz 2010'
+p4567
+sg584
+VKonstantynów \u0141ódzki, pabianicki, \u0141ódzkie
+p4568
+sa(dp4569
+g550
+(dp4570
+VKolor
+p4571
+VCzarny
+p4572
+sVPoj. silnika
+p4573
+V2 000 cm3
+p4574
+sVMarka
+p4575
+VFord
+p4576
+sVKraj pochodzenia
+p4577
+VPolska
+p4578
+sVRok produkcji
+p4579
+V2006
+p4580
+sVOferta od
+p4581
+VOsoby prywatnej
+p4582
+sVTyp nadwozia
+p4583
+VKombi
+p4584
+sVPrzebieg
+p4585
+V206 615 km
+p4586
+sVPaliwo
+p4587
+VDiesel
+p4588
+sVMoc silnika
+p4589
+V140 KM
+p4590
+sVSkrzynia biegów
+p4591
+VManualna
+p4592
+sVModel
+p4593
+VMondeo
+p4594
+sVStan techniczny
+p4595
+VNieuszkodzony
+p4596
+sVFinanse
+p4597
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4598
+ssg578
+I9000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4599
+sg582
+S'sprzedam'
+p4600
+sg584
+VPozna\u0144, Wielkopolskie, Chartowo
+p4601
+sa(dp4602
+g550
+(dp4603
+VKolor
+p4604
+VCzarny
+p4605
+sVPoj. silnika
+p4606
+V2 000 cm3
+p4607
+sVMarka
+p4608
+VFord
+p4609
+sVKraj pochodzenia
+p4610
+VNiemcy
+p4611
+sVRok produkcji
+p4612
+V2004
+p4613
+sVOferta od
+p4614
+VOsoby prywatnej
+p4615
+sVTyp nadwozia
+p4616
+VKombi
+p4617
+sVPrzebieg
+p4618
+V280 000 km
+p4619
+sVPaliwo
+p4620
+VDiesel
+p4621
+sVMoc silnika
+p4622
+V130 KM
+p4623
+sVSkrzynia biegów
+p4624
+VAutomatyczna
+p4625
+sVModel
+p4626
+VMondeo
+p4627
+sVStan techniczny
+p4628
+VNieuszkodzony
+p4629
+sVFinanse
+p4630
+VKUP to auto z wygodnym kredytem!
+p4631
+ssg578
+I12300
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4632
+sg582
+S'Ford Mondeo 2.0 TDCi Ghia'
+p4633
+sg584
+VLublin, Lubelskie
+p4634
+sa(dp4635
+g550
+(dp4636
+VKolor
+p4637
+VSzary
+p4638
+sVPoj. silnika
+p4639
+V2 000 cm3
+p4640
+sVMarka
+p4641
+VFord
+p4642
+sVKraj pochodzenia
+p4643
+VPolska
+p4644
+sVRok produkcji
+p4645
+V2002
+p4646
+sVOferta od
+p4647
+VOsoby prywatnej
+p4648
+sVTyp nadwozia
+p4649
+VKombi
+p4650
+sVPrzebieg
+p4651
+V220 000 km
+p4652
+sVPaliwo
+p4653
+VDiesel
+p4654
+sVMoc silnika
+p4655
+V130 KM
+p4656
+sVSkrzynia biegów
+p4657
+VManualna
+p4658
+sVModel
+p4659
+VMondeo
+p4660
+sVStan techniczny
+p4661
+VNieuszkodzony
+p4662
+sVFinanse
+p4663
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4664
+ssg578
+I4500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4665
+sg582
+S'Ford Mondeo do jazdy'
+p4666
+sg584
+VKraków, Ma\u0142opolskie, Podgórze Duchackie
+p4667
+sa(dp4668
+g550
+(dp4669
+VKolor
+p4670
+VCzarny
+p4671
+sVPoj. silnika
+p4672
+V2 000 cm3
+p4673
+sVMarka
+p4674
+VFord
+p4675
+sVKraj pochodzenia
+p4676
+VW\u0142ochy
+p4677
+sVRok produkcji
+p4678
+V2001
+p4679
+sVOferta od
+p4680
+VOsoby prywatnej
+p4681
+sVTyp nadwozia
+p4682
+VKombi
+p4683
+sVPrzebieg
+p4684
+V281 000 km
+p4685
+sVPaliwo
+p4686
+VDiesel
+p4687
+sVMoc silnika
+p4688
+V115 KM
+p4689
+sVSkrzynia biegów
+p4690
+VManualna
+p4691
+sVModel
+p4692
+VMondeo
+p4693
+sVStan techniczny
+p4694
+VNieuszkodzony
+p4695
+sVFinanse
+p4696
+VKUP to auto z wygodnym kredytem!
+p4697
+ssg578
+I6500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4698
+sg582
+S'FORD Mondeo 2.0TDDI'
+p4699
+sg584
+VWysoka, wadowicki, Ma\u0142opolskie
+p4700
+sa(dp4701
+g550
+(dp4702
+VKolor
+p4703
+VCzarny
+p4704
+sVMarka
+p4705
+VFord
+p4706
+sVRok produkcji
+p4707
+V1998
+p4708
+sVOferta od
+p4709
+VOsoby prywatnej
+p4710
+sVTyp nadwozia
+p4711
+VHatchback
+p4712
+sVPrzebieg
+p4713
+V281 474 km
+p4714
+sVPaliwo
+p4715
+VBenzyna
+p4716
+sVSkrzynia biegów
+p4717
+VManualna
+p4718
+sVModel
+p4719
+VMondeo
+p4720
+sVStan techniczny
+p4721
+VNieuszkodzony
+p4722
+sVFinanse
+p4723
+VKUP to auto z wygodnym kredytem!
+p4724
+ssg578
+I2200
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4725
+sg582
+S'Ford Mondeo Mk 2'
+p4726
+sg584
+VPolice, policki, Zachodniopomorskie, D\u0105brówka
+p4727
+sa(dp4728
+g550
+(dp4729
+VKolor
+p4730
+VInny kolor
+p4731
+sVPoj. silnika
+p4732
+V1 800 cm3
+p4733
+sVMarka
+p4734
+VFord
+p4735
+sVKraj pochodzenia
+p4736
+VPolska
+p4737
+sVRok produkcji
+p4738
+V2009
+p4739
+sVOferta od
+p4740
+VOsoby prywatnej
+p4741
+sVTyp nadwozia
+p4742
+VKombi
+p4743
+sVPrzebieg
+p4744
+V328 km
+p4745
+sVPaliwo
+p4746
+VDiesel
+p4747
+sVMoc silnika
+p4748
+V125 KM
+p4749
+sVSkrzynia biegów
+p4750
+VManualna
+p4751
+sVModel
+p4752
+VMondeo
+p4753
+sVStan techniczny
+p4754
+VNieuszkodzony
+p4755
+sVFinanse
+p4756
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4757
+ssg578
+I22200
+sg579
+g580
+(S'\x07\xe1\x04\x19\x00\x00\x00\x00\x00\x00'
+tRp4758
+sg582
+S'==Ford Mondeo 1.8TDCI Super stan prywatnie! Zamiana=='
+p4759
+sg584
+VOjrzanów-Towarzystwo, grodziski, Mazowieckie
+p4760
+sa(dp4761
+g550
+(dp4762
+VKolor
+p4763
+VCzarny
+p4764
+sVPoj. silnika
+p4765
+V2 000 cm3
+p4766
+sVMarka
+p4767
+VFord
+p4768
+sVRok produkcji
+p4769
+V2005
+p4770
+sVOferta od
+p4771
+VOsoby prywatnej
+p4772
+sVTyp nadwozia
+p4773
+VKombi
+p4774
+sVPrzebieg
+p4775
+V214 000 km
+p4776
+sVPaliwo
+p4777
+VDiesel
+p4778
+sVMoc silnika
+p4779
+V130 KM
+p4780
+sVSkrzynia biegów
+p4781
+VManualna
+p4782
+sVModel
+p4783
+VMondeo
+p4784
+sVStan techniczny
+p4785
+VNieuszkodzony
+p4786
+sVFinanse
+p4787
+VKUP to auto z wygodnym kredytem!
+p4788
+ssg578
+I9000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4789
+sg582
+S'Ford Mondeo MK3 bogate wyposaenie'
+p4790
+sg584
+VI\u0142awa, i\u0142awski, Warmi\u0144sko-mazurskie
+p4791
+sa(dp4792
+g550
+(dp4793
+VKolor
+p4794
+VInny kolor
+p4795
+sVPoj. silnika
+p4796
+V1 600 cm3
+p4797
+sVMarka
+p4798
+VFord
+p4799
+sVKraj pochodzenia
+p4800
+VPolska
+p4801
+sVRok produkcji
+p4802
+V1994
+p4803
+sVOferta od
+p4804
+VOsoby prywatnej
+p4805
+sVTyp nadwozia
+p4806
+VKombi
+p4807
+sVPrzebieg
+p4808
+V250 000 km
+p4809
+sVPaliwo
+p4810
+VLPG
+p4811
+sVMoc silnika
+p4812
+V90 KM
+p4813
+sVSkrzynia biegów
+p4814
+VManualna
+p4815
+sVModel
+p4816
+VMondeo
+p4817
+sVStan techniczny
+p4818
+VNieuszkodzony
+p4819
+sVFinanse
+p4820
+VKUP to auto z wygodnym kredytem!
+p4821
+ssg578
+I1500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4822
+sg582
+S'Ford Mondeo'
+p4823
+sg584
+VSzubin, nakielski, Kujawsko-pomorskie
+p4824
+sa(dp4825
+g550
+(dp4826
+VKolor
+p4827
+VNiebieski
+p4828
+sVPoj. silnika
+p4829
+V1 800 cm3
+p4830
+sVMarka
+p4831
+VFord
+p4832
+sVKraj pochodzenia
+p4833
+VFrancja
+p4834
+sVRok produkcji
+p4835
+V2008
+p4836
+sVOferta od
+p4837
+VOsoby prywatnej
+p4838
+sVTyp nadwozia
+p4839
+VHatchback
+p4840
+sVPrzebieg
+p4841
+V350 000 km
+p4842
+sVPaliwo
+p4843
+VDiesel
+p4844
+sVMoc silnika
+p4845
+V125 KM
+p4846
+sVSkrzynia biegów
+p4847
+VManualna
+p4848
+sVModel
+p4849
+VMondeo
+p4850
+sVStan techniczny
+p4851
+VNieuszkodzony
+p4852
+sVFinanse
+p4853
+VKUP to auto z wygodnym kredytem!
+p4854
+ssg578
+I19900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4855
+sg582
+S'Sprzedam Forda Mondeo 1,8 TDCI 2008 r'
+p4856
+sg584
+VNowa Sól, nowosolski, Lubuskie
+p4857
+sa(dp4858
+g550
+(dp4859
+VKolor
+p4860
+VSrebrny
+p4861
+sVPoj. silnika
+p4862
+V1 800 cm3
+p4863
+sVMarka
+p4864
+VFord
+p4865
+sVKraj pochodzenia
+p4866
+VPolska
+p4867
+sVRok produkcji
+p4868
+V2002
+p4869
+sVOferta od
+p4870
+VOsoby prywatnej
+p4871
+sVTyp nadwozia
+p4872
+VKombi
+p4873
+sVPrzebieg
+p4874
+V176 000 km
+p4875
+sVPaliwo
+p4876
+VBenzyna
+p4877
+sVMoc silnika
+p4878
+V125 KM
+p4879
+sVSkrzynia biegów
+p4880
+VManualna
+p4881
+sVModel
+p4882
+VMondeo
+p4883
+sVStan techniczny
+p4884
+VNieuszkodzony
+p4885
+sVFinanse
+p4886
+VKUP to auto z wygodnym kredytem!
+p4887
+ssg578
+I6900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4888
+sg582
+S'Ford Mondeo 1,8 Benzyna 1 Waciciel Klimatyzacja'
+p4889
+sg584
+VBytom, \u015al\u0105skie
+p4890
+sa(dp4891
+g550
+(dp4892
+VKolor
+p4893
+VBia\u0142y
+p4894
+sVPoj. silnika
+p4895
+V2 000 cm3
+p4896
+sVMarka
+p4897
+VFord
+p4898
+sVKraj pochodzenia
+p4899
+VPolska
+p4900
+sVRok produkcji
+p4901
+V2001
+p4902
+sVOferta od
+p4903
+VOsoby prywatnej
+p4904
+sVTyp nadwozia
+p4905
+VKombi
+p4906
+sVPrzebieg
+p4907
+V317 000 km
+p4908
+sVPaliwo
+p4909
+VDiesel
+p4910
+sVMoc silnika
+p4911
+V130 KM
+p4912
+sVSkrzynia biegów
+p4913
+VManualna
+p4914
+sVModel
+p4915
+VMondeo
+p4916
+sVStan techniczny
+p4917
+VNieuszkodzony
+p4918
+sVFinanse
+p4919
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p4920
+ssg578
+I2900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4921
+sg582
+S'Ford Mondeo Mk3 2.0 TDDI'
+p4922
+sg584
+VJaworzno, \u015al\u0105skie
+p4923
+sa(dp4924
+g550
+(dp4925
+VKolor
+p4926
+VBia\u0142y
+p4927
+sVPoj. silnika
+p4928
+V1 800 cm3
+p4929
+sVMarka
+p4930
+VFord
+p4931
+sVKraj pochodzenia
+p4932
+VFrancja
+p4933
+sVRok produkcji
+p4934
+V2007
+p4935
+sVOferta od
+p4936
+VOsoby prywatnej
+p4937
+sVTyp nadwozia
+p4938
+VHatchback
+p4939
+sVPrzebieg
+p4940
+V235 km
+p4941
+sVPaliwo
+p4942
+VDiesel
+p4943
+sVMoc silnika
+p4944
+V125 KM
+p4945
+sVSkrzynia biegów
+p4946
+VManualna
+p4947
+sVModel
+p4948
+VMondeo
+p4949
+sVStan techniczny
+p4950
+VNieuszkodzony
+p4951
+sVFinanse
+p4952
+VKUP to auto z wygodnym kredytem!
+p4953
+ssg578
+I22750
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4954
+sg582
+S'mondeo 2007 r BIAA PERA zamiana'
+p4955
+sg584
+VJugowice, wa\u0142brzyski, Dolno\u015bl\u0105skie
+p4956
+sa(dp4957
+g550
+(dp4958
+VKolor
+p4959
+VNiebieski
+p4960
+sVPoj. silnika
+p4961
+V2 000 cm3
+p4962
+sVMarka
+p4963
+VFord
+p4964
+sVRok produkcji
+p4965
+V2010
+p4966
+sVOferta od
+p4967
+VOsoby prywatnej
+p4968
+sVTyp nadwozia
+p4969
+VKombi
+p4970
+sVPrzebieg
+p4971
+V161 000 km
+p4972
+sVPaliwo
+p4973
+VBenzyna
+p4974
+sVMoc silnika
+p4975
+V203 KM
+p4976
+sVSkrzynia biegów
+p4977
+VAutomatyczna
+p4978
+sVModel
+p4979
+VMondeo
+p4980
+sVStan techniczny
+p4981
+VNieuszkodzony
+p4982
+sVFinanse
+p4983
+VKUP to auto z wygodnym kredytem!
+p4984
+ssg578
+I41900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp4985
+sg582
+S'Mondeo 2.0 EcoBoost Xenon Navi Skora mozliwa zamiana'
+p4986
+sg584
+VCz\u0119stochowa, \u015al\u0105skie, Parkitka
+p4987
+sa(dp4988
+g550
+(dp4989
+VKolor
+p4990
+VSrebrny
+p4991
+sVPoj. silnika
+p4992
+V1 999 cm3
+p4993
+sVMarka
+p4994
+VFord
+p4995
+sVKraj pochodzenia
+p4996
+VPolska
+p4997
+sVRok produkcji
+p4998
+V2001
+p4999
+sVOferta od
+p5000
+VOsoby prywatnej
+p5001
+sVTyp nadwozia
+p5002
+VHatchback
+p5003
+sVPrzebieg
+p5004
+V258 km
+p5005
+sVPaliwo
+p5006
+VLPG
+p5007
+sVMoc silnika
+p5008
+V147 KM
+p5009
+sVSkrzynia biegów
+p5010
+VManualna
+p5011
+sVModel
+p5012
+VMondeo
+p5013
+sVStan techniczny
+p5014
+VNieuszkodzony
+p5015
+sVFinanse
+p5016
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5017
+ssg578
+I7000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5018
+sg582
+S'sprzedam forda mondeo'
+p5019
+sg584
+VCzelad\u017a, b\u0119dzi\u0144ski, \u015al\u0105skie, \u015aródmie\u015bcie
+p5020
+sa(dp5021
+g550
+(dp5022
+VKolor
+p5023
+VNiebieski
+p5024
+sVPoj. silnika
+p5025
+V2 000 cm3
+p5026
+sVMarka
+p5027
+VFord
+p5028
+sVKraj pochodzenia
+p5029
+VNiemcy
+p5030
+sVRok produkcji
+p5031
+V2003
+p5032
+sVOferta od
+p5033
+VOsoby prywatnej
+p5034
+sVTyp nadwozia
+p5035
+VKombi
+p5036
+sVPrzebieg
+p5037
+V250 000 km
+p5038
+sVPaliwo
+p5039
+VDiesel
+p5040
+sVMoc silnika
+p5041
+V115 KM
+p5042
+sVSkrzynia biegów
+p5043
+VManualna
+p5044
+sVModel
+p5045
+VMondeo
+p5046
+sVStan techniczny
+p5047
+VNieuszkodzony
+p5048
+sVFinanse
+p5049
+VKUP to auto z wygodnym kredytem!
+p5050
+ssg578
+I4500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5051
+sg582
+S'Ford Mondeo 2,0 115km'
+p5052
+sg584
+VBytom, \u015al\u0105skie
+p5053
+sa(dp5054
+g550
+(dp5055
+VKolor
+p5056
+VInny kolor
+p5057
+sVPoj. silnika
+p5058
+V1 753 cm3
+p5059
+sVMarka
+p5060
+VFord
+p5061
+sVKraj pochodzenia
+p5062
+VFrancja
+p5063
+sVRok produkcji
+p5064
+V2007
+p5065
+sVOferta od
+p5066
+VOsoby prywatnej
+p5067
+sVTyp nadwozia
+p5068
+VHatchback
+p5069
+sVPrzebieg
+p5070
+V203 000 km
+p5071
+sVPaliwo
+p5072
+VDiesel
+p5073
+sVMoc silnika
+p5074
+V125 KM
+p5075
+sVSkrzynia biegów
+p5076
+VManualna
+p5077
+sVModel
+p5078
+VMondeo
+p5079
+sVStan techniczny
+p5080
+VNieuszkodzony
+p5081
+sVFinanse
+p5082
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5083
+ssg578
+I23900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5084
+sg582
+S'Ford Mondeo MK4 prywatnie'
+p5085
+sg584
+VMieroszyno, pucki, Pomorskie
+p5086
+sa(dp5087
+g550
+(dp5088
+VKolor
+p5089
+VSrebrny
+p5090
+sVPoj. silnika
+p5091
+V20 cm3
+p5092
+sVMarka
+p5093
+VFord
+p5094
+sVRok produkcji
+p5095
+V2003
+p5096
+sVOferta od
+p5097
+VOsoby prywatnej
+p5098
+sVTyp nadwozia
+p5099
+VHatchback
+p5100
+sVPrzebieg
+p5101
+V170 564 km
+p5102
+sVPaliwo
+p5103
+VDiesel
+p5104
+sVMoc silnika
+p5105
+V130 KM
+p5106
+sVSkrzynia biegów
+p5107
+VManualna
+p5108
+sVModel
+p5109
+VMondeo
+p5110
+sVStan techniczny
+p5111
+VNieuszkodzony
+p5112
+sVFinanse
+p5113
+VKUP to auto z wygodnym kredytem!
+p5114
+ssg578
+I6800
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5115
+sg582
+S'Sprzedam Forda Mondeo z 2003 r'
+p5116
+sg584
+VDru\u017cbin, podd\u0119bicki, \u0141ódzkie
+p5117
+sa(dp5118
+g550
+(dp5119
+VKolor
+p5120
+VSrebrny
+p5121
+sVPoj. silnika
+p5122
+V2 000 cm3
+p5123
+sVMarka
+p5124
+VFord
+p5125
+sVKraj pochodzenia
+p5126
+VPolska
+p5127
+sVRok produkcji
+p5128
+V2011
+p5129
+sVOferta od
+p5130
+VOsoby prywatnej
+p5131
+sVTyp nadwozia
+p5132
+VSedan
+p5133
+sVPrzebieg
+p5134
+V132 000 km
+p5135
+sVPaliwo
+p5136
+VDiesel
+p5137
+sVMoc silnika
+p5138
+V140 KM
+p5139
+sVSkrzynia biegów
+p5140
+VAutomatyczna
+p5141
+sVModel
+p5142
+VMondeo
+p5143
+sVStan techniczny
+p5144
+VNieuszkodzony
+p5145
+sVFinanse
+p5146
+VKUP to auto z wygodnym kredytem!
+p5147
+ssg578
+I27700
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5148
+sg582
+S'sprzedam ford mondeo'
+p5149
+sg584
+VJarocin, jaroci\u0144ski, Wielkopolskie
+p5150
+sa(dp5151
+g550
+(dp5152
+VKolor
+p5153
+VSrebrny
+p5154
+sVPoj. silnika
+p5155
+V1 800 cm3
+p5156
+sVMarka
+p5157
+VFord
+p5158
+sVKraj pochodzenia
+p5159
+VPolska
+p5160
+sVRok produkcji
+p5161
+V1998
+p5162
+sVOferta od
+p5163
+VOsoby prywatnej
+p5164
+sVTyp nadwozia
+p5165
+VKombi
+p5166
+sVPrzebieg
+p5167
+V220 000 km
+p5168
+sVPaliwo
+p5169
+VBenzyna
+p5170
+sVMoc silnika
+p5171
+V115 KM
+p5172
+sVSkrzynia biegów
+p5173
+VManualna
+p5174
+sVModel
+p5175
+VMondeo
+p5176
+sVStan techniczny
+p5177
+VNieuszkodzony
+p5178
+sVFinanse
+p5179
+VKUP to auto z wygodnym kredytem!
+p5180
+ssg578
+I900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5181
+sg582
+S'Ford mondeo 1.8 benzyna'
+p5182
+sg584
+VKoszalin, Zachodniopomorskie
+p5183
+sa(dp5184
+g550
+(dp5185
+VKolor
+p5186
+VInny kolor
+p5187
+sVPoj. silnika
+p5188
+V2 506 cm3
+p5189
+sVMarka
+p5190
+VFord
+p5191
+sVKraj pochodzenia
+p5192
+VNiemcy
+p5193
+sVRok produkcji
+p5194
+V1997
+p5195
+sVOferta od
+p5196
+VOsoby prywatnej
+p5197
+sVTyp nadwozia
+p5198
+VKombi
+p5199
+sVPrzebieg
+p5200
+V1 560 000 km
+p5201
+sVPaliwo
+p5202
+VBenzyna
+p5203
+sVMoc silnika
+p5204
+V178 KM
+p5205
+sVSkrzynia biegów
+p5206
+VAutomatyczna
+p5207
+sVModel
+p5208
+VMondeo
+p5209
+sVStan techniczny
+p5210
+VNieuszkodzony
+p5211
+sVFinanse
+p5212
+VKUP to auto z wygodnym kredytem!
+p5213
+ssg578
+I1350
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5214
+sg582
+S'Sprzedam Forda Mondeo 2.5 v6'
+p5215
+sg584
+VK\u0119trzyn, k\u0119trzy\u0144ski, Warmi\u0144sko-mazurskie
+p5216
+sa(dp5217
+g550
+(dp5218
+VKolor
+p5219
+VSzary
+p5220
+sVPoj. silnika
+p5221
+V1 800 cm3
+p5222
+sVMarka
+p5223
+VFord
+p5224
+sVKraj pochodzenia
+p5225
+VFrancja
+p5226
+sVRok produkcji
+p5227
+V2001
+p5228
+sVOferta od
+p5229
+VOsoby prywatnej
+p5230
+sVTyp nadwozia
+p5231
+VSedan
+p5232
+sVPrzebieg
+p5233
+V178 000 km
+p5234
+sVPaliwo
+p5235
+VBenzyna
+p5236
+sVMoc silnika
+p5237
+V125 KM
+p5238
+sVSkrzynia biegów
+p5239
+VManualna
+p5240
+sVModel
+p5241
+VMondeo
+p5242
+sVStan techniczny
+p5243
+VNieuszkodzony
+p5244
+sVFinanse
+p5245
+VKUP to auto z wygodnym kredytem!
+p5246
+ssg578
+I5700
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5247
+sg582
+S'Ford Mondeo 1,8i 125km Ghia klima alu 16'
+p5248
+sg584
+VKrotoszyn, krotoszy\u0144ski, Wielkopolskie
+p5249
+sa(dp5250
+g550
+(dp5251
+VKolor
+p5252
+VSrebrny
+p5253
+sVPoj. silnika
+p5254
+V1 800 cm3
+p5255
+sVMarka
+p5256
+VFord
+p5257
+sVKraj pochodzenia
+p5258
+VNiemcy
+p5259
+sVRok produkcji
+p5260
+V2004
+p5261
+sVOferta od
+p5262
+VOsoby prywatnej
+p5263
+sVTyp nadwozia
+p5264
+VHatchback
+p5265
+sVPrzebieg
+p5266
+V215 000 km
+p5267
+sVPaliwo
+p5268
+VBenzyna
+p5269
+sVMoc silnika
+p5270
+V131 KM
+p5271
+sVSkrzynia biegów
+p5272
+VManualna
+p5273
+sVModel
+p5274
+VMondeo
+p5275
+sVStan techniczny
+p5276
+VNieuszkodzony
+p5277
+sVFinanse
+p5278
+VKUP to auto z wygodnym kredytem!
+p5279
+ssg578
+I9950
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5280
+sg582
+S'FORD MONDEO mk3 1.8 benzyna, 2004 dugie opaty'
+p5281
+sg584
+VK\u0119trzyn, k\u0119trzy\u0144ski, Warmi\u0144sko-mazurskie
+p5282
+sa(dp5283
+g550
+(dp5284
+VKolor
+p5285
+V\u017bó\u0142ty \u2013 Z\u0142oty
+p5286
+sVPoj. silnika
+p5287
+V1 800 cm3
+p5288
+sVMarka
+p5289
+VFord
+p5290
+sVKraj pochodzenia
+p5291
+VIrlandia
+p5292
+sVRok produkcji
+p5293
+V2003
+p5294
+sVOferta od
+p5295
+VOsoby prywatnej
+p5296
+sVTyp nadwozia
+p5297
+VKombi
+p5298
+sVPrzebieg
+p5299
+V201 000 km
+p5300
+sVPaliwo
+p5301
+VBenzyna
+p5302
+sVSkrzynia biegów
+p5303
+VManualna
+p5304
+sVModel
+p5305
+VMondeo
+p5306
+sVStan techniczny
+p5307
+VNieuszkodzony
+p5308
+sVFinanse
+p5309
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5310
+ssg578
+I2350
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5311
+sg582
+S'Ford Mondeo Kombi Lift 2003r. 1.8 benzyna'
+p5312
+sg584
+V\u015awidnica, \u015bwidnicki, Dolno\u015bl\u0105skie
+p5313
+sa(dp5314
+g550
+(dp5315
+VKolor
+p5316
+VSrebrny
+p5317
+sVPoj. silnika
+p5318
+V2 000 cm3
+p5319
+sVMarka
+p5320
+VFord
+p5321
+sVKraj pochodzenia
+p5322
+VPolska
+p5323
+sVRok produkcji
+p5324
+V2005
+p5325
+sVOferta od
+p5326
+VOsoby prywatnej
+p5327
+sVTyp nadwozia
+p5328
+VHatchback
+p5329
+sVPrzebieg
+p5330
+V250 000 km
+p5331
+sVPaliwo
+p5332
+VDiesel
+p5333
+sVMoc silnika
+p5334
+V115 KM
+p5335
+sVSkrzynia biegów
+p5336
+VManualna
+p5337
+sVModel
+p5338
+VMondeo
+p5339
+sVStan techniczny
+p5340
+VNieuszkodzony
+p5341
+sVFinanse
+p5342
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5343
+ssg578
+I7900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5344
+sg582
+S'Sprzedam Ford Mondeo 2.0 TDCI'
+p5345
+sg584
+VPszczew, mi\u0119dzyrzecki, Lubuskie
+p5346
+sa(dp5347
+g550
+(dp5348
+VKolor
+p5349
+VSzary
+p5350
+sVPoj. silnika
+p5351
+V1 998 cm3
+p5352
+sVMarka
+p5353
+VFord
+p5354
+sVKraj pochodzenia
+p5355
+VPolska
+p5356
+sVRok produkcji
+p5357
+V2004
+p5358
+sVOferta od
+p5359
+VOsoby prywatnej
+p5360
+sVTyp nadwozia
+p5361
+VHatchback
+p5362
+sVPrzebieg
+p5363
+V270 000 km
+p5364
+sVPaliwo
+p5365
+VDiesel
+p5366
+sVMoc silnika
+p5367
+V130 KM
+p5368
+sVSkrzynia biegów
+p5369
+VManualna
+p5370
+sVModel
+p5371
+VMondeo
+p5372
+sVStan techniczny
+p5373
+VNieuszkodzony
+p5374
+sVFinanse
+p5375
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5376
+ssg578
+I5800
+sg579
+g580
+(S'\x07\xe1\x04\x0b\x00\x00\x00\x00\x00\x00'
+tRp5377
+sg582
+S'PRYWATNIE!! NOWE WTRYSKI! Ford Mondeo MK3 2.0 TDCI, Gotowy Do Jazdy'
+p5378
+sg584
+VZawiercie, zawiercia\u0144ski, \u015al\u0105skie, Centrum
+p5379
+sa(dp5380
+g550
+(dp5381
+VKolor
+p5382
+VCzarny
+p5383
+sVPoj. silnika
+p5384
+V2 000 cm3
+p5385
+sVMarka
+p5386
+VFord
+p5387
+sVRok produkcji
+p5388
+V2003
+p5389
+sVOferta od
+p5390
+VOsoby prywatnej
+p5391
+sVTyp nadwozia
+p5392
+VKombi
+p5393
+sVPrzebieg
+p5394
+V280 km
+p5395
+sVPaliwo
+p5396
+VDiesel
+p5397
+sVSkrzynia biegów
+p5398
+VManualna
+p5399
+sVModel
+p5400
+VMondeo
+p5401
+sVStan techniczny
+p5402
+VNieuszkodzony
+p5403
+sVFinanse
+p5404
+VKUP to auto z wygodnym kredytem!
+p5405
+ssg578
+I5000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5406
+sg582
+S'Ford Mondeo'
+p5407
+sg584
+V\u0141uków, \u0142ukowski, Lubelskie
+p5408
+sa(dp5409
+g550
+(dp5410
+VKolor
+p5411
+VBia\u0142y
+p5412
+sVPoj. silnika
+p5413
+V1 800 cm3
+p5414
+sVMarka
+p5415
+VFord
+p5416
+sVKraj pochodzenia
+p5417
+VNiemcy
+p5418
+sVRok produkcji
+p5419
+V1997
+p5420
+sVOferta od
+p5421
+VOsoby prywatnej
+p5422
+sVTyp nadwozia
+p5423
+VSedan
+p5424
+sVPrzebieg
+p5425
+V221 000 km
+p5426
+sVPaliwo
+p5427
+VBenzyna
+p5428
+sVSkrzynia biegów
+p5429
+VManualna
+p5430
+sVModel
+p5431
+VMondeo
+p5432
+sVStan techniczny
+p5433
+VNieuszkodzony
+p5434
+sVFinanse
+p5435
+VKUP to auto z wygodnym kredytem!
+p5436
+ssg578
+I2100
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5437
+sg582
+S'Ford Mondeo 1.8 16V benzyna'
+p5438
+sg584
+V\u015awierzów, trzebnicki, Dolno\u015bl\u0105skie
+p5439
+sa(dp5440
+g550
+(dp5441
+VKolor
+p5442
+VZielony
+p5443
+sVPoj. silnika
+p5444
+V1 789 cm3
+p5445
+sVMarka
+p5446
+VFord
+p5447
+sVKraj pochodzenia
+p5448
+VNiemcy
+p5449
+sVRok produkcji
+p5450
+V2001
+p5451
+sVOferta od
+p5452
+VOsoby prywatnej
+p5453
+sVTyp nadwozia
+p5454
+VKombi
+p5455
+sVPrzebieg
+p5456
+V167 990 km
+p5457
+sVPaliwo
+p5458
+VBenzyna
+p5459
+sVMoc silnika
+p5460
+V125 KM
+p5461
+sVSkrzynia biegów
+p5462
+VManualna
+p5463
+sVModel
+p5464
+VMondeo
+p5465
+sVStan techniczny
+p5466
+VNieuszkodzony
+p5467
+sVFinanse
+p5468
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5469
+ssg578
+I5900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5470
+sg582
+S'Okazja liczne bez rdzy podgrzewane fotele opacony'
+p5471
+sg584
+VGniezno, gnie\u017anie\u0144ski, Wielkopolskie
+p5472
+sa(dp5473
+g550
+(dp5474
+VKolor
+p5475
+VSzary
+p5476
+sVPoj. silnika
+p5477
+V2 000 cm3
+p5478
+sVMarka
+p5479
+VFord
+p5480
+sVRok produkcji
+p5481
+V2003
+p5482
+sVOferta od
+p5483
+VOsoby prywatnej
+p5484
+sVTyp nadwozia
+p5485
+VSedan
+p5486
+sVPrzebieg
+p5487
+V11 111 km
+p5488
+sVPaliwo
+p5489
+VLPG
+p5490
+sVMoc silnika
+p5491
+V150 KM
+p5492
+sVSkrzynia biegów
+p5493
+VManualna
+p5494
+sVModel
+p5495
+VMondeo
+p5496
+sVStan techniczny
+p5497
+VNieuszkodzony
+p5498
+sVFinanse
+p5499
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5500
+ssg578
+I5700
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5501
+sg582
+S'Sprzedam Ford Mondeo Mk3 2.0 PB LPG'
+p5502
+sg584
+V\u015awi\u0119toch\u0142owice, \u015al\u0105skie
+p5503
+sa(dp5504
+g550
+(dp5505
+VKolor
+p5506
+VInny kolor
+p5507
+sVPoj. silnika
+p5508
+V1 998 cm3
+p5509
+sVMarka
+p5510
+VFord
+p5511
+sVKraj pochodzenia
+p5512
+VPolska
+p5513
+sVRok produkcji
+p5514
+V2003
+p5515
+sVOferta od
+p5516
+VOsoby prywatnej
+p5517
+sVTyp nadwozia
+p5518
+VKombi
+p5519
+sVPrzebieg
+p5520
+V261 000 km
+p5521
+sVPaliwo
+p5522
+VDiesel
+p5523
+sVMoc silnika
+p5524
+V170 KM
+p5525
+sVSkrzynia biegów
+p5526
+VManualna
+p5527
+sVModel
+p5528
+VMondeo
+p5529
+sVStan techniczny
+p5530
+VNieuszkodzony
+p5531
+sVFinanse
+p5532
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5533
+ssg578
+I7000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5534
+sg582
+S'Ford Mondeo Mk3 2.0 TDCI'
+p5535
+sg584
+VKraków, Ma\u0142opolskie, Bronowice
+p5536
+sa(dp5537
+g550
+(dp5538
+VKolor
+p5539
+VSrebrny
+p5540
+sVPoj. silnika
+p5541
+V1 998 cm3
+p5542
+sVMarka
+p5543
+VFord
+p5544
+sVKraj pochodzenia
+p5545
+VHiszpania
+p5546
+sVRok produkcji
+p5547
+V2000
+p5548
+sVOferta od
+p5549
+VOsoby prywatnej
+p5550
+sVTyp nadwozia
+p5551
+VKombi
+p5552
+sVPrzebieg
+p5553
+V247 586 km
+p5554
+sVPaliwo
+p5555
+VLPG
+p5556
+sVMoc silnika
+p5557
+V131 KM
+p5558
+sVSkrzynia biegów
+p5559
+VManualna
+p5560
+sVModel
+p5561
+VMondeo
+p5562
+sVStan techniczny
+p5563
+VNieuszkodzony
+p5564
+sVFinanse
+p5565
+VKUP to auto z wygodnym kredytem!
+p5566
+ssg578
+I1499
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5567
+sg582
+S'Mondeo 2000r GHiA LPG hak kombi climatronic central z pilota'
+p5568
+sg584
+VNowogard, goleniowski, Zachodniopomorskie
+p5569
+sa(dp5570
+g550
+(dp5571
+VKolor
+p5572
+V\u017bó\u0142ty \u2013 Z\u0142oty
+p5573
+sVPoj. silnika
+p5574
+V1 900 cm3
+p5575
+sVMarka
+p5576
+VFord
+p5577
+sVKraj pochodzenia
+p5578
+VPolska
+p5579
+sVRok produkcji
+p5580
+V2006
+p5581
+sVOferta od
+p5582
+VFirmy
+p5583
+sVTyp nadwozia
+p5584
+VKombi
+p5585
+sVPrzebieg
+p5586
+V260 000 km
+p5587
+sVPaliwo
+p5588
+VDiesel
+p5589
+sVMoc silnika
+p5590
+V130 KM
+p5591
+sVSkrzynia biegów
+p5592
+VManualna
+p5593
+sVModel
+p5594
+VMondeo
+p5595
+sVStan techniczny
+p5596
+VNieuszkodzony
+p5597
+sVFinanse
+p5598
+VKUP to auto z wygodnym kredytem!
+p5599
+ssg578
+I7900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5600
+sg582
+S'Ford mondeo radio dotykowe'
+p5601
+sg584
+VStanis\u0142aw Dolny, wadowicki, Ma\u0142opolskie
+p5602
+sa(dp5603
+g550
+(dp5604
+VKolor
+p5605
+VCzarny
+p5606
+sVPoj. silnika
+p5607
+V1 800 cm3
+p5608
+sVMarka
+p5609
+VFord
+p5610
+sVKraj pochodzenia
+p5611
+VNiemcy
+p5612
+sVRok produkcji
+p5613
+V2002
+p5614
+sVOferta od
+p5615
+VOsoby prywatnej
+p5616
+sVTyp nadwozia
+p5617
+VKombi
+p5618
+sVPrzebieg
+p5619
+V225 000 km
+p5620
+sVPaliwo
+p5621
+VBenzyna
+p5622
+sVMoc silnika
+p5623
+V110 KM
+p5624
+sVSkrzynia biegów
+p5625
+VManualna
+p5626
+sVModel
+p5627
+VMondeo
+p5628
+sVStan techniczny
+p5629
+VNieuszkodzony
+p5630
+sVFinanse
+p5631
+VKUP to auto z wygodnym kredytem!
+p5632
+ssg578
+I8600
+sg579
+g580
+(S'\x07\xe1\x04\x1e\x00\x00\x00\x00\x00\x00'
+tRp5633
+sg582
+S'Ford Mondeo MK3 1.8 Benzyna'
+p5634
+sg584
+VOdrow\u0105\u017c, krapkowicki, Opolskie
+p5635
+sa(dp5636
+g550
+(dp5637
+VKolor
+p5638
+VSzary
+p5639
+sVPoj. silnika
+p5640
+V2 000 cm3
+p5641
+sVMarka
+p5642
+VFord
+p5643
+sVKraj pochodzenia
+p5644
+VNiemcy
+p5645
+sVRok produkcji
+p5646
+V2003
+p5647
+sVOferta od
+p5648
+VOsoby prywatnej
+p5649
+sVTyp nadwozia
+p5650
+VKombi
+p5651
+sVPrzebieg
+p5652
+V240 000 km
+p5653
+sVPaliwo
+p5654
+VDiesel
+p5655
+sVMoc silnika
+p5656
+V115 KM
+p5657
+sVSkrzynia biegów
+p5658
+VManualna
+p5659
+sVModel
+p5660
+VMondeo
+p5661
+sVStan techniczny
+p5662
+VUszkodzony
+p5663
+sVFinanse
+p5664
+VKUP to auto z wygodnym kredytem!
+p5665
+ssg578
+I3500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5666
+sg582
+S'Ford Mondeo GHIA 2.0 TDCI 115'
+p5667
+sg584
+VRzeszów, Podkarpackie
+p5668
+sa(dp5669
+g550
+(dp5670
+VKolor
+p5671
+VSrebrny
+p5672
+sVPoj. silnika
+p5673
+V1 980 cm3
+p5674
+sVMarka
+p5675
+VFord
+p5676
+sVKraj pochodzenia
+p5677
+VNiemcy
+p5678
+sVRok produkcji
+p5679
+V2007
+p5680
+sVOferta od
+p5681
+VOsoby prywatnej
+p5682
+sVTyp nadwozia
+p5683
+VKombi
+p5684
+sVPrzebieg
+p5685
+V223 000 km
+p5686
+sVPaliwo
+p5687
+VDiesel
+p5688
+sVMoc silnika
+p5689
+V130 KM
+p5690
+sVSkrzynia biegów
+p5691
+VManualna
+p5692
+sVModel
+p5693
+VMondeo
+p5694
+sVStan techniczny
+p5695
+VNieuszkodzony
+p5696
+sVFinanse
+p5697
+VKUP to auto z wygodnym kredytem!
+p5698
+ssg578
+I17600
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5699
+sg582
+S'Ford Mondeo MK4 2.0'
+p5700
+sg584
+VPabianice, pabianicki, \u0141ódzkie
+p5701
+sa(dp5702
+g550
+(dp5703
+VKolor
+p5704
+VCzarny
+p5705
+sVPoj. silnika
+p5706
+V1 997 cm3
+p5707
+sVMarka
+p5708
+VFord
+p5709
+sVKraj pochodzenia
+p5710
+VNiemcy
+p5711
+sVRok produkcji
+p5712
+V2009
+p5713
+sVOferta od
+p5714
+VOsoby prywatnej
+p5715
+sVTyp nadwozia
+p5716
+VKombi
+p5717
+sVPrzebieg
+p5718
+V223 000 km
+p5719
+sVPaliwo
+p5720
+VDiesel
+p5721
+sVMoc silnika
+p5722
+V140 KM
+p5723
+sVSkrzynia biegów
+p5724
+VManualna
+p5725
+sVModel
+p5726
+VMondeo
+p5727
+sVStan techniczny
+p5728
+VNieuszkodzony
+p5729
+sVFinanse
+p5730
+VKUP to auto z wygodnym kredytem!
+p5731
+ssg578
+I31900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5732
+sg582
+S'Sprzedam Ford Mondeo Turnier 2.0 TDCi Sport'
+p5733
+sg584
+VDobrodzie\u0144, oleski, Opolskie
+p5734
+sa(dp5735
+g550
+(dp5736
+VKolor
+p5737
+VSrebrny
+p5738
+sVPoj. silnika
+p5739
+V2 000 cm3
+p5740
+sVMarka
+p5741
+VFord
+p5742
+sVKraj pochodzenia
+p5743
+VPolska
+p5744
+sVRok produkcji
+p5745
+V2002
+p5746
+sVOferta od
+p5747
+VOsoby prywatnej
+p5748
+sVTyp nadwozia
+p5749
+VKombi
+p5750
+sVPrzebieg
+p5751
+V220 000 km
+p5752
+sVPaliwo
+p5753
+VDiesel
+p5754
+sVMoc silnika
+p5755
+V130 KM
+p5756
+sVSkrzynia biegów
+p5757
+VManualna
+p5758
+sVModel
+p5759
+VMondeo
+p5760
+sVStan techniczny
+p5761
+VNieuszkodzony
+p5762
+sVFinanse
+p5763
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5764
+ssg578
+I10600
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5765
+sg582
+S'Ford Mondeo MK3'
+p5766
+sg584
+VBys\u0142aw, tucholski, Kujawsko-pomorskie
+p5767
+sa(dp5768
+g550
+(dp5769
+VKolor
+p5770
+VCzarny
+p5771
+sVPoj. silnika
+p5772
+V1 997 cm3
+p5773
+sVMarka
+p5774
+VFord
+p5775
+sVKraj pochodzenia
+p5776
+VNiemcy
+p5777
+sVRok produkcji
+p5778
+V2012
+p5779
+sVOferta od
+p5780
+VOsoby prywatnej
+p5781
+sVTyp nadwozia
+p5782
+VKombi
+p5783
+sVPrzebieg
+p5784
+V147 300 km
+p5785
+sVPaliwo
+p5786
+VDiesel
+p5787
+sVMoc silnika
+p5788
+V140 KM
+p5789
+sVSkrzynia biegów
+p5790
+VManualna
+p5791
+sVModel
+p5792
+VMondeo
+p5793
+sVStan techniczny
+p5794
+VNieuszkodzony
+p5795
+sVFinanse
+p5796
+VKUP to auto z wygodnym kredytem!
+p5797
+ssg578
+I39400
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5798
+sg582
+S'motoryzacja samochody osobowe'
+p5799
+sg584
+VKo\u015bcierzyna, ko\u015bcierski, Pomorskie
+p5800
+sa(dp5801
+g550
+(dp5802
+VKolor
+p5803
+VCzarny
+p5804
+sVPoj. silnika
+p5805
+V2 000 cm3
+p5806
+sVMarka
+p5807
+VFord
+p5808
+sVRok produkcji
+p5809
+V2002
+p5810
+sVOferta od
+p5811
+VOsoby prywatnej
+p5812
+sVTyp nadwozia
+p5813
+VKombi
+p5814
+sVPrzebieg
+p5815
+V256 606 km
+p5816
+sVPaliwo
+p5817
+VDiesel
+p5818
+sVMoc silnika
+p5819
+V130 KM
+p5820
+sVSkrzynia biegów
+p5821
+VManualna
+p5822
+sVModel
+p5823
+VMondeo
+p5824
+sVStan techniczny
+p5825
+VNieuszkodzony
+p5826
+sVFinanse
+p5827
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5828
+ssg578
+I4800
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5829
+sg582
+S'FORD mondeo TDCi'
+p5830
+sg584
+VZaklików, stalowowolski, Podkarpackie
+p5831
+sa(dp5832
+g550
+(dp5833
+VKolor
+p5834
+VSrebrny
+p5835
+sVPoj. silnika
+p5836
+V1 998 cm3
+p5837
+sVMarka
+p5838
+VFord
+p5839
+sVKraj pochodzenia
+p5840
+VNiemcy
+p5841
+sVRok produkcji
+p5842
+V2006
+p5843
+sVOferta od
+p5844
+VOsoby prywatnej
+p5845
+sVTyp nadwozia
+p5846
+VKombi
+p5847
+sVPrzebieg
+p5848
+V194 979 km
+p5849
+sVPaliwo
+p5850
+VDiesel
+p5851
+sVMoc silnika
+p5852
+V115 KM
+p5853
+sVSkrzynia biegów
+p5854
+VManualna
+p5855
+sVModel
+p5856
+VMondeo
+p5857
+sVStan techniczny
+p5858
+VNieuszkodzony
+p5859
+sVFinanse
+p5860
+VKUP to auto z wygodnym kredytem!
+p5861
+ssg578
+I8000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5862
+sg582
+S'Ford Mondeo MK3 2006 2.0 TDI Kombi'
+p5863
+sg584
+VWa\u0142brzych, Dolno\u015bl\u0105skie
+p5864
+sa(dp5865
+g550
+(dp5866
+VKolor
+p5867
+VSrebrny
+p5868
+sVPoj. silnika
+p5869
+V1 998 cm3
+p5870
+sVMarka
+p5871
+VFord
+p5872
+sVKraj pochodzenia
+p5873
+VPolska
+p5874
+sVRok produkcji
+p5875
+V2001
+p5876
+sVOferta od
+p5877
+VOsoby prywatnej
+p5878
+sVTyp nadwozia
+p5879
+VKombi
+p5880
+sVPrzebieg
+p5881
+V361 000 km
+p5882
+sVPaliwo
+p5883
+VDiesel
+p5884
+sVMoc silnika
+p5885
+V115 KM
+p5886
+sVSkrzynia biegów
+p5887
+VManualna
+p5888
+sVModel
+p5889
+VMondeo
+p5890
+sVStan techniczny
+p5891
+VNieuszkodzony
+p5892
+sVFinanse
+p5893
+VKUP to auto z wygodnym kredytem!
+p5894
+ssg578
+I5500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5895
+sg582
+S'MONDEO KOMBI TDDi GHIA 8*AirBag Klimatronic Temp'
+p5896
+sg584
+VBydgoszcz, Kujawsko-pomorskie
+p5897
+sa(dp5898
+g550
+(dp5899
+VKolor
+p5900
+VCzarny
+p5901
+sVPoj. silnika
+p5902
+V2 000 cm3
+p5903
+sVMarka
+p5904
+VFord
+p5905
+sVKraj pochodzenia
+p5906
+VPolska
+p5907
+sVRok produkcji
+p5908
+V2001
+p5909
+sVOferta od
+p5910
+VOsoby prywatnej
+p5911
+sVTyp nadwozia
+p5912
+VKombi
+p5913
+sVPrzebieg
+p5914
+V204 000 km
+p5915
+sVPaliwo
+p5916
+VDiesel
+p5917
+sVMoc silnika
+p5918
+V130 KM
+p5919
+sVSkrzynia biegów
+p5920
+VManualna
+p5921
+sVModel
+p5922
+VMondeo
+p5923
+sVStan techniczny
+p5924
+VNieuszkodzony
+p5925
+sVFinanse
+p5926
+VKUP to auto z wygodnym kredytem!
+p5927
+ssg578
+I5599
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5928
+sg582
+S'Ford Mondeo MK III Zadbane auto'
+p5929
+sg584
+VKielce, \u015awi\u0119tokrzyskie
+p5930
+sa(dp5931
+g550
+(dp5932
+VKolor
+p5933
+VNiebieski
+p5934
+sVPoj. silnika
+p5935
+V2 000 cm3
+p5936
+sVMarka
+p5937
+VFord
+p5938
+sVKraj pochodzenia
+p5939
+VHolandia
+p5940
+sVRok produkcji
+p5941
+V2008
+p5942
+sVOferta od
+p5943
+VOsoby prywatnej
+p5944
+sVTyp nadwozia
+p5945
+VKombi
+p5946
+sVPrzebieg
+p5947
+V212 000 km
+p5948
+sVPaliwo
+p5949
+VDiesel
+p5950
+sVMoc silnika
+p5951
+V187 KM
+p5952
+sVSkrzynia biegów
+p5953
+VManualna
+p5954
+sVModel
+p5955
+VMondeo
+p5956
+sVStan techniczny
+p5957
+VNieuszkodzony
+p5958
+sVFinanse
+p5959
+VKUP to auto z wygodnym kredytem!
+p5960
+ssg578
+I28000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5961
+sg582
+S'Ford Mondeo mk4 kombi :)'
+p5962
+sg584
+VCz\u0119stochowa, \u015al\u0105skie, Wyczerpy - Anio\u0142ów
+p5963
+sa(dp5964
+g550
+(dp5965
+VKolor
+p5966
+VInny kolor
+p5967
+sVPoj. silnika
+p5968
+V2 000 cm3
+p5969
+sVMarka
+p5970
+VFord
+p5971
+sVKraj pochodzenia
+p5972
+VNiemcy
+p5973
+sVRok produkcji
+p5974
+V2005
+p5975
+sVOferta od
+p5976
+VOsoby prywatnej
+p5977
+sVTyp nadwozia
+p5978
+VKombi
+p5979
+sVPrzebieg
+p5980
+V316 000 km
+p5981
+sVPaliwo
+p5982
+VDiesel
+p5983
+sVMoc silnika
+p5984
+V115 KM
+p5985
+sVSkrzynia biegów
+p5986
+VManualna
+p5987
+sVModel
+p5988
+VMondeo
+p5989
+sVStan techniczny
+p5990
+VNieuszkodzony
+p5991
+sVFinanse
+p5992
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p5993
+ssg578
+I3600
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp5994
+sg582
+S'Ford mondeo bez rdzy'
+p5995
+sg584
+VJózefów, otwocki, Mazowieckie, Dzieciakowo
+p5996
+sa(dp5997
+g550
+(dp5998
+VKolor
+p5999
+VCzarny
+p6000
+sVPoj. silnika
+p6001
+V2 495 cm3
+p6002
+sVMarka
+p6003
+VFord
+p6004
+sVKraj pochodzenia
+p6005
+VDania
+p6006
+sVRok produkcji
+p6007
+V2004
+p6008
+sVOferta od
+p6009
+VFirmy
+p6010
+sVTyp nadwozia
+p6011
+VKombi
+p6012
+sVPrzebieg
+p6013
+V240 000 km
+p6014
+sVPaliwo
+p6015
+VBenzyna
+p6016
+sVMoc silnika
+p6017
+V170 KM
+p6018
+sVSkrzynia biegów
+p6019
+VManualna
+p6020
+sVModel
+p6021
+VMondeo
+p6022
+sVStan techniczny
+p6023
+VNieuszkodzony
+p6024
+sVFinanse
+p6025
+VKUP to auto z wygodnym kredytem!
+p6026
+ssg578
+I10900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6027
+sg582
+S'Ford MONDEO 2.6 V6 DuraTec 170KM//Jasna Skra//Czarny//ZAMIANA//Benz'
+p6028
+sg584
+VZamo\u015b\u0107, Lubelskie
+p6029
+sa(dp6030
+g550
+(dp6031
+VKolor
+p6032
+VNiebieski
+p6033
+sVPoj. silnika
+p6034
+V2 000 cm3
+p6035
+sVMarka
+p6036
+VFord
+p6037
+sVRok produkcji
+p6038
+V2001
+p6039
+sVOferta od
+p6040
+VOsoby prywatnej
+p6041
+sVTyp nadwozia
+p6042
+VKombi
+p6043
+sVPrzebieg
+p6044
+V234 km
+p6045
+sVPaliwo
+p6046
+VDiesel
+p6047
+sVMoc silnika
+p6048
+V115 KM
+p6049
+sVSkrzynia biegów
+p6050
+VManualna
+p6051
+sVModel
+p6052
+VMondeo
+p6053
+sVStan techniczny
+p6054
+VNieuszkodzony
+p6055
+sVFinanse
+p6056
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6057
+ssg578
+I3850
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6058
+sg582
+S'Sprzedam lub zamieni Ford Mondeo Kombi TDDI MK3'
+p6059
+sg584
+VK\u0142odzko, k\u0142odzki, Dolno\u015bl\u0105skie
+p6060
+sa(dp6061
+g550
+(dp6062
+VKolor
+p6063
+VInny kolor
+p6064
+sVPoj. silnika
+p6065
+V2 500 cm3
+p6066
+sVMarka
+p6067
+VFord
+p6068
+sVKraj pochodzenia
+p6069
+VNiemcy
+p6070
+sVRok produkcji
+p6071
+V2001
+p6072
+sVOferta od
+p6073
+VOsoby prywatnej
+p6074
+sVTyp nadwozia
+p6075
+VKombi
+p6076
+sVPrzebieg
+p6077
+V296 000 km
+p6078
+sVPaliwo
+p6079
+VLPG
+p6080
+sVMoc silnika
+p6081
+V170 KM
+p6082
+sVSkrzynia biegów
+p6083
+VManualna
+p6084
+sVModel
+p6085
+VMondeo
+p6086
+sVStan techniczny
+p6087
+VNieuszkodzony
+p6088
+sVFinanse
+p6089
+VKUP to auto z wygodnym kredytem!
+p6090
+ssg578
+I3600
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6091
+sg582
+S'Ford mondeo mk3'
+p6092
+sg584
+VNieskurzów Stary, opatowski, \u015awi\u0119tokrzyskie
+p6093
+sa(dp6094
+g550
+(dp6095
+VKolor
+p6096
+VSrebrny
+p6097
+sVPoj. silnika
+p6098
+V2 000 cm3
+p6099
+sVMarka
+p6100
+VFord
+p6101
+sVKraj pochodzenia
+p6102
+VNiemcy
+p6103
+sVRok produkcji
+p6104
+V2005
+p6105
+sVOferta od
+p6106
+VOsoby prywatnej
+p6107
+sVTyp nadwozia
+p6108
+VKombi
+p6109
+sVPrzebieg
+p6110
+V240 000 km
+p6111
+sVPaliwo
+p6112
+VDiesel
+p6113
+sVMoc silnika
+p6114
+V131 KM
+p6115
+sVSkrzynia biegów
+p6116
+VManualna
+p6117
+sVModel
+p6118
+VMondeo
+p6119
+sVStan techniczny
+p6120
+VNieuszkodzony
+p6121
+sVFinanse
+p6122
+VKUP to auto z wygodnym kredytem!
+p6123
+ssg578
+I7800
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6124
+sg582
+S'Ford Mondeo MK3 2.0 TDCI 131KM 6-bieg'
+p6125
+sg584
+VMys\u0142owice, \u015al\u0105skie
+p6126
+sa(dp6127
+g550
+(dp6128
+VKolor
+p6129
+VSrebrny
+p6130
+sVPoj. silnika
+p6131
+V2 000 cm3
+p6132
+sVMarka
+p6133
+VFord
+p6134
+sVKraj pochodzenia
+p6135
+VPolska
+p6136
+sVRok produkcji
+p6137
+V2001
+p6138
+sVOferta od
+p6139
+VOsoby prywatnej
+p6140
+sVTyp nadwozia
+p6141
+VKombi
+p6142
+sVPrzebieg
+p6143
+V226 000 km
+p6144
+sVPaliwo
+p6145
+VDiesel
+p6146
+sVMoc silnika
+p6147
+V115 KM
+p6148
+sVSkrzynia biegów
+p6149
+VManualna
+p6150
+sVModel
+p6151
+VMondeo
+p6152
+sVStan techniczny
+p6153
+VNieuszkodzony
+p6154
+sVFinanse
+p6155
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6156
+ssg578
+I4200
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6157
+sg582
+S'Chwilowa rezerwacjaFord mondeo mk3 tddi 115 km'
+p6158
+sg584
+VStargard, stargardzki, Zachodniopomorskie
+p6159
+sa(dp6160
+g550
+(dp6161
+VKolor
+p6162
+VZielony
+p6163
+sVPoj. silnika
+p6164
+V2 500 cm3
+p6165
+sVMarka
+p6166
+VFord
+p6167
+sVKraj pochodzenia
+p6168
+VPolska
+p6169
+sVRok produkcji
+p6170
+V1997
+p6171
+sVOferta od
+p6172
+VOsoby prywatnej
+p6173
+sVTyp nadwozia
+p6174
+VSedan
+p6175
+sVPrzebieg
+p6176
+V235 000 km
+p6177
+sVPaliwo
+p6178
+VLPG
+p6179
+sVMoc silnika
+p6180
+V170 KM
+p6181
+sVSkrzynia biegów
+p6182
+VManualna
+p6183
+sVModel
+p6184
+VMondeo
+p6185
+sVStan techniczny
+p6186
+VNieuszkodzony
+p6187
+sVFinanse
+p6188
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6189
+ssg578
+I2750
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6190
+sg582
+S'Ford Mondeo Mk II 2.5 V6 170 KM'
+p6191
+sg584
+VRusiec, pruszkowski, Mazowieckie
+p6192
+sa(dp6193
+g550
+(dp6194
+VKolor
+p6195
+VCzarny
+p6196
+sVPoj. silnika
+p6197
+V1 800 cm3
+p6198
+sVMarka
+p6199
+VFord
+p6200
+sVKraj pochodzenia
+p6201
+VStany Zjednoczone
+p6202
+sVRok produkcji
+p6203
+V2013
+p6204
+sVOferta od
+p6205
+VOsoby prywatnej
+p6206
+sVTyp nadwozia
+p6207
+VSedan
+p6208
+sVPrzebieg
+p6209
+V126 421 km
+p6210
+sVPaliwo
+p6211
+VBenzyna
+p6212
+sVMoc silnika
+p6213
+V185 KM
+p6214
+sVSkrzynia biegów
+p6215
+VAutomatyczna
+p6216
+sVModel
+p6217
+VMondeo
+p6218
+sVStan techniczny
+p6219
+VUszkodzony
+p6220
+sVFinanse
+p6221
+VKUP to auto z wygodnym kredytem!
+p6222
+ssg578
+I39999
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6223
+sg582
+S'Fusion Skora Navi czesci w cenie'
+p6224
+sg584
+VSiedlce, Mazowieckie
+p6225
+sa(dp6226
+g550
+(dp6227
+VKolor
+p6228
+VInny kolor
+p6229
+sVPoj. silnika
+p6230
+V1 800 cm3
+p6231
+sVMarka
+p6232
+VFord
+p6233
+sVKraj pochodzenia
+p6234
+VNiemcy
+p6235
+sVRok produkcji
+p6236
+V2004
+p6237
+sVOferta od
+p6238
+VOsoby prywatnej
+p6239
+sVTyp nadwozia
+p6240
+VSedan
+p6241
+sVPrzebieg
+p6242
+V235 000 km
+p6243
+sVPaliwo
+p6244
+VBenzyna
+p6245
+sVMoc silnika
+p6246
+V131 KM
+p6247
+sVSkrzynia biegów
+p6248
+VManualna
+p6249
+sVModel
+p6250
+VMondeo
+p6251
+sVStan techniczny
+p6252
+VNieuszkodzony
+p6253
+sVFinanse
+p6254
+VKUP to auto z wygodnym kredytem!
+p6255
+ssg578
+I9900
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6256
+sg582
+S'Ford MONDEO 1.8 Duratec Ghia'
+p6257
+sg584
+VG\u0142ubczyce, g\u0142ubczycki, Opolskie
+p6258
+sa(dp6259
+g550
+(dp6260
+VKolor
+p6261
+VSrebrny
+p6262
+sVPoj. silnika
+p6263
+V1 800 cm3
+p6264
+sVMarka
+p6265
+VFord
+p6266
+sVKraj pochodzenia
+p6267
+VPolska
+p6268
+sVRok produkcji
+p6269
+V2002
+p6270
+sVOferta od
+p6271
+VOsoby prywatnej
+p6272
+sVTyp nadwozia
+p6273
+VKombi
+p6274
+sVPrzebieg
+p6275
+V300 433 km
+p6276
+sVPaliwo
+p6277
+VBenzyna
+p6278
+sVMoc silnika
+p6279
+V105 KM
+p6280
+sVSkrzynia biegów
+p6281
+VManualna
+p6282
+sVModel
+p6283
+VMondeo
+p6284
+sVStan techniczny
+p6285
+VNieuszkodzony
+p6286
+sVFinanse
+p6287
+VKUP to auto z wygodnym kredytem!
+p6288
+ssg578
+I4300
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6289
+sg582
+S'Ford Mondeo 2002r 1,8 Benzyna MK3 Kombi'
+p6290
+sg584
+VSyców, ole\u015bnicki, Dolno\u015bl\u0105skie
+p6291
+sa(dp6292
+g550
+(dp6293
+VKolor
+p6294
+VZielony
+p6295
+sVPoj. silnika
+p6296
+V1 800 cm3
+p6297
+sVMarka
+p6298
+VFord
+p6299
+sVRok produkcji
+p6300
+V1995
+p6301
+sVOferta od
+p6302
+VOsoby prywatnej
+p6303
+sVTyp nadwozia
+p6304
+VKombi
+p6305
+sVPrzebieg
+p6306
+V300 000 km
+p6307
+sVPaliwo
+p6308
+VDiesel
+p6309
+sVMoc silnika
+p6310
+V90 KM
+p6311
+sVSkrzynia biegów
+p6312
+VManualna
+p6313
+sVModel
+p6314
+VMondeo
+p6315
+sVStan techniczny
+p6316
+VNieuszkodzony
+p6317
+sVFinanse
+p6318
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6319
+ssg578
+I1000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6320
+sg582
+S'Ford Mondeo'
+p6321
+sg584
+VMys\u0142aków, \u015bwidnicki, Dolno\u015bl\u0105skie
+p6322
+sa(dp6323
+g550
+(dp6324
+VKolor
+p6325
+VCzarny
+p6326
+sVPoj. silnika
+p6327
+V1 998 cm3
+p6328
+sVMarka
+p6329
+VFord
+p6330
+sVKraj pochodzenia
+p6331
+VBelgia
+p6332
+sVRok produkcji
+p6333
+V2006
+p6334
+sVOferta od
+p6335
+VOsoby prywatnej
+p6336
+sVTyp nadwozia
+p6337
+VKombi
+p6338
+sVPrzebieg
+p6339
+V237 000 km
+p6340
+sVPaliwo
+p6341
+VDiesel
+p6342
+sVMoc silnika
+p6343
+V116 KM
+p6344
+sVSkrzynia biegów
+p6345
+VManualna
+p6346
+sVModel
+p6347
+VMondeo
+p6348
+sVStan techniczny
+p6349
+VNieuszkodzony
+p6350
+sVFinanse
+p6351
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6352
+ssg578
+I10500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6353
+sg582
+S'Bezwypadkowy Ford Mondeo 2006 r. MK III TDCI 2.0 Diesel'
+p6354
+sg584
+VSiedlce, Mazowieckie
+p6355
+sa(dp6356
+g550
+(dp6357
+VKolor
+p6358
+VInny kolor
+p6359
+sVPoj. silnika
+p6360
+V1 800 cm3
+p6361
+sVMarka
+p6362
+VFord
+p6363
+sVRok produkcji
+p6364
+V1997
+p6365
+sVOferta od
+p6366
+VOsoby prywatnej
+p6367
+sVTyp nadwozia
+p6368
+VKombi
+p6369
+sVPrzebieg
+p6370
+V240 km
+p6371
+sVPaliwo
+p6372
+VBenzyna
+p6373
+sVMoc silnika
+p6374
+V90 KM
+p6375
+sVSkrzynia biegów
+p6376
+VManualna
+p6377
+sVModel
+p6378
+VMondeo
+p6379
+sVStan techniczny
+p6380
+VNieuszkodzony
+p6381
+sVFinanse
+p6382
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6383
+ssg578
+I800
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6384
+sg582
+S'Ford mondeo kombi 97r. 1,8b. 800z z Niemiec'
+p6385
+sg584
+VBogatynia, zgorzelecki, Dolno\u015bl\u0105skie, Markocice
+p6386
+sa(dp6387
+g550
+(dp6388
+VKolor
+p6389
+VCzarny
+p6390
+sVPoj. silnika
+p6391
+V1 988 cm3
+p6392
+sVMarka
+p6393
+VFord
+p6394
+sVKraj pochodzenia
+p6395
+VPolska
+p6396
+sVRok produkcji
+p6397
+V1996
+p6398
+sVOferta od
+p6399
+VOsoby prywatnej
+p6400
+sVTyp nadwozia
+p6401
+VKombi
+p6402
+sVPrzebieg
+p6403
+V423 000 km
+p6404
+sVPaliwo
+p6405
+VLPG
+p6406
+sVMoc silnika
+p6407
+V136 KM
+p6408
+sVSkrzynia biegów
+p6409
+VManualna
+p6410
+sVModel
+p6411
+VMondeo
+p6412
+sVStan techniczny
+p6413
+VNieuszkodzony
+p6414
+sVFinanse
+p6415
+VKUP to auto z wygodnym kredytem!
+p6416
+ssg578
+I1500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6417
+sg582
+S'Sprzedam FORD MONDEO mk1 2.0 16v 1996r +gaz'
+p6418
+sg584
+VJe\u017cyczki, s\u0142awie\u0144ski, Zachodniopomorskie
+p6419
+sa(dp6420
+g550
+(dp6421
+VKolor
+p6422
+VNiebieski
+p6423
+sVPoj. silnika
+p6424
+V18 cm3
+p6425
+sVMarka
+p6426
+VFord
+p6427
+sVKraj pochodzenia
+p6428
+VPolska
+p6429
+sVRok produkcji
+p6430
+V1999
+p6431
+sVOferta od
+p6432
+VOsoby prywatnej
+p6433
+sVTyp nadwozia
+p6434
+VKombi
+p6435
+sVPrzebieg
+p6436
+V321 798 km
+p6437
+sVPaliwo
+p6438
+VDiesel
+p6439
+sVSkrzynia biegów
+p6440
+VManualna
+p6441
+sVModel
+p6442
+VMondeo
+p6443
+sVStan techniczny
+p6444
+VNieuszkodzony
+p6445
+sVFinanse
+p6446
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6447
+ssg578
+I2400
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6448
+sg582
+S'Ford Mondeo Mk2 1.8 Td'
+p6449
+sg584
+VSzembruk, grudzi\u0105dzki, Kujawsko-pomorskie
+p6450
+sa(dp6451
+g550
+(dp6452
+VKolor
+p6453
+VCzerwony
+p6454
+sVPoj. silnika
+p6455
+V2 000 cm3
+p6456
+sVMarka
+p6457
+VFord
+p6458
+sVKraj pochodzenia
+p6459
+VNiemcy
+p6460
+sVRok produkcji
+p6461
+V2001
+p6462
+sVOferta od
+p6463
+VOsoby prywatnej
+p6464
+sVTyp nadwozia
+p6465
+VKombi
+p6466
+sVPrzebieg
+p6467
+V335 000 km
+p6468
+sVPaliwo
+p6469
+VDiesel
+p6470
+sVMoc silnika
+p6471
+V115 KM
+p6472
+sVSkrzynia biegów
+p6473
+VManualna
+p6474
+sVModel
+p6475
+VMondeo
+p6476
+sVStan techniczny
+p6477
+VNieuszkodzony
+p6478
+sVFinanse
+p6479
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6480
+ssg578
+I4200
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6481
+sg582
+S'Ford mondeo mk3 2.0 tddi'
+p6482
+sg584
+VOleszyce, lubaczowski, Podkarpackie
+p6483
+sa(dp6484
+g550
+(dp6485
+VKolor
+p6486
+VSrebrny
+p6487
+sVPoj. silnika
+p6488
+V1 998 cm3
+p6489
+sVMarka
+p6490
+VFord
+p6491
+sVRok produkcji
+p6492
+V2002
+p6493
+sVOferta od
+p6494
+VOsoby prywatnej
+p6495
+sVTyp nadwozia
+p6496
+VKombi
+p6497
+sVPrzebieg
+p6498
+V1 km
+p6499
+sVPaliwo
+p6500
+VDiesel
+p6501
+sVSkrzynia biegów
+p6502
+VManualna
+p6503
+sVModel
+p6504
+VMondeo
+p6505
+sVStan techniczny
+p6506
+VNieuszkodzony
+p6507
+sVFinanse
+p6508
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6509
+ssg578
+I3200
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6510
+sg582
+S'Ford Mondeo MK3 2.0 TDDI 2002 Kombi # Opaty # Klima # Hak # Polecam!'
+p6511
+sg584
+VW\u0142oc\u0142awek, Kujawsko-pomorskie
+p6512
+sa(dp6513
+g550
+(dp6514
+VKolor
+p6515
+VCzerwony
+p6516
+sVPoj. silnika
+p6517
+V1 597 cm3
+p6518
+sVMarka
+p6519
+VFord
+p6520
+sVRok produkcji
+p6521
+V1996
+p6522
+sVOferta od
+p6523
+VFirmy
+p6524
+sVTyp nadwozia
+p6525
+VKombi
+p6526
+sVPrzebieg
+p6527
+V205 000 km
+p6528
+sVPaliwo
+p6529
+VBenzyna
+p6530
+sVMoc silnika
+p6531
+V65 KM
+p6532
+sVSkrzynia biegów
+p6533
+VManualna
+p6534
+sVModel
+p6535
+VMondeo
+p6536
+sVStan techniczny
+p6537
+VNieuszkodzony
+p6538
+sVFinanse
+p6539
+VKUP to auto z wygodnym kredytem!
+p6540
+ssg578
+I1380
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6541
+sg582
+S'Ford Mondeo 1.6'
+p6542
+sg584
+VOzorków, zgierski, \u0141ódzkie
+p6543
+sa(dp6544
+g550
+(dp6545
+VKolor
+p6546
+VInny kolor
+p6547
+sVPoj. silnika
+p6548
+V2 000 cm3
+p6549
+sVMarka
+p6550
+VFord
+p6551
+sVRok produkcji
+p6552
+V2001
+p6553
+sVOferta od
+p6554
+VOsoby prywatnej
+p6555
+sVTyp nadwozia
+p6556
+VHatchback
+p6557
+sVPrzebieg
+p6558
+V314 150 km
+p6559
+sVPaliwo
+p6560
+VDiesel
+p6561
+sVMoc silnika
+p6562
+V115 KM
+p6563
+sVSkrzynia biegów
+p6564
+VManualna
+p6565
+sVModel
+p6566
+VMondeo
+p6567
+sVStan techniczny
+p6568
+VNieuszkodzony
+p6569
+sVFinanse
+p6570
+VKUP to auto z wygodnym kredytem!
+p6571
+ssg578
+I3800
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6572
+sg582
+S'Ford Mondeo 2.0 tddi 115KM 2001r Ghia'
+p6573
+sg584
+VG\u0142ogów, g\u0142ogowski, Dolno\u015bl\u0105skie
+p6574
+sa(dp6575
+g550
+(dp6576
+VKolor
+p6577
+VCzarny
+p6578
+sVPoj. silnika
+p6579
+V2 967 cm3
+p6580
+sVMarka
+p6581
+VFord
+p6582
+sVKraj pochodzenia
+p6583
+VNiemcy
+p6584
+sVRok produkcji
+p6585
+V2002
+p6586
+sVOferta od
+p6587
+VOsoby prywatnej
+p6588
+sVTyp nadwozia
+p6589
+VKombi
+p6590
+sVPrzebieg
+p6591
+V282 000 km
+p6592
+sVPaliwo
+p6593
+VBenzyna
+p6594
+sVMoc silnika
+p6595
+V226 KM
+p6596
+sVSkrzynia biegów
+p6597
+VManualna
+p6598
+sVModel
+p6599
+VMondeo
+p6600
+sVStan techniczny
+p6601
+VNieuszkodzony
+p6602
+sVFinanse
+p6603
+VKUP to auto z wygodnym kredytem!
+p6604
+ssg578
+I14999
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6605
+sg582
+S'ST220 recaro dua navi 226 km'
+p6606
+sg584
+VNowy Dwór Mazowiecki, nowodworski, Mazowieckie
+p6607
+sa(dp6608
+g550
+(dp6609
+VKolor
+p6610
+VNiebieski
+p6611
+sVPoj. silnika
+p6612
+V2 000 cm3
+p6613
+sVMarka
+p6614
+VFord
+p6615
+sVKraj pochodzenia
+p6616
+VPolska
+p6617
+sVRok produkcji
+p6618
+V2006
+p6619
+sVOferta od
+p6620
+VOsoby prywatnej
+p6621
+sVTyp nadwozia
+p6622
+VKombi
+p6623
+sVPrzebieg
+p6624
+V240 000 km
+p6625
+sVPaliwo
+p6626
+VDiesel
+p6627
+sVMoc silnika
+p6628
+V115 KM
+p6629
+sVSkrzynia biegów
+p6630
+VManualna
+p6631
+sVModel
+p6632
+VMondeo
+p6633
+sVStan techniczny
+p6634
+VNieuszkodzony
+p6635
+sVFinanse
+p6636
+VKUP to auto z wygodnym kredytem!
+p6637
+ssg578
+I11500
+sg579
+g580
+(S'\x07\xe1\x05\x02\x00\x00\x00\x00\x00\x00'
+tRp6638
+sg582
+S'***Ford Mondeo 2.0 tdci***'
+p6639
+sg584
+VKobysewo, kartuski, Pomorskie
+p6640
+sa(dp6641
+g550
+(dp6642
+VKolor
+p6643
+VBr\u0105zowy \u2013 Be\u017cowy
+p6644
+sVPoj. silnika
+p6645
+V2 000 cm3
+p6646
+sVMarka
+p6647
+VFord
+p6648
+sVKraj pochodzenia
+p6649
+VPolska
+p6650
+sVRok produkcji
+p6651
+V2002
+p6652
+sVOferta od
+p6653
+VOsoby prywatnej
+p6654
+sVTyp nadwozia
+p6655
+VKombi
+p6656
+sVPrzebieg
+p6657
+V380 000 km
+p6658
+sVPaliwo
+p6659
+VDiesel
+p6660
+sVMoc silnika
+p6661
+V130 KM
+p6662
+sVSkrzynia biegów
+p6663
+VManualna
+p6664
+sVModel
+p6665
+VMondeo
+p6666
+sVStan techniczny
+p6667
+VNieuszkodzony
+p6668
+sVFinanse
+p6669
+VKUP to auto z wygodnym kredytem!
+p6670
+ssg578
+I5500
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6671
+sg582
+S'Ford mondeo mk 3 Bardzo ekonomiczny!!! Sprzedam lub zamieni!!!'
+p6672
+sg584
+VD\u0119bowola, kozienicki, Mazowieckie
+p6673
+sa(dp6674
+g550
+(dp6675
+VKolor
+p6676
+VCzarny
+p6677
+sVPoj. silnika
+p6678
+V2 198 cm3
+p6679
+sVMarka
+p6680
+VFord
+p6681
+sVRok produkcji
+p6682
+V2006
+p6683
+sVOferta od
+p6684
+VOsoby prywatnej
+p6685
+sVTyp nadwozia
+p6686
+VHatchback
+p6687
+sVPrzebieg
+p6688
+V227 437 km
+p6689
+sVPaliwo
+p6690
+VDiesel
+p6691
+sVMoc silnika
+p6692
+V155 KM
+p6693
+sVSkrzynia biegów
+p6694
+VManualna
+p6695
+sVModel
+p6696
+VMondeo
+p6697
+sVStan techniczny
+p6698
+VNieuszkodzony
+p6699
+sVFinanse
+p6700
+VKUP to auto z wygodnym kredytem!
+p6701
+ssg578
+I14900
+sg579
+g580
+(S'\x07\xe1\x04\x0b\x00\x00\x00\x00\x00\x00'
+tRp6702
+sg582
+S'FORD MONDEO MK3, 2006r, 2,2 TDCI, 155KM, wersja GHIA, wane opaty'
+p6703
+sg584
+VMaków, radomski, Mazowieckie
+p6704
+sa(dp6705
+g550
+(dp6706
+VKolor
+p6707
+VBia\u0142y
+p6708
+sVPoj. silnika
+p6709
+V2 000 cm3
+p6710
+sVMarka
+p6711
+VFord
+p6712
+sVKraj pochodzenia
+p6713
+VPolska
+p6714
+sVRok produkcji
+p6715
+V2003
+p6716
+sVOferta od
+p6717
+VOsoby prywatnej
+p6718
+sVTyp nadwozia
+p6719
+VKombi
+p6720
+sVPrzebieg
+p6721
+V2 220 000 km
+p6722
+sVPaliwo
+p6723
+VDiesel
+p6724
+sVMoc silnika
+p6725
+V115 KM
+p6726
+sVSkrzynia biegów
+p6727
+VManualna
+p6728
+sVModel
+p6729
+VMondeo
+p6730
+sVStan techniczny
+p6731
+VNieuszkodzony
+p6732
+sVFinanse
+p6733
+VKUP to auto z wygodnym kredytem!
+p6734
+ssg578
+I5000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6735
+sg582
+S'Ford Mondeo po lifcie 2003'
+p6736
+sg584
+VPozna\u0144, Wielkopolskie, Chartowo
+p6737
+sa(dp6738
+g550
+(dp6739
+VKolor
+p6740
+VCzarny
+p6741
+sVPoj. silnika
+p6742
+V1 800 cm3
+p6743
+sVMarka
+p6744
+VFord
+p6745
+sVKraj pochodzenia
+p6746
+VPolska
+p6747
+sVRok produkcji
+p6748
+V2002
+p6749
+sVOferta od
+p6750
+VOsoby prywatnej
+p6751
+sVTyp nadwozia
+p6752
+VSedan
+p6753
+sVPrzebieg
+p6754
+V222 034 km
+p6755
+sVPaliwo
+p6756
+VBenzyna
+p6757
+sVMoc silnika
+p6758
+V110 KM
+p6759
+sVSkrzynia biegów
+p6760
+VManualna
+p6761
+sVModel
+p6762
+VMondeo
+p6763
+sVStan techniczny
+p6764
+VNieuszkodzony
+p6765
+sVFinanse
+p6766
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6767
+ssg578
+I5000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6768
+sg582
+S'Ford Mondeo MK3'
+p6769
+sg584
+VGorzów Wielkopolski, Lubuskie
+p6770
+sa(dp6771
+g550
+(dp6772
+VKolor
+p6773
+VZielony
+p6774
+sVPoj. silnika
+p6775
+V1 998 cm3
+p6776
+sVMarka
+p6777
+VFord
+p6778
+sVRok produkcji
+p6779
+V2001
+p6780
+sVOferta od
+p6781
+VOsoby prywatnej
+p6782
+sVTyp nadwozia
+p6783
+VKombi
+p6784
+sVPrzebieg
+p6785
+V267 km
+p6786
+sVPaliwo
+p6787
+VDiesel
+p6788
+sVSkrzynia biegów
+p6789
+VManualna
+p6790
+sVModel
+p6791
+VMondeo
+p6792
+sVStan techniczny
+p6793
+VNieuszkodzony
+p6794
+sVFinanse
+p6795
+VKUP to auto z wygodnym kredytem!
+p6796
+ssg578
+I3300
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6797
+sg582
+S'Mondeo Xsenon Klimtronic Ghia Zobacz'
+p6798
+sg584
+VDzier\u017coniów, dzier\u017coniowski, Dolno\u015bl\u0105skie
+p6799
+sa(dp6800
+g550
+(dp6801
+VKolor
+p6802
+VSrebrny
+p6803
+sVPoj. silnika
+p6804
+V2 000 cm3
+p6805
+sVMarka
+p6806
+VFord
+p6807
+sVRok produkcji
+p6808
+V2002
+p6809
+sVOferta od
+p6810
+VOsoby prywatnej
+p6811
+sVTyp nadwozia
+p6812
+VKombi
+p6813
+sVPrzebieg
+p6814
+V247 000 km
+p6815
+sVPaliwo
+p6816
+VLPG
+p6817
+sVMoc silnika
+p6818
+V145 KM
+p6819
+sVSkrzynia biegów
+p6820
+VManualna
+p6821
+sVModel
+p6822
+VMondeo
+p6823
+sVStan techniczny
+p6824
+VNieuszkodzony
+p6825
+sVFinanse
+p6826
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6827
+ssg578
+I2000
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6828
+sg582
+S'Ford Mondeo'
+p6829
+sg584
+VBytom Odrza\u0144ski, nowosolski, Lubuskie
+p6830
+sa(dp6831
+g550
+(dp6832
+VKolor
+p6833
+VSrebrny
+p6834
+sVPoj. silnika
+p6835
+V2 000 cm3
+p6836
+sVMarka
+p6837
+VFord
+p6838
+sVRok produkcji
+p6839
+V2003
+p6840
+sVOferta od
+p6841
+VOsoby prywatnej
+p6842
+sVTyp nadwozia
+p6843
+VSedan
+p6844
+sVPrzebieg
+p6845
+V238 000 km
+p6846
+sVPaliwo
+p6847
+VDiesel
+p6848
+sVMoc silnika
+p6849
+V130 KM
+p6850
+sVSkrzynia biegów
+p6851
+VManualna
+p6852
+sVModel
+p6853
+VMondeo
+p6854
+sVStan techniczny
+p6855
+VNieuszkodzony
+p6856
+sVFinanse
+p6857
+VGOTÓWKA na auto do 50 000 z\u0142 2 »
+p6858
+ssg578
+I8999
+sg579
+g580
+(S'\x07\xe1\x05\t\x00\x00\x00\x00\x00\x00'
+tRp6859
+sg582
+S'Sprzedam Forda Mondeo Ghia'
+p6860
+sg584
+VJ\u0119drzejów, j\u0119drzejowski, \u015awi\u0119tokrzyskie
+p6861
+sat.
