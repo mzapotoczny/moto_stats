@@ -21,11 +21,14 @@ class olxChecker(object):
     baseSearchUrl = 'http://olx.pl/{}'#motoryzacja/motocykle-skutery/?q=er-5'
     offerUrl = 'http://olx.pl/oferta/{}.html'
     offerPreg = None
-    months = [u"stycznia", u"lutego", u"marca", u"kwietnia", u"maja", u"czerwca", u"lipca", u"sierpnia", u"września", u"października", u"listopada", u"grudnia"]
+    months = [u"stycznia", u"lutego", u"marca", u"kwietnia", u"maja",
+              u"czerwca", u"lipca", u"sierpnia", u"września", u"października",
+              u"listopada", u"grudnia"]
     
     def __init__(self, search_path=None, database=None):
         if search_path is None == database is None:
-            raise RuntimeException("Exactly one of the parameters {search_path, database} must by non-empty")
+            raise RuntimeException("""Exactly one of the parameters
+                {search_path, database} must by non-empty")""")
         if search_path is not None:
             self.searchUrl = self.baseSearchUrl.format(search_path) 
             self.offers = {}
@@ -43,8 +46,10 @@ class olxChecker(object):
     def annoucementsForPage(self, page):
         code = BeautifulSoup(self.code(self.pagedSearchUrl(page)), BS4_PARSER)
         links = code.find('table', attrs={'id':'offers_table'})
-        offers = [ x['href'] for x in links.find_all('a', attrs={'class': 'thumb'}) ]
-        offers = [(lambda x: (x.group(1), x.group(2)))(self.offerPreg.search(offer))
+        offers = [ x['href'] for x in
+                    links.find_all('a', attrs={'class': 'thumb'}) ]
+        offers = [(lambda x: (x.group(1), x.group(2)))
+                    (self.offerPreg.search(offer))
                        for offer in offers]
         return offers
     
@@ -66,16 +71,19 @@ class olxChecker(object):
         offers = []
         for page in xrange(1, pagesCount+1):
             page_offers = self.annoucementsForPage(page)
-            olx_offers = [offer[1] for offer in page_offers if offer[0] == 'www.olx.pl']
+            olx_offers = [offer[1] for offer in page_offers
+                                   if offer[0] == 'www.olx.pl']
             logger.info("There are {} offers ({} are not from olx) on page {}"
                     .format(len(page_offers),
                             len(page_offers) - len(olx_offers),
                             page))
             old_offers = [offer in self.offers for offer in olx_offers]
             if all(old_offers):
-                logger.info("All offers from page {} are old, breaking.".format(page))
+                logger.info("All offers from page {} are old, breaking."
+                        .format(page))
                 break
-            offers += [offer for i, offer in enumerate(olx_offers) if not old_offers[i]]
+            offers += [offer for i, offer in enumerate(olx_offers)
+                             if not old_offers[i]]
 
         self.updateOffers(offers)
         return self.offers
@@ -98,7 +106,8 @@ class olxChecker(object):
             try:
                 code,detail = self.offerDetail(offer)
             except:
-                logger.info("Failed to download detail from offer {} (#{})".format(offer,i+1))
+                logger.info("Failed to download detail from offer {} (#{})"
+                        .format(offer,i+1))
             if detail != {}:
                 hsh = detail['photos_hashes']
                 found = False
@@ -116,7 +125,8 @@ class olxChecker(object):
 
     def offerPhotosHash(self, offer=None, code=None):
         if offer is None == code is None:
-            raise RuntimeException("Exactly one of the parameters {offer, code} must by non-empty")
+            raise RuntimeException("""Exactly one of the parameters
+                                      {offer, code} must by non-empty""")
         
         if code is None:
             ourl = self.offerUrl.format(offer)
@@ -125,7 +135,9 @@ class olxChecker(object):
         
         photos_hash = []
         try:
-            images = map((lambda x: x['src']), code.find('div', attrs={'class':'offercontentinner'}).find_all('img', attrs={'class':'bigImage'}))
+            images = map((lambda x: x['src']),
+                    code.find('div', attrs={'class':'offercontentinner'})\
+                        .find_all('img', attrs={'class':'bigImage'}))
             images = list(set(images))
         except:
             images = []
